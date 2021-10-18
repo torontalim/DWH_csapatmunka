@@ -1,0 +1,312 @@
+CREATE DATABASE ASDDW COLLATE SQL_Latin1_General_CP1_CI_AS
+GO
+USE ASDDW;
+
+CREATE SCHEMA STG;
+GO
+
+CREATE TABLE ASDDW.STG.Product (
+	ProductID VARCHAR(256),
+	Name VARCHAR(256),
+	ProductNumber VARCHAR(256),
+	MakeFlag VARCHAR(256),
+	FinishedGoodsFlag VARCHAR(256),
+	Color VARCHAR(256),
+	SafetyStockLevel VARCHAR(256),
+	ReorderPoint VARCHAR(256),
+	StandardCost VARCHAR(256),
+	ListPrice VARCHAR(256),
+	Size VARCHAR(256),
+	SizeUnitMeasureCode VARCHAR(256),
+	WeightUnitMeasureCode VARCHAR(256),
+	Weight VARCHAR(256),
+	DaysToManufacture VARCHAR(256),
+	ProductLine VARCHAR(256),
+	Class VARCHAR(256),
+	Style VARCHAR(256),
+	ProductSubcategoryID VARCHAR(256),
+	ProductModelID VARCHAR(256),
+	SellStartDate VARCHAR(256),
+	SellEndDate VARCHAR(256),
+	DiscontinuedDate VARCHAR(256),
+	rowguid VARCHAR(256),
+	ModifiedDate VARCHAR(256)
+);
+
+CREATE TABLE ASDDW.STG.ProductModel (
+	ProductModelID VARCHAR(256),
+	Name VARCHAR(256),
+	CatalogDescription VARCHAR(256),
+	Instructions VARCHAR(256),
+	rowguid VARCHAR(256),
+	ModifiedDate VARCHAR(256)
+);
+
+CREATE TABLE ASDDW.STG.ProductSubcategory (
+	ProductSubcategoryID VARCHAR(256),
+	ProductCategoryID VARCHAR(256),
+	Name VARCHAR(256),
+	rowguid VARCHAR(256),
+	ModifiedDate VARCHAR(256)
+);
+
+CREATE TABLE ASDDW.STG.ProductCategory (
+	ProductCategoryID VARCHAR(256),
+	Name VARCHAR(256),
+	rowguid VARCHAR(256),
+	ModifiedDate VARCHAR(256)
+);
+
+CREATE TABLE ASDDW.STG.Person (
+	BusinessEntityID VARCHAR(256),
+	PersonType VARCHAR(256),
+	NameStyle VARCHAR(256),
+	Title VARCHAR(256),
+	FirstName VARCHAR(256),
+	MiddleName VARCHAR(256),
+	LastName VARCHAR(256),
+	Suffix VARCHAR(256),
+	EmailPromotions VARCHAR(256),
+	AdditionalContactInfo VARCHAR(256),
+	Demographics VARCHAR(256),
+	rowguid VARCHAR(256),
+	ModifiedDate VARCHAR(256)
+);
+
+CREATE TABLE ASDDW.STG.Employee (
+	BusinessEntityID VARCHAR(256),
+	NationalDNumber VARCHAR(256),
+	LoginID VARCHAR(256),
+	OrganizationNode VARCHAR(256),
+	OrganizationLevel VARCHAR(256),
+	JobTitle VARCHAR(256),
+	BirthDate VARCHAR(256),
+	MaritalStatus VARCHAR(256),
+	Gender VARCHAR(256),
+	HireDate VARCHAR(256),
+	SalarieFlag VARCHAR(256),
+	VacationHours VARCHAR(256),
+	SickLeaveHours VARCHAR(256),
+	CurrentFlag VARCHAR(256),
+	rowguid VARCHAR(256),
+	ModifiedDate VARCHAR(256)
+);
+
+CREATE TABLE ASDDW.STG.Customer (
+	CustomerID VARCHAR(256),
+	PersonID VARCHAR(256),
+	StoreID VARCHAR(256),
+	TerritoryID VARCHAR(256),
+	AccountNumber VARCHAR(256),
+	rowguid VARCHAR(256),
+	ModifiedDate VARCHAR(256)
+);
+
+CREATE TABLE ASDDW.STG.Store (
+	BusinessEntityID VARCHAR(256),
+	Name VARCHAR(256),
+	SalesPersonID VARCHAR(256),
+	Demographics VARCHAR(256),
+	rowguid VARCHAR(256),
+	ModifiedDate VARCHAR(256)
+);
+
+CREATE TABLE ASDDW.STG.SalesTerritory (
+	TerritoryID VARCHAR(256),
+	Name VARCHAR(256),
+	CountryRegionCode VARCHAR(256),
+	Group VARCHAR(256),
+	SalesYTD VARCHAR(256),
+	CostYTD VARCHAR(256),
+	CostLastYear VARCHAR(256),
+	CostYTD VARCHAR(256),
+	rowguid VARCHAR(256),
+	ModifiedDate VARCHAR(256)
+);
+
+CREATE TABLE ASDDW.STG.SalesPerson (
+	BusinessEntityID VARCHAR(256),
+	TerritoryID VARCHAR(256),
+	SalesQuota VARCHAR(256),
+	Bonus VARCHAR(256),
+	CommissionPct VARCHAR(256),
+	SalesYTD VARCHAR(256),
+	SalesLastYear VARCHAR(256),
+	rowguid VARCHAR(256),
+	ModifiedDate VARCHAR(256)
+);
+
+CREATE TABLE ASDDW.STG.SalesOrderHeader (
+	SalesOrderID VARCHAR(256),
+	RevisionNumber VARCHAR(256),
+	OrderDate VARCHAR(256),
+	DueDate VARCHAR(256),
+	ShipDate VARCHAR(256),
+	Status VARCHAR(256),
+	OnlineOrderFlag VARCHAR(256),
+	SalesOrderNumber VARCHAR(256),
+	PurchaseOrderNumber VARCHAR(256),
+	AccountNumber VARCHAR(256),
+	CustomerID VARCHAR(256),
+	SalesPersonID VARCHAR(256),
+	TerritoryID VARCHAR(256),
+	BillToAddressID VARCHAR(256),
+	ShipToAddressID VARCHAR(256),
+	ShipMethodID VARCHAR(256),
+	CreditCardID VARCHAR(256),
+	CreditCardApprovalCode VARCHAR(256),
+	CurrentRateID VARCHAR(256),
+	SubTotal VARCHAR(256),
+	TaxAmt VARCHAR(256),
+	Freight VARCHAR(256),
+	TotalDue VARCHAR(256),
+	Comment VARCHAR(256),
+	rowguid VARCHAR(256),
+	ModifiedDate VARCHAR(256)
+);
+
+CREATE TABLE ASDDW.STG.SalesOrderDetail (
+	SalesOrderID VARCHAR(256),
+	SalesOrderDetailID VARCHAR(256),
+	CarrierTrackingNumber VARCHAR(256),
+	OrderQty VARCHAR(256),
+	ProductID VARCHAR(256),
+	SpecialOfferID VARCHAR(256),
+	UnitPrice VARCHAR(256),
+	UnitPriceDiscount VARCHAR(256),
+	LineTotal VARCHAR(256),
+	rowguid VARCHAR(256),
+	ModifiedDate VARCHAR(256)
+);
+
+CREATE TABLE ASDDW.STG.ShipMethod (
+	ShipMethodID VARCHAR(256),
+	Name VARCHAR(256),
+	ShipBase VARCHAR(256),
+	ShipRate VARCHAR(256),
+	rowguid VARCHAR(256),
+	ModifiedDate VARCHAR(256)
+);
+
+
+CREATE SCHEMA MSTR;
+GO
+
+
+CREATE TABLE ASDDW.MSTR.DimProduct (
+	DimProductID INT,
+	Name VARCHAR(256),
+	ProductNumber INT,
+	Color VARCHAR(256),
+	SafetyStockLevel VARCHAR(256),
+	ReorderPoint VARCHAR(256),
+	StandardCost VARCHAR(256),
+	ListPrice VARCHAR(256),
+	Size VARCHAR(256),
+	Weight VARCHAR(256),
+	DaysToManufacture VARCHAR(256),
+	ProductLine VARCHAR(256),
+	Class VARCHAR(256),
+	Style VARCHAR(256),
+	SRC_ID_ProductSubcategory INT,
+	ProductSubcategoryName VARCHAR(256),
+	SRC_ID_ProductModel INT,
+	ProductModelName VARCHAR(256),
+	SRC_ID_ProductCategory INT,
+	ProductCategoryName VARCHAR(256),
+	SellStartDate DATE,
+	SellEndDate DATE,
+	DiscontinueDate DATE
+);
+
+CREATE TABLE ASDDW.MSTR.DimTerritory (
+	DimTerritoryID INT,
+	Name VARCHAR(256),
+	CountryRegionCode INT,
+	GroupName VARCHAR(256),
+	SalesYTD DECIMAL(12,2),
+	SalesLastYear DECIMAL(12,2),
+	CostYTD DECIMAL(12,2),
+	CostLastYear DECIMAL(12,2)
+);
+
+CREATE TABLE ASDDW.MSTR.DimShipMethod (
+	DimShipMethodID INT,
+	SRC_ID_ShipMethod INT,
+	Name VARCHAR(256)
+);
+
+CREATE TABLE ASDDW.MSTR.DimSalesPerson (
+	DimSalesPersonID INT,
+	SRC_ID_SalesTerritory INT,
+	SalesTerritoryName VARCHAR(50),
+	SalesTerritoryCountryRegionCode VARCHAR(3),
+	SalesTerritoryGroup VARCHAR(50),
+	SalesQuota DECIMAL(12,2),
+	Bonus DECIMAL(12,2),
+	CommissionPct DECIMAL(12,2),
+	SalesYTD DECIMAL(12,2),
+	SalesLastYear DECIMAL(12,2),
+	SRC_ID_Employee INT,
+	EmployeeOrganizationNode INT,
+	EmployeeOrganizationLevel INT,
+	EmployeeJobTitle VARCHAR(50),
+	EmployeeBirthDate DATE,
+	EmployeeMaritalStatus VARCHAR(1),
+	EmployeeGender VARCHAR(1),
+	EmployeeHireDate DATE
+);
+
+CREATE TABLE ASDDW.MSTR.DimCustomer (
+	SRC_ID_Customer INT,
+	AccountNumber VARCHAR(10),
+	SRC_ID_Store INT,
+	StoreName VARCHAR(50),
+	SRC_ID_CustomerTerritory INT,
+	CustomerTerritoryName VARCHAR(50),
+	CustomerTerritoryCountryRegionCode VARCHAR(3),
+	CustomerTerritoryGroup VARCHAR(50),
+	SRC_ID_Person INT,
+	PersonPersonType VARCHAR(2),
+	PersonTitle VARCHAR(8),
+	PersonFirstName VARCHAR(50),
+	PersonMiddleName VARCHAR(50),
+	PersonLastName VARCHAR(50),
+	PersonEmailPromotion INT
+);
+
+CREATE TABLE ASDDW.MSTR.DimDate (
+	DimDateID INT,
+	SRC_ID_Date INT,
+	Year INT,
+	Month INT,
+	Day INT,
+	Quarter INT
+);
+
+CREATE TABLE ASDDW.MSTR.FactSalesOrder (
+	FactSalesOrderID INT,
+	SRC_ID_SalesOrderHeader INT,
+	OnlineOrderingFlag VARCHAR(50),
+	SubTotal DECIMAL(12,2),
+	TaxAmt DECIMAL(12,2),
+	Freaight DECIMAL(12,2),
+	SRC_ID_SalesOrderDetail INT,
+	OrderQty INT,
+	UnitPrice DECIMAL(12,2),
+	UnitPriceDiscount DECIMAL(12,2),
+	LineTotal NUMERIC(38,6),
+	OrderDate DATE,
+	DueDate DATE,
+	ShipDate DATE,
+	DimTerritoryID INT,
+	DimProductID INT,
+	DimSalesPersonID INT,
+	DimCustomerID INT,
+	DimShipMethodID INT,
+	OrderDateID INT,
+	DueDateID INT,
+	ShipDateID INT
+);
+
+	
