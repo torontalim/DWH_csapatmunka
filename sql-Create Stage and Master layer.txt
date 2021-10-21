@@ -118,7 +118,6 @@ CREATE TABLE ASDDW.STG.SalesTerritory (
 	SalesYTD VARCHAR(256),
 	CostYTD VARCHAR(256),
 	CostLastYear VARCHAR(256),
-	CostYTD VARCHAR(256),
 	rowguid VARCHAR(256),
 	ModifiedDate VARCHAR(256)
 );
