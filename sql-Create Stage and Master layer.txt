@@ -115,7 +115,6 @@ CREATE TABLE ASDDW.STG.SalesTerritory (
 	TerritoryID VARCHAR(256),
 	Name VARCHAR(256),
 	CountryRegionCode VARCHAR(256),
-	Group VARCHAR(256),
 	SalesYTD VARCHAR(256),
 	CostYTD VARCHAR(256),
 	CostLastYear VARCHAR(256),
