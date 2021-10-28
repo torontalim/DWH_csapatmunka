@@ -36,8 +36,6 @@ CREATE TABLE ASDDW.STG.Product (
 CREATE TABLE ASDDW.STG.ProductModel (
 	ProductModelID NVARCHAR(256),
 	Name NVARCHAR(256),
-	CatalogDescription NVARCHAR(256),
-	Instructions NVARCHAR(256),
 	rowguid NVARCHAR(256),
 	ModifiedDate NVARCHAR(256)
 );
@@ -67,8 +65,6 @@ CREATE TABLE ASDDW.STG.Person (
 	LastName NVARCHAR(256),
 	Suffix NVARCHAR(256),
 	EmailPromotions NVARCHAR(256),
-	AdditionalContactInfo NVARCHAR(256),
-	Demographics NVARCHAR(256),
 	rowguid NVARCHAR(256),
 	ModifiedDate NVARCHAR(256)
 );
@@ -106,7 +102,6 @@ CREATE TABLE ASDDW.STG.Store (
 	BusinessEntityID NVARCHAR(256),
 	Name NVARCHAR(256),
 	SalesPersonID NVARCHAR(256),
-	Demographics NVARCHAR(256),
 	rowguid NVARCHAR(256),
 	ModifiedDate NVARCHAR(256)
 );
