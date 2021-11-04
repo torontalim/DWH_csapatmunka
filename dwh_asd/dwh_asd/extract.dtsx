@@ -11,32 +11,10 @@
   DTS:LocaleID="1038"
   DTS:ObjectName="extract"
   DTS:PackageType="5"
-  DTS:VersionBuild="32"
-  DTS:VersionGUID="{919037DD-FF72-46E4-B759-BBDB4113CB3E}">
+  DTS:VersionBuild="33"
+  DTS:VersionGUID="{8D5F9F17-0CF1-4565-97B5-7D5CC417E55D}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
-  <DTS:ConnectionManagers>
-    <DTS:ConnectionManager
-      DTS:refId="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
-      DTS:CreationName="OLEDB"
-      DTS:DTSID="{F827BFF0-6709-4996-84A5-CA99450023B3}"
-      DTS:ObjectName="LocalHost.AdventureWorks2017">
-      <DTS:ObjectData>
-        <DTS:ConnectionManager
-          DTS:ConnectionString="Data Source=.;Initial Catalog=AdventureWorks2017;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
-      </DTS:ObjectData>
-    </DTS:ConnectionManager>
-    <DTS:ConnectionManager
-      DTS:refId="Package.ConnectionManagers[LocalHost.ASDDW]"
-      DTS:CreationName="OLEDB"
-      DTS:DTSID="{642AA856-992E-4413-88AE-D80ACEEF304E}"
-      DTS:ObjectName="LocalHost.ASDDW">
-      <DTS:ObjectData>
-        <DTS:ConnectionManager
-          DTS:ConnectionString="Data Source=.;Initial Catalog=ASDDW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
-      </DTS:ObjectData>
-    </DTS:ConnectionManager>
-  </DTS:ConnectionManagers>
   <DTS:Variables />
   <DTS:Executables>
     <DTS:Executable
@@ -104,8 +82,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\Customer.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
+                  connectionManagerID="{F827BFF0-6709-4996-84A5-CA99450023B3}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.AdventureWorks2017]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -324,8 +302,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\Employee.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
+                  connectionManagerID="{F827BFF0-6709-4996-84A5-CA99450023B3}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.AdventureWorks2017]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -718,8 +696,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\Person.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
+                  connectionManagerID="{F827BFF0-6709-4996-84A5-CA99450023B3}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.AdventureWorks2017]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -1058,8 +1036,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\Product.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
+                  connectionManagerID="{F827BFF0-6709-4996-84A5-CA99450023B3}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.AdventureWorks2017]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -1629,8 +1607,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\ProductCategory.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
+                  connectionManagerID="{F827BFF0-6709-4996-84A5-CA99450023B3}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.AdventureWorks2017]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -1792,8 +1770,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\ProductModel.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
+                  connectionManagerID="{F827BFF0-6709-4996-84A5-CA99450023B3}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.AdventureWorks2017]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -1991,8 +1969,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\ProductSubCategory.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
+                  connectionManagerID="{F827BFF0-6709-4996-84A5-CA99450023B3}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.AdventureWorks2017]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -2172,8 +2150,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\SalesOrderDetail.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
+                  connectionManagerID="{F827BFF0-6709-4996-84A5-CA99450023B3}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.AdventureWorks2017]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -2467,8 +2445,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\SalesOrderHeader.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
+                  connectionManagerID="{F827BFF0-6709-4996-84A5-CA99450023B3}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.AdventureWorks2017]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -3041,8 +3019,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\SalesPerson.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
+                  connectionManagerID="{F827BFF0-6709-4996-84A5-CA99450023B3}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.AdventureWorks2017]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -3291,8 +3269,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\SalesTerritory.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
+                  connectionManagerID="{F827BFF0-6709-4996-84A5-CA99450023B3}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.AdventureWorks2017]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -3568,8 +3546,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\ShipMethod.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
+                  connectionManagerID="{F827BFF0-6709-4996-84A5-CA99450023B3}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.AdventureWorks2017]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -3775,8 +3753,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\stg Customer.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.ASDDW]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.ASDDW]"
+                  connectionManagerID="{642AA856-992E-4413-88AE-D80ACEEF304E}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.ASDDW]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -3958,8 +3936,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\stg Employee.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.ASDDW]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.ASDDW]"
+                  connectionManagerID="{642AA856-992E-4413-88AE-D80ACEEF304E}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.ASDDW]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -4230,8 +4208,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\stg Person.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.ASDDW]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.ASDDW]"
+                  connectionManagerID="{642AA856-992E-4413-88AE-D80ACEEF304E}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.ASDDW]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -4460,8 +4438,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\stg Product.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.ASDDW]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.ASDDW]"
+                  connectionManagerID="{642AA856-992E-4413-88AE-D80ACEEF304E}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.ASDDW]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -4849,8 +4827,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\stg ProductCategory.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.ASDDW]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.ASDDW]"
+                  connectionManagerID="{642AA856-992E-4413-88AE-D80ACEEF304E}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.ASDDW]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -4997,8 +4975,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\stg ProductModel.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.ASDDW]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.ASDDW]"
+                  connectionManagerID="{642AA856-992E-4413-88AE-D80ACEEF304E}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.ASDDW]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -5145,8 +5123,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\stg ProductSubCategory.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.ASDDW]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.ASDDW]"
+                  connectionManagerID="{642AA856-992E-4413-88AE-D80ACEEF304E}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.ASDDW]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -5304,8 +5282,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\stg SalesOrderDetail.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.ASDDW]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.ASDDW]"
+                  connectionManagerID="{642AA856-992E-4413-88AE-D80ACEEF304E}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.ASDDW]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -5531,8 +5509,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\stg SalesOrderHeader.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.ASDDW]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.ASDDW]"
+                  connectionManagerID="{642AA856-992E-4413-88AE-D80ACEEF304E}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.ASDDW]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -5921,8 +5899,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\stg SalesPerson.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.ASDDW]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.ASDDW]"
+                  connectionManagerID="{642AA856-992E-4413-88AE-D80ACEEF304E}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.ASDDW]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -6123,8 +6101,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\stg SalesTerritory.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.ASDDW]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.ASDDW]"
+                  connectionManagerID="{642AA856-992E-4413-88AE-D80ACEEF304E}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.ASDDW]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -6316,8 +6294,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\stg ShipMethod.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.ASDDW]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.ASDDW]"
+                  connectionManagerID="{642AA856-992E-4413-88AE-D80ACEEF304E}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.ASDDW]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -6486,8 +6464,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\stg Store.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.ASDDW]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.ASDDW]"
+                  connectionManagerID="{642AA856-992E-4413-88AE-D80ACEEF304E}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.ASDDW]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -6637,8 +6615,8 @@
               <connections>
                 <connection
                   refId="Package\Populate STG LAYER\Store.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
-                  connectionManagerRefId="Package.ConnectionManagers[LocalHost.AdventureWorks2017]"
+                  connectionManagerID="{F827BFF0-6709-4996-84A5-CA99450023B3}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[LocalHost.AdventureWorks2017]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
