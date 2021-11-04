@@ -11,8 +11,8 @@
   DTS:LocaleID="1038"
   DTS:ObjectName="extract"
   DTS:PackageType="5"
-  DTS:VersionBuild="33"
-  DTS:VersionGUID="{8D5F9F17-0CF1-4565-97B5-7D5CC417E55D}">
+  DTS:VersionBuild="34"
+  DTS:VersionGUID="{734016B4-0F62-4E54-A983-5956981E8359}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
@@ -56,7 +56,14 @@
                   dataType="System.String"
                   description="The SQL command to be executed."
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">SELECT  [CustomerID]
+      ,[PersonID]
+      ,[StoreID]
+      ,[TerritoryID]
+      ,CAST([AccountNumber] as nvarchar(256)) as AccountNumber
+      ,[rowguid]
+      ,[ModifiedDate]
+  FROM [AdventureWorks2017].[Sales].[Customer]</property>
                 <property
                   dataType="System.String"
                   description="The variable that contains the SQL command to be executed."
@@ -73,7 +80,7 @@
                   dataType="System.Int32"
                   description="Specifies the mode used to access the database."
                   name="AccessMode"
-                  typeConverter="AccessMode">0</property>
+                  typeConverter="AccessMode">2</property>
                 <property
                   dataType="System.String"
                   description="The mappings between the parameters in the SQL command and variables."
@@ -148,12 +155,11 @@
                       truncationRowDisposition="FailComponent" />
                     <outputColumn
                       refId="Package\Populate STG LAYER\Customer.Outputs[OLE DB Source Output].Columns[AccountNumber]"
-                      codePage="1252"
-                      dataType="str"
+                      dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       externalMetadataColumnId="Package\Populate STG LAYER\Customer.Outputs[OLE DB Source Output].ExternalColumns[AccountNumber]"
-                      length="10"
+                      length="50"
                       lineageId="Package\Populate STG LAYER\Customer.Outputs[OLE DB Source Output].Columns[AccountNumber]"
                       name="AccountNumber"
                       truncationRowDisposition="FailComponent" />
@@ -186,9 +192,8 @@
                       name="TerritoryID" />
                     <externalMetadataColumn
                       refId="Package\Populate STG LAYER\Customer.Outputs[OLE DB Source Output].ExternalColumns[AccountNumber]"
-                      codePage="1252"
-                      dataType="str"
-                      length="10"
+                      dataType="wstr"
+                      length="256"
                       name="AccountNumber" />
                   </externalMetadataColumns>
                 </output>
@@ -219,9 +224,8 @@
                       name="TerritoryID" />
                     <outputColumn
                       refId="Package\Populate STG LAYER\Customer.Outputs[OLE DB Source Error Output].Columns[AccountNumber]"
-                      codePage="1252"
-                      dataType="str"
-                      length="10"
+                      dataType="wstr"
+                      length="256"
                       lineageId="Package\Populate STG LAYER\Customer.Outputs[OLE DB Source Error Output].Columns[AccountNumber]"
                       name="AccountNumber" />
                     <outputColumn
@@ -3804,9 +3808,8 @@
                       lineageId="Package\Populate STG LAYER\Customer.Outputs[OLE DB Source Output].Columns[TerritoryID]" />
                     <inputColumn
                       refId="Package\Populate STG LAYER\stg Customer.Inputs[OLE DB Destination Input].Columns[AccountNumber]"
-                      cachedCodepage="1252"
-                      cachedDataType="str"
-                      cachedLength="10"
+                      cachedDataType="wstr"
+                      cachedLength="50"
                       cachedName="AccountNumber"
                       externalMetadataColumnId="Package\Populate STG LAYER\stg Customer.Inputs[OLE DB Destination Input].ExternalColumns[AccountNumber]"
                       lineageId="Package\Populate STG LAYER\Customer.Outputs[OLE DB Source Output].Columns[AccountNumber]" />
@@ -3835,8 +3838,7 @@
                       name="TerritoryID" />
                     <externalMetadataColumn
                       refId="Package\Populate STG LAYER\stg Customer.Inputs[OLE DB Destination Input].ExternalColumns[AccountNumber]"
-                      codePage="1252"
-                      dataType="str"
+                      dataType="wstr"
                       length="256"
                       name="AccountNumber" />
                     <externalMetadataColumn
@@ -7351,6 +7353,14 @@
         <Name>TableInfoObjectType</Name>
         <Value
           type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Populate STG LAYER\Customer">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
       </Property>
     </Properties>
   </PipelineComponentMetadata>

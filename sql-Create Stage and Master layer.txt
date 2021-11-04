@@ -93,7 +93,7 @@ CREATE TABLE ASDDW.STG.Customer (
 	PersonID NVARCHAR(256),
 	StoreID NVARCHAR(256),
 	TerritoryID NVARCHAR(256),
-	AccountNumber VARCHAR(256),
+	AccountNumber NVARCHAR(256),
 	rowguid NVARCHAR(256),
 	ModifiedDate NVARCHAR(256)
 );
@@ -183,7 +183,6 @@ CREATE TABLE ASDDW.STG.ShipMethod (
 
 
 CREATE SCHEMA MSTR;
-GO
 
 
 CREATE TABLE ASDDW.MSTR.DimProduct (
@@ -232,9 +231,9 @@ CREATE TABLE ASDDW.MSTR.DimShipMethod (
 CREATE TABLE ASDDW.MSTR.DimSalesPerson (
 	DimSalesPersonID INT,
 	SRC_ID_SalesTerritory INT,
-	SalesTerritoryName VARCHAR(50),
-	SalesTerritoryCountryRegionCode VARCHAR(3),
-	SalesTerritoryGroup VARCHAR(50),
+	SalesTerritoryName NVARCHAR(50),
+	SalesTerritoryCountryRegionCode NVARCHAR(3),
+	SalesTerritoryGroup NVARCHAR(50),
 	SalesQuota DECIMAL(12,2),
 	Bonus DECIMAL(12,2),
 	CommissionPct DECIMAL(12,2),
@@ -243,32 +242,35 @@ CREATE TABLE ASDDW.MSTR.DimSalesPerson (
 	SRC_ID_Employee INT,
 	EmployeeOrganizationNode INT,
 	EmployeeOrganizationLevel INT,
-	EmployeeJobTitle VARCHAR(50),
+	EmployeeJobTitle NVARCHAR(50),
 	EmployeeBirthDate DATE,
-	EmployeeMaritalStatus VARCHAR(1),
-	EmployeeGender VARCHAR(1),
+	EmployeeMaritalStatus NVARCHAR(1),
+	EmployeeGender NVARCHAR(1),
 	EmployeeHireDate DATE
 );
 
 CREATE TABLE ASDDW.MSTR.DimCustomer (
 	SRC_ID_Customer INT,
-	AccountNumber VARCHAR(10),
+	AccountNumber NVARCHAR(10),
 	SRC_ID_Store INT,
-	StoreName VARCHAR(50),
+	StoreName NVARCHAR(50),
 	SRC_ID_CustomerTerritory INT,
-	CustomerTerritoryName VARCHAR(50),
-	CustomerTerritoryCountryRegionCode VARCHAR(3),
-	CustomerTerritoryGroup VARCHAR(50),
+	CustomerTerritoryName NVARCHAR(50),
+	CustomerTerritoryCountryRegionCode NVARCHAR(3),
 	SRC_ID_Person INT,
-	PersonPersonType VARCHAR(2),
-	PersonTitle VARCHAR(8),
-	PersonFirstName VARCHAR(50),
-	PersonMiddleName VARCHAR(50),
-	PersonLastName VARCHAR(50),
+	PersonPersonType NVARCHAR(2),
+	PersonTitle NVARCHAR(8),
+	PersonFirstName NVARCHAR(50),
+	PersonMiddleName NVARCHAR(50),
+	PersonLastName NVARCHAR(50),
 	PersonEmailPromotion INT
 );
 
-CREATE TABLE ASDDW.MSTR.DimDate (
+CREATE SCHEMA REP;
+GO
+
+
+CREATE TABLE ASDDW.REP.DimDate (
 	DimDateID INT,
 	SRC_ID_Date INT,
 	Year INT,
@@ -277,10 +279,10 @@ CREATE TABLE ASDDW.MSTR.DimDate (
 	Quarter INT
 );
 
-CREATE TABLE ASDDW.MSTR.FactSalesOrder (
+CREATE TABLE ASDDW.REP.FactSalesOrder (
 	FactSalesOrderID INT,
 	SRC_ID_SalesOrderHeader INT,
-	OnlineOrderingFlag VARCHAR(50),
+	OnlineOrderingFlag NVARCHAR(50),
 	SubTotal DECIMAL(12,2),
 	TaxAmt DECIMAL(12,2),
 	Freaight DECIMAL(12,2),
@@ -302,4 +304,84 @@ CREATE TABLE ASDDW.MSTR.FactSalesOrder (
 	ShipDateID INT
 );
 
-	
+CREATE TABLE ASDDW.REP.DimProduct (
+	DimProductID INT,
+	Name NVARCHAR(256),
+	ProductNumber INT,
+	Color NVARCHAR(256),
+	SafetyStockLevel NVARCHAR(256),
+	ReorderPoint NVARCHAR(256),
+	StandardCost NVARCHAR(256),
+	ListPrice NVARCHAR(256),
+	Size NVARCHAR(256),
+	Weight NVARCHAR(256),
+	DaysToManufacture NVARCHAR(256),
+	ProductLine NVARCHAR(256),
+	Class NVARCHAR(256),
+	Style NVARCHAR(256),
+	SRC_ID_ProductSubcategory INT,
+	ProductSubcategoryName NVARCHAR(256),
+	SRC_ID_ProductModel INT,
+	ProductModelName NVARCHAR(256),
+	SRC_ID_ProductCategory INT,
+	ProductCategoryName NVARCHAR(256),
+	SellStartDate DATE,
+	SellEndDate DATE,
+	DiscontinueDate DATE
+);
+
+CREATE TABLE ASDDW.REP.DimTerritory (
+	DimTerritoryID INT,
+	Name NVARCHAR(256),
+	CountryRegionCode INT,
+	GroupName NVARCHAR(256),
+	SalesYTD DECIMAL(12,2),
+	SalesLastYear DECIMAL(12,2),
+	CostYTD DECIMAL(12,2),
+	CostLastYear DECIMAL(12,2)
+);
+
+CREATE TABLE ASDDW.REP.DimShipMethod (
+	DimShipMethodID INT,
+	SRC_ID_ShipMethod INT,
+	Name NVARCHAR(256)
+);
+
+CREATE TABLE ASDDW.REP.DimSalesPerson (
+	DimSalesPersonID INT,
+	SRC_ID_SalesTerritory INT,
+	SalesTerritoryName NVARCHAR(50),
+	SalesTerritoryCountryRegionCode NVARCHAR(3),
+	SalesTerritoryGroup NVARCHAR(50),
+	SalesQuota DECIMAL(12,2),
+	Bonus DECIMAL(12,2),
+	CommissionPct DECIMAL(12,2),
+	SalesYTD DECIMAL(12,2),
+	SalesLastYear DECIMAL(12,2),
+	SRC_ID_Employee INT,
+	EmployeeOrganizationNode INT,
+	EmployeeOrganizationLevel INT,
+	EmployeeJobTitle NVARCHAR(50),
+	EmployeeBirthDate DATE,
+	EmployeeMaritalStatus NVARCHAR(1),
+	EmployeeGender NVARCHAR(1),
+	EmployeeHireDate DATE
+);
+
+CREATE TABLE ASDDW.REP.DimCustomer (
+	SRC_ID_Customer INT,
+	AccountNumber NVARCHAR(10),
+	SRC_ID_Store INT,
+	StoreName NVARCHAR(50),
+	SRC_ID_CustomerTerritory INT,
+	CustomerTerritoryName NVARCHAR(50),
+	CustomerTerritoryCountryRegionCode NVARCHAR(3),
+	SRC_ID_Person INT,
+	PersonPersonType NVARCHAR(2),
+	PersonTitle NVARCHAR(8),
+	PersonFirstName NVARCHAR(50),
+	PersonMiddleName NVARCHAR(50),
+	PersonLastName NVARCHAR(50),
+	PersonEmailPromotion INT
+);
+
