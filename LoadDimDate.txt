@@ -1,0 +1,35 @@
+CREATE OR ALTER PROCEDURE LoadDimDate
+@StartDate DATE = '2000-01-01',
+@EndDate DATE = '2025-12-31'
+
+AS
+BEGIN
+	SET XACT_ABORT ON;
+	TRUNCATE TABLE [ASDDW].[REP].[DimDate];
+
+BEGIN TRAN;
+
+-- amíg nem pörgetjük végig a kezdõdátumtól a végdátumig
+WHILE @StartDate < @EndDate
+BEGIN
+	INSERT INTO [ASDDW].[REP].[DimDate] (
+		[DimDateID],
+		[Date],
+		[Day],
+		[Month],
+		[Quarter],
+		[Year]
+	)
+	SELECT [DimDateID] = YEAR(@StartDate) * 10000 + MONTH(@StartDate) * 100 + DAY(@StartDate),
+		[Date] = @StartDate,
+		[Day] = DAY(@StartDate),
+		[Month] = MONTH(@StartDate),
+		[Quarter] = DATEPART(q, @StartDate),
+		[Year] = YEAR(@StartDate)
+      
+	-- növeljük a kezdõdátum értékét 1 nappal (következõ nap)
+	SET @StartDate = DATEADD(DD, 1, @StartDate)
+END
+	SELECT * FROM [ASDDW].[REP].[DimDate]
+	COMMIT;
+END;

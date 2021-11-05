@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>dwh_asd</Name>
-    <LastWriteTime>2021-10-30T18:18:34.1271689Z</LastWriteTime>
+    <LastWriteTime>2021-11-05T09:11:31.6062196Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -13,7 +13,12 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>transform.dtsx</Name>
-      <LastWriteTime>2021-11-05T08:28:57.2018593Z</LastWriteTime>
+      <LastWriteTime>2021-11-05T10:51:20.7223457Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>load.dtsx</Name>
+      <LastWriteTime>2021-11-05T12:19:39.2850322Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>

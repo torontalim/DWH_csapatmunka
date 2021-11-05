@@ -184,6 +184,31 @@ CREATE TABLE ASDDW.STG.ShipMethod (
 
 CREATE SCHEMA MSTR;
 
+CREATE TABLE ASDDW.MSTR.SalesOrderDetail (
+	SalesOrderID int,
+	SalesOrderDetailID int,
+	OrderQty int,
+	ProductID int,
+	UnitPrice decimal(12,2),
+	UnitPriceDiscount decimal(12,2),
+	LineTotal numeric(38, 6),
+);
+
+
+CREATE TABLE ASDDW.MSTR.SalesOrderHeader(
+	SalesOrderID int,
+	OrderDate date,
+	DueDate date,
+	ShipDate date,
+	OnlineOrderFlag NVARCHAR(50),
+	CustomerID int,
+	SalesPersonID int,
+	TerritoryID int,
+	ShipMethodID int,
+	SubTotal decimal(12,2),
+	TaxAmt  decimal(12,2),
+	Freight  decimal(12,2)
+)
 
 CREATE TABLE ASDDW.MSTR.DimProduct (
 	DimProductID INT,
@@ -267,15 +292,16 @@ GO
 
 CREATE TABLE ASDDW.REP.DimDate (
 	DimDateID INT,
-	SRC_ID_Date INT,
-	Year INT,
-	Month INT,
+	Date DATE,
 	Day INT,
-	Quarter INT
+	MONTH INT,
+	QUARTER INT,
+	YEAR INT,
+	LoadTimeStamp TIMESTAMP
 );
 
 CREATE TABLE ASDDW.REP.FactSalesOrder (
-	FactSalesOrderID INT,
+	FactSalesOrderID INT IDENTITY (1, 1,
 	SRC_ID_SalesOrderHeader INT,
 	OnlineOrderingFlag NVARCHAR(50),
 	SubTotal DECIMAL(12,2),
@@ -300,7 +326,8 @@ CREATE TABLE ASDDW.REP.FactSalesOrder (
 );
 
 CREATE TABLE ASDDW.REP.DimProduct (
-	DimProductID INT,
+	DimProductID INT identity(1,1),
+	mProductID INT,
 	Name NVARCHAR(256),
 	ProductNumber INT,
 	Color NVARCHAR(256),
@@ -326,10 +353,10 @@ CREATE TABLE ASDDW.REP.DimProduct (
 );
 
 CREATE TABLE ASDDW.REP.DimTerritory (
-	DimTerritoryID INT,
+	DimTerritoryID INT identity(1,1),
+	TerritoryID INT,
 	Name NVARCHAR(256),
-	CountryRegionCode INT,
-	GroupName NVARCHAR(256),
+	CountryRegionCode NVARCHAR(10),
 	SalesYTD DECIMAL(12,2),
 	SalesLastYear DECIMAL(12,2),
 	CostYTD DECIMAL(12,2),
@@ -337,24 +364,24 @@ CREATE TABLE ASDDW.REP.DimTerritory (
 );
 
 CREATE TABLE ASDDW.REP.DimShipMethod (
-	DimShipMethodID INT,
-	SRC_ID_ShipMethod INT,
+	DimShipMethodID int identity(1,1),
+	ShipMethodID INT,
 	Name NVARCHAR(256)
 );
 
 CREATE TABLE ASDDW.REP.DimSalesPerson (
-	DimSalesPersonID INT,
+	DimSalesPersonID INT identity(1,1),
+	SalesPersonID INT,
 	SRC_ID_SalesTerritory INT,
 	SalesTerritoryName NVARCHAR(50),
 	SalesTerritoryCountryRegionCode NVARCHAR(3),
-	SalesTerritoryGroup NVARCHAR(50),
 	SalesQuota DECIMAL(12,2),
 	Bonus DECIMAL(12,2),
 	CommissionPct DECIMAL(12,2),
 	SalesYTD DECIMAL(12,2),
 	SalesLastYear DECIMAL(12,2),
 	SRC_ID_Employee INT,
-	EmployeeOrganizationNode INT,
+	EmployeeOrganizationNode NVARCHAR(50),
 	EmployeeOrganizationLevel INT,
 	EmployeeJobTitle NVARCHAR(50),
 	EmployeeBirthDate DATE,
@@ -364,6 +391,7 @@ CREATE TABLE ASDDW.REP.DimSalesPerson (
 );
 
 CREATE TABLE ASDDW.REP.DimCustomer (
+	DimCustomerID int IDENTITY (1, 1).
 	SRC_ID_Customer INT,
 	AccountNumber NVARCHAR(10),
 	SRC_ID_Store INT,
