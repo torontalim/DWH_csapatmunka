@@ -188,7 +188,7 @@ CREATE SCHEMA MSTR;
 CREATE TABLE ASDDW.MSTR.DimProduct (
 	DimProductID INT,
 	Name NVARCHAR(256),
-	ProductNumber INT,
+	ProductNumber NVARCHAR(256),
 	Color NVARCHAR(256),
 	SafetyStockLevel NVARCHAR(256),
 	ReorderPoint NVARCHAR(256),
@@ -227,20 +227,18 @@ CREATE TABLE ASDDW.MSTR.DimShipMethod (
 	SRC_ID_ShipMethod INT,
 	Name NVARCHAR(256)
 );
-
 CREATE TABLE ASDDW.MSTR.DimSalesPerson (
 	DimSalesPersonID INT,
 	SRC_ID_SalesTerritory INT,
 	SalesTerritoryName NVARCHAR(50),
 	SalesTerritoryCountryRegionCode NVARCHAR(3),
-	SalesTerritoryGroup NVARCHAR(50),
 	SalesQuota DECIMAL(12,2),
 	Bonus DECIMAL(12,2),
 	CommissionPct DECIMAL(12,2),
 	SalesYTD DECIMAL(12,2),
 	SalesLastYear DECIMAL(12,2),
 	SRC_ID_Employee INT,
-	EmployeeOrganizationNode INT,
+	EmployeeOrganizationNode NVARCHAR(50),
 	EmployeeOrganizationLevel INT,
 	EmployeeJobTitle NVARCHAR(50),
 	EmployeeBirthDate DATE,
@@ -248,7 +246,6 @@ CREATE TABLE ASDDW.MSTR.DimSalesPerson (
 	EmployeeGender NVARCHAR(1),
 	EmployeeHireDate DATE
 );
-
 CREATE TABLE ASDDW.MSTR.DimCustomer (
 	SRC_ID_Customer INT,
 	AccountNumber NVARCHAR(10),
