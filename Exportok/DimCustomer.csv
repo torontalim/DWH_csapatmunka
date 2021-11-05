@@ -1,0 +1,1272 @@
+SRC_ID_Customer,AccountNumber,SRC_ID_Store,StoreName,SRC_ID_CustomerTerritory,CustomerTerritoryName,CustomerTerritoryCountryRegionCode,SRC_ID_Person,PersonPersonType,PersonTitle,PersonFirstName,PersonMiddleName,PersonLastName,PersonEmailPromotion
+29804,AW00029804,1000,Games and Sport Supply Company,5,Southeast,US,999,SC,Mr.,Matthew,M.,Hagemann,0
+29805,AW00029805,1002,Distant Inn,4,Southwest,US,1001,SC,Ms.,Erin,M.,Hagens,0
+29806,AW00029806,1004,Finer Mart,1,Northwest,US,1003,SC,Ms.,Betty,M.,Haines,2
+29807,AW00029807,1010,Cross-Country Riding Supplies,6,Canada,CA,1009,SC,Mr.,Bryan,,Hamilton,0
+29808,AW00029808,1012,Stylish Department Stores,5,Southeast,US,1011,SC,Mr.,James,R.,Hamilton,0
+29809,AW00029809,1014,Bike World,4,Southwest,US,1013,SC,Mr.,Kerim,,Hanif,0
+29810,AW00029810,1016,Central Discount Store,1,Northwest,US,1015,SC,Ms.,Jean,P.,Handley,2
+29811,AW00029811,1018,Trusted Catalog Store,5,Southeast,US,1017,SC,Mr.,Mark,,Hanson,0
+29812,AW00029812,1020,Bicycle Warehouse Inc.,8,Germany,DE,1019,SC,Mr.,William,J.,Hapke,2
+29813,AW00029813,1022,Sharp Bikes,6,Canada,CA,1021,SC,Ms.,Katherine,,Harding,2
+29814,AW00029814,1024,Exemplary Cycles,5,Southeast,US,1023,SC,Ms.,Kimberly,Beth,Harrington,1
+29815,AW00029815,1026,Metropolitan Sports Supply,4,Southwest,US,1025,SC,Mr.,Lucy,,Harrington,0
+29816,AW00029816,1028,Progressive Sports,1,Northwest,US,1027,SC,Mr.,Keith,,Harris,2
+29817,AW00029817,1030,Underglaze and Finish Company,5,Southeast,US,1029,SC,Ms.,Doris,,Hartwig,0
+29818,AW00029818,1032,Brakes and Gears,1,Northwest,US,1031,SC,Mr.,Roger,,Harui,2
+29819,AW00029819,1034,The Accessories Store,3,Central,US,1033,SC,Ms.,Ann,T.,Hass,2
+29820,AW00029820,1036,Mountain Bike Store,2,Northeast,US,1035,SC,Mr.,Mark,,Hassall,1
+29821,AW00029821,1038,Bike Part Wholesalers,9,Australia,AU,1037,SC,Mr.,Neal,B.,Hasty,1
+29822,AW00029822,1040,Family Cycle Store,6,Canada,CA,1039,SC,Mr.,James,B.,Haugh,1
+29823,AW00029823,1042,Popular Bike Lines,9,Australia,AU,1041,SC,Mr.,Jeff,,Hay,1
+29824,AW00029824,1044,Superb Sales and Repair,6,Canada,CA,1043,SC,Ms.,Brenda,F.,Heaney,0
+29825,AW00029825,1046,Better Bike Shop,5,Southeast,US,1045,SC,,James,,Hendergart,0
+29826,AW00029826,1048,Countryside Company,1,Northwest,US,1047,SC,Mr.,John,,Hanson,1
+29827,AW00029827,1050,First Bike Store,3,Central,US,1049,SC,Ms.,Valerie,M.,Hendricks,1
+29828,AW00029828,1052,Traditional Department Stores,2,Northeast,US,1051,SC,Mr.,Jay,,Henningsen,0
+29829,AW00029829,1054,Eastside Cycle Shop,9,Australia,AU,1053,SC,Mr.,Jeff,D.,Henshaw,0
+29830,AW00029830,1056,General Department Stores,6,Canada,CA,1055,SC,Mr.,Kari,,Hensien,1
+29831,AW00029831,1060,Operational Manufacturing,6,Canada,CA,1059,SC,Ms.,Irene,J.,Hernandez,0
+29832,AW00029832,1062,Online Bike Warehouse,6,Canada,CA,1061,SC,Mr.,Jésus,,Hernandez,0
+29833,AW00029833,1064,Retread Tire Company,5,Southeast,US,1063,SC,Ms.,Pam,L.,Herrick,0
+29834,AW00029834,1066,Small Bike Shop,4,Southwest,US,1065,SC,Ms.,Cheryl,M.,Herring,0
+29835,AW00029835,1068,Superior Hardware Distributors,1,Northwest,US,1067,SC,Mr.,Ronald,K.,Heymsfield,0
+29836,AW00029836,1070,Fitness Sport Boutique,2,Northeast,US,1069,SC,Mr.,Sidney,,Higa,2
+29837,AW00029837,1072,Producer Goods Clearinghouse,8,Germany,DE,1071,SC,Ms.,Onetha,F.,Higgs,1
+29838,AW00029838,1074,Recreation Systems,2,Northeast,US,1073,SC,Ms.,Fran,P.,Highfill,0
+29839,AW00029839,1076,Rustic Bike Store,8,Germany,DE,1075,SC,Ms.,Geneva,T.,Hill,2
+29840,AW00029840,1078,Eastside Parts Shop,6,Canada,CA,1077,SC,Mr.,Andrew,R.,Hill,0
+29841,AW00029841,1080,Exchange Parts Inc.,5,Southeast,US,1079,SC,Mr.,Reinout,,Hillmann,0
+29842,AW00029842,1082,First Cycle Store,4,Southwest,US,1081,SC,Mr.,Mike,,Hines,1
+29843,AW00029843,1084,Running and Cycling Gear,1,Northwest,US,1083,SC,Mr.,Matthew,,Hink,2
+29844,AW00029844,1086,Seventh Bike Store,2,Northeast,US,1085,SC,Ms.,Nancy,E.,Hirota,0
+29845,AW00029845,1088,Fast Services,8,Germany,DE,1087,SC,Ms.,Rose,,Hirsch,1
+29846,AW00029846,1090,General Associates,5,Southeast,US,1089,SC,Mr.,Douglas,,Hite,0
+29847,AW00029847,1092,Good Toys,4,Southwest,US,1091,SC,Mr.,David,,Hodgson,2
+29848,AW00029848,1094,Little Bicycle Supply Shop,3,Central,US,1093,SC,Ms.,Helge,,Hoeing,1
+29849,AW00029849,1096,Retail Toy Store,5,Southeast,US,1095,SC,Ms.,Barbara,,Hoffman,0
+29850,AW00029850,1100,All Seasons Sports Supply,4,Southwest,US,1099,SC,Mr.,Bob,,Hodges,1
+29851,AW00029851,1102,Leisure Clearing House,10,United Kingdom,GB,1101,SC,Ms.,Jean,J.,Holloway,1
+29852,AW00029852,1106,The Commissary,6,Canada,CA,1105,SC,Mr.,Eddie,M.,Holmes,0
+29853,AW00029853,1108,Affordable Sports Equipment,4,Southwest,US,1107,SC,Ms.,Juanita,J.,Holman,2
+29854,AW00029854,1110,Local Sales and Rental,3,Central,US,1109,SC,Mr.,Peter,,Houston,2
+29855,AW00029855,1112,Economy Center,6,Canada,CA,1111,SC,Mr.,Curtis,P.,Howard,0
+29856,AW00029856,1114,Community Department Stores,7,France,FR,1113,SC,Mr.,Joe,,Howard,2
+29857,AW00029857,1116,Area Sheet Metal Supply,10,United Kingdom,GB,1115,SC,Ms.,Janice,K.,Hows,2
+29858,AW00029858,1118,Synthetic Materials Manufacturing,1,Northwest,US,1117,SC,Mr.,George,M.,Huckaby,0
+29859,AW00029859,1120,Rural Sales and Service,4,Southwest,US,1119,SC,Mr.,Joshua,J.,Huff,1
+29860,AW00029860,1122,Tubeless Tire Company,10,United Kingdom,GB,1121,SC,Ms.,Arlene,,Huff,1
+29861,AW00029861,1126,Hardware Components,3,Central,US,1125,SC,Ms.,Phyllis,R.,Huntsman,2
+29862,AW00029862,1128,Retail Sporting Goods,1,Northwest,US,1127,SC,Mr.,Lawrence,E.,Hurkett,1
+29863,AW00029863,1130,Efficient Cycling,6,Canada,CA,1129,SC,Mr.,Ryan,,Ihrig,2
+29864,AW00029864,1132,General Industries,6,Canada,CA,1131,SC,Ms.,Beth,,Inghram,1
+29865,AW00029865,1134,Highway Bike Shop,4,Southwest,US,1133,SC,Mr.,Lucio,,Iallo,2
+29866,AW00029866,1136,Rental Bikes,4,Southwest,US,1135,SC,Mr.,Richard,L.,Irwin,0
+29867,AW00029867,1138,Roving Sports,1,Northwest,US,1137,SC,Mr.,Erik,,Ismert,2
+29868,AW00029868,1140,Express Bike Services,10,United Kingdom,GB,1139,SC,Ms.,Denean,J.,Ison,1
+29869,AW00029869,1142,Major Amusement Company,7,France,FR,1141,SC,Mr.,Raman,,Iyer,0
+29870,AW00029870,1144,Retail Discount Store,6,Canada,CA,1143,SC,Mr.,Bronson,R.,Jacobs,2
+29871,AW00029871,1146,Vale Riding Supplies,4,Southwest,US,1145,SC,Mr.,Eric,A.,Jacobsen,0
+29872,AW00029872,1148,A Great Bicycle Company,3,Central,US,1147,SC,Ms.,Jodan,M.,Jacobson,0
+29873,AW00029873,1150,Certified Bicycle Supply,1,Northwest,US,1149,SC,Ms.,Mary,,Alexander,0
+29874,AW00029874,1152,Exceptional Cycle Services,10,United Kingdom,GB,1151,SC,Mr.,David,,Jaffe,0
+29875,AW00029875,1154,Instant Cycle Store,7,France,FR,1153,SC,Mr.,Jay,,Jamison,1
+29876,AW00029876,1156,Leisure Activities,6,Canada,CA,1155,SC,Ms.,Vance,P.,Johns,0
+29877,AW00029877,1158,Paints and Solvents Company,3,Central,US,1157,SC,Ms.,Joyce,,Jarvis,0
+29878,AW00029878,1160,West Wind Distributors,8,Germany,DE,1159,SC,Mr.,George,,Jiang,0
+29879,AW00029879,1162,Bikes for Kids and Adults,6,Canada,CA,1161,SC,Mr.,Stephen,Yuan,Jiang,0
+29880,AW00029880,1164,Consolidated Sales,5,Southeast,US,1163,SC,Mr.,Samuel,A.,Johnson,0
+29881,AW00029881,1166,Home Town Bike Store,6,Canada,CA,1165,SC,Ms.,Danielle,B.,Johnson,1
+29882,AW00029882,1168,Optimal Bikes,5,Southeast,US,1167,SC,Mr.,Greg,M.,Johnson,1
+29883,AW00029883,1170,Sample Bike Store,3,Central,US,1169,SC,Mr.,Barry,,Johnson,1
+29884,AW00029884,1172,Extras Sporting Goods,3,Central,US,1171,SC,Mr.,Brian,,Johnson,2
+29885,AW00029885,1174,Sure & Reliable Sporting Goods,1,Northwest,US,1173,SC,Mr.,David,,Johnson,2
+29886,AW00029886,1176,Eleventh Bike Store,2,Northeast,US,1175,SC,Mr.,Willis,,Johnson,1
+29887,AW00029887,1178,Enterprise Center,8,Germany,DE,1177,SC,Ms.,Tamara,,Johnston,0
+29888,AW00029888,1182,New and Used Bicycles,5,Southeast,US,1181,SC,Mr.,Brannon,,Jones,2
+29889,AW00029889,1184,Separate Parts Corporation,4,Southwest,US,1183,SC,Ms.,Jean,,Jordan,1
+29890,AW00029890,1186,Basic Bike Company,1,Northwest,US,1185,SC,Ms.,Peggy,J.,Justice,0
+29891,AW00029891,1188,Fabrikam Inc., West,3,Central,US,1187,SC,Ms.,Diane,F.,Krane,0
+29892,AW00029892,1192,Non-Slip Pedal Company,6,Canada,CA,1191,SC,Ms.,Sandra,T.,Kitt,0
+29893,AW00029893,1196,Weekend Bike Tours,4,Southwest,US,1195,SC,Mr.,Sandeep,,Kaliyath,0
+29894,AW00029894,1198,Fabrikam Inc., East,8,Germany,DE,1197,SC,Mr.,John,,Kane,1
+29895,AW00029895,1200,General Supplies,6,Canada,CA,1199,SC,Ms.,Lori,,Kane,0
+29896,AW00029896,1202,Noiseless Gear Company,5,Southeast,US,1201,SC,Ms.,Judith,F.,Krane,2
+29897,AW00029897,1204,Racing Toys,4,Southwest,US,1203,SC,Ms.,Kay,E.,Krane,0
+29898,AW00029898,1206,Capable Sales and Service,1,Northwest,US,1205,SC,Mr.,Sandeep,,Katyal,2
+29899,AW00029899,1210,Pretty Bikes and Toys,7,France,FR,1209,SC,Mr.,Kendall,,Keil,0
+29900,AW00029900,1212,Road Way Sales and Rental,6,Canada,CA,1211,SC,Mr.,Victor,A.,Kelley,2
+29901,AW00029901,1214,Sturdy Toys,4,Southwest,US,1213,SC,Mr.,John,,Kelly,1
+29902,AW00029902,1216,Beneficial Exercises and Activities,4,Southwest,US,1215,SC,Mr.,Robert,,Kelly,1
+29903,AW00029903,1218,Fad Outlet,1,Northwest,US,1217,SC,Mr.,Kevin,,Kennedy,1
+29904,AW00029904,1220,Commerce Bicycle Specialists,10,United Kingdom,GB,1219,SC,Ms.,Mary,R.,Kesslep,0
+29905,AW00029905,1224,Acceptable Sales & Service,6,Canada,CA,1223,SC,Ms.,Elizabeth,,Keyser,0
+29906,AW00029906,1228,District Mall,3,Central,US,1227,SC,Mr.,Imtiaz,,Khan,0
+29907,AW00029907,1230,Fitness Supplies,1,Northwest,US,1229,SC,Ms.,Karan,,Khanna,0
+29908,AW00029908,1232,Mail Market,10,United Kingdom,GB,1231,SC,Mr.,Joe,,Kim,2
+29909,AW00029909,1234,Spare Parts Co.,7,France,FR,1233,SC,Mr.,Jim,,Kim,0
+29910,AW00029910,1236,Twelfth Bike Store,6,Canada,CA,1235,SC,Mr.,Shane,S.,Kim,0
+29911,AW00029911,1238,Consolidated Messenger,6,Canada,CA,1237,SC,Mr.,Tim,,Kim,0
+29912,AW00029912,1240,Daring Rides,5,Southeast,US,1239,SC,Mr.,Russell,,King,0
+29913,AW00029913,1242,Field Trip Store,3,Central,US,1241,SC,Mr.,Anton,,Kirilov,1
+29914,AW00029914,1244,Finish and Sealant Products,4,Southwest,US,1243,SC,Mr.,Christian,,Kleinerman,0
+29915,AW00029915,1246,Finer Parts Shop,1,Northwest,US,1245,SC,Mr.,Andrew,P.,Kobylinski,0
+29916,AW00029916,1248,Glossy Bikes,2,Northeast,US,1247,SC,Mr.,Reed,,Koch,1
+29917,AW00029917,1250,Next Door Cycles,8,Germany,DE,1249,SC,Mr.,Jim,,Kennedy,2
+29918,AW00029918,1252,Up-To-Date Sports,6,Canada,CA,1251,SC,Mr.,Kirk,T,King,2
+29919,AW00029919,1254,Mountain Bike Center,4,Southwest,US,1253,SC,Mr.,Eugene,,Kogan,0
+29920,AW00029920,1256,Specialty Sports Store,4,Southwest,US,1255,SC,Mr.,Scott,,Konersmann,2
+29921,AW00029921,1258,Scooters and Bikes Store,1,Northwest,US,1257,SC,Ms.,Joy,R.,Koski,0
+29922,AW00029922,1260,Closest Bicycle Store,10,United Kingdom,GB,1259,SC,Ms.,Pamala,M.,Kotc,2
+29923,AW00029923,1262,Roadway Bicycle Supply,7,France,FR,1261,SC,Mr.,Edward,J.,Kozlowski,0
+29924,AW00029924,1266,Reasonable Bicycle Sales,3,Central,US,1265,SC,Mr.,Mitch,,Kennedy,1
+29925,AW00029925,1270,Outdoor Sports Supply,1,Northwest,US,1269,SC,Ms.,Margaret,T.,Krupka,0
+29926,AW00029926,1272,Outdoor Aerobic Systems Company,10,United Kingdom,GB,1271,SC,Mr.,Deepak,,Kumar,0
+29927,AW00029927,1274,Self-Contained Cycle Parts Company,7,France,FR,1273,SC,Mr.,Jeffrey,B.,Kung,0
+29928,AW00029928,1276,Metal Clearing House,6,Canada,CA,1275,SC,Mr.,Vamsi,,Kuppa,0
+29929,AW00029929,1278,Many Bikes Store,4,Southwest,US,1277,SC,Mr.,Jeffrey,,Kurtz,2
+29930,AW00029930,1280,Largest Bike Store,3,Central,US,1279,SC,Mr.,Peter,,Kurniawan,0
+29931,AW00029931,1282,Kickstands and Accessories Company,1,Northwest,US,1281,SC,Mr.,Eric,,Lang,0
+29932,AW00029932,1284,Instruments and Parts Company,10,United Kingdom,GB,1283,SC,Ms.,Rebecca,,Laszlo,0
+29933,AW00029933,1286,Neighborhood Bicycle Storehouse,7,France,FR,1285,SC,Ms.,Cecilia,M.,Laursen,0
+29934,AW00029934,1288,Gear-Shift Bikes Limited,6,Canada,CA,1287,SC,Mr.,David,O,Lawrence,0
+29935,AW00029935,1290,Frugal Bike Shop,1,Northwest,US,1289,SC,Ms.,Elsa,,Leavitt,0
+29936,AW00029936,1292,Family Entertainment Center,1,Northwest,US,1291,SC,Mr.,Michael,J.,Lee,1
+29937,AW00029937,1294,Go-cart and Bike Specialists,4,Southwest,US,1293,SC,Ms.,Marjorie,M.,Lee,0
+29938,AW00029938,1296,Trailblazing Sports,4,Southwest,US,1295,SC,Mr.,Frank,,Campbell,1
+29939,AW00029939,1298,Racing Partners,6,Canada,CA,1297,SC,Mr.,Mark,,Lee,0
+29940,AW00029940,1300,Perfect Toys,7,France,FR,1299,SC,Mr.,Robertson,,Lee,2
+29941,AW00029941,1302,Exhibition Showroom,10,United Kingdom,GB,1301,SC,Ms.,Jolie,,Lenehan,0
+29942,AW00029942,1304,Authorized Bike Sales and Rental,1,Northwest,US,1303,SC,Mr.,Roger,,Lengel,2
+29943,AW00029943,1306,Two-Seater Bikes,4,Southwest,US,1305,SC,,A.,Francesca,Leonetti,2
+29944,AW00029944,1308,More Bikes!,4,Southwest,US,1307,SC,Ms.,Bonnie,B.,Lepro,0
+29945,AW00029945,1310,Unified Sports Company,5,Southeast,US,1309,SC,Ms.,Gloria,J.,Lesko,0
+29946,AW00029946,1312,National Manufacturing,6,Canada,CA,1311,SC,Ms.,Linda,,Leste,1
+29947,AW00029947,1316,Wheelsets Storehouse,2,Northeast,US,1315,SC,Ms.,Judy,,Lew,1
+29948,AW00029948,1318,Town Industries,4,Southwest,US,1317,SC,Ms.,Elsie,L.,Lewin,0
+29949,AW00029949,1320,Security Racks and Locks Wholesalers,1,Northwest,US,1319,SC,Mr.,George,Z.,Li,0
+29950,AW00029950,1322,Rapid Bikes,6,Canada,CA,1321,SC,Mr.,Yale,,Li,1
+29951,AW00029951,1324,Metro Sports Equipment,7,France,FR,1323,SC,Ms.,Yan,,Li,0
+29952,AW00029952,1326,Nearby Sporting Goods,10,United Kingdom,GB,1325,SC,Ms.,Yuhong,,Li,0
+29953,AW00029953,1328,Front Sporting Goods,1,Northwest,US,1327,SC,Mr.,Joseph,M.,Lique,0
+29954,AW00029954,1330,Elite Bikes,4,Southwest,US,1329,SC,Mr.,Paulo,H.,Lisboa,0
+29955,AW00029955,1332,Catalog Store,3,Central,US,1331,SC,Mr.,David,J.,Liu,1
+29956,AW00029956,1334,Chic Department Stores,4,Southwest,US,1333,SC,,Jinghao,,Liu,2
+29957,AW00029957,1336,Eastside Department Store,4,Southwest,US,1335,SC,Mr.,Kevin,,Liu,2
+29958,AW00029958,1338,Sports Sales and Rental,5,Southeast,US,1337,SC,Mr.,Run,,Liu,1
+29959,AW00029959,1340,Cycle Merchants,6,Canada,CA,1339,SC,Mr.,Todd,R.,Logan,0
+29960,AW00029960,1342,Global Sports Outlet,9,Australia,AU,1341,SC,Mr.,Kok-Ho,,Loh,1
+29961,AW00029961,1344,Exotic Bikes,2,Northeast,US,1343,SC,Mr.,John,K.,Long,0
+29962,AW00029962,1346,Fitness Hotel,3,Central,US,1345,SC,Ms.,Sharon,J.,Looney,0
+29963,AW00029963,1350,Every Bike Shop,5,Southeast,US,1349,SC,Mr.,Spencer,,Low,0
+29964,AW00029964,1352,Grand Industries,6,Canada,CA,1351,SC,Ms.,Anita,R.,Lucerne,1
+29965,AW00029965,1354,Ideal Components,9,Australia,AU,1353,SC,Mr.,Jose,,Lugo,1
+29966,AW00029966,1356,Larger Cycle Shop,2,Northeast,US,1355,SC,Mr.,Richard,,Lum,0
+29967,AW00029967,1358,Leading Sales & Repair,3,Central,US,1357,SC,Ms.,Judy,R.,Lundahl,0
+29968,AW00029968,1362,Metro Bike Mart,5,Southeast,US,1361,SC,Ms.,Helen,R.,Lutes,2
+29969,AW00029969,1364,Tandem Sales and Service,6,Canada,CA,1363,SC,Mr.,Robert,P.,Lyeba,0
+29970,AW00029970,1366,Sensible Sports,9,Australia,AU,1365,SC,Ms.,Sharon,F.,Lynn,0
+29971,AW00029971,1368,Reliable Retail Center,6,Canada,CA,1367,SC,Mr.,Robert,,Lyon,1
+29972,AW00029972,1370,Liquidation Sales,9,Australia,AU,1369,SC,Ms.,Jenny,,Lysaker,0
+29973,AW00029973,1372,Friendly Bike Shop,3,Central,US,1371,SC,Ms.,Denise,R.,Maccietto,0
+29974,AW00029974,1374,Yellow Bicycle Company,3,Central,US,1373,SC,Mr.,Scott,,MacDonald,0
+29975,AW00029975,1376,Sports Products Store,4,Southwest,US,1375,SC,Mr.,Walter,J.,Mays,1
+29976,AW00029976,1378,Selected Distributors,5,Southeast,US,1377,SC,Mr.,Patrick,J.,Magenheimer,2
+29977,AW00029977,1380,Impervious Paint Company,7,France,FR,1379,SC,Ms.,Kimberly,N.,Malmendier,0
+29978,AW00029978,1382,Shipping Specialists,10,United Kingdom,GB,1381,SC,Mr.,Ajay,,Manchepalli,0
+29979,AW00029979,1384,Finer Sporting Goods,7,France,FR,1383,SC,Ms.,Parul,,Manek,0
+29980,AW00029980,1386,Authentic Sales and Service,10,United Kingdom,GB,1385,SC,Mr.,Tomas,M.,Manzanares,1
+29981,AW00029981,1388,Official Parts Shop,1,Northwest,US,1387,SC,Ms.,Kathy,R.,Marcovecchio,0
+29982,AW00029982,1392,Discount Tours,4,Southwest,US,1391,SC,Ms.,Melissa,R.,Marple,2
+29983,AW00029983,1394,Tire Exchange,6,Canada,CA,1393,SC,Ms.,Cecelia,L.,Marshall,1
+29984,AW00029984,1396,Racing Tours,7,France,FR,1395,SC,Mr.,Benjamin,,Martin,2
+29985,AW00029985,1398,Oils and Fluids Warehouse,10,United Kingdom,GB,1397,SC,Ms.,Linda,,Martin,0
+29986,AW00029986,1400,Finished Parts Shop,7,France,FR,1399,SC,Ms.,Mindy,,Martin,1
+29987,AW00029987,1404,Rally Master Company Inc,4,Southwest,US,1403,SC,Mr.,Frank,,Mart!nez,1
+29988,AW00029988,1406,Professional Cyclists,6,Canada,CA,1405,SC,Mr.,Steve,,Masters,0
+29989,AW00029989,1408,Sports Products Store,7,France,FR,1407,SC,Mr.,Joseph,,Matthews,0
+29990,AW00029990,1410,Exclusive Bicycle Mart,10,United Kingdom,GB,1409,SC,Ms.,Jennifer,J.,Maxham,0
+29991,AW00029991,1412,City Manufacturing,1,Northwest,US,1411,SC,Mr.,Chris,,Maxwell,0
+29992,AW00029992,1414,Bike Dealers Association,4,Southwest,US,1413,SC,Ms.,Sandra,B.,Maynard,1
+29993,AW00029993,1416,Pedal Systems Company,5,Southeast,US,1415,SC,Mr.,John,J.,McClane,0
+29994,AW00029994,1418,Health Spa, Limited,6,Canada,CA,1417,SC,Ms.,Robin,M.,McGuigan,1
+29995,AW00029995,1420,Global Bike Retailers,8,Germany,DE,1419,SC,Ms.,Stacie,K.,Mcanich,0
+29996,AW00029996,1422,Fashionable Department Stores,2,Northeast,US,1421,SC,Ms.,Katie,,McAskill-White,2
+29997,AW00029997,1424,Closeout Boutique,1,Northwest,US,1423,SC,Ms.,Lola,M.,McCarthy,0
+29998,AW00029998,1426,Bicycle Merchandise Warehouse,4,Southwest,US,1425,SC,Ms.,Jane,A.,McCarty,2
+29999,AW00029999,1428,Spoke Manufacturers,5,Southeast,US,1427,SC,Ms.,Nikki,,McCormick,1
+30000,AW00030000,1430,Leather Seat Factory,6,Canada,CA,1429,SC,Mr.,James,L.,McCoy,0
+30001,AW00030001,1432,Good Bicycle Store,8,Germany,DE,1431,SC,Ms.,Christinia,A.,McDonald,1
+30002,AW00030002,1434,Endurance Bikes,2,Northeast,US,1433,SC,Mr.,Alejandro,,McGuel,0
+30003,AW00030003,1436,Practical Bike Supply Company,3,Central,US,1435,SC,Ms.,Yvonne,,McKay,0
+30004,AW00030004,1438,Some Discount Store,1,Northwest,US,1437,SC,Ms.,Nkenge,,McLin,1
+30005,AW00030005,1440,Variety Cycling,10,United Kingdom,GB,1439,SC,Ms.,Nancy,A.,McPhearson,2
+30006,AW00030006,1442,Accessories Network,7,France,FR,1441,SC,Ms.,Nellie,T.,Medina,0
+30007,AW00030007,1444,Remote Bicycle Specialists,6,Canada,CA,1443,SC,Ms.,Raquel,,Mello,1
+30008,AW00030008,1448,Friendly Neighborhood Bikes,3,Central,US,1447,SC,Mr.,R. Morgan,L.,Mendoza,0
+30009,AW00030009,1450,Guaranteed Sales and Service,2,Northeast,US,1449,SC,Mr.,Tosh,,Meston,0
+30010,AW00030010,1454,Recommended Bicycles,6,Canada,CA,1453,SC,Mr.,Stephen,A.,Mew,0
+30011,AW00030011,1456,Sunny Place Bikes,5,Southeast,US,1455,SC,Mr.,Eric,B.,Meyer,0
+30012,AW00030012,1458,Alpine Ski House,4,Southwest,US,1457,SC,Ms.,Helen,M.,Meyer,0
+30013,AW00030013,1460,Cycles and Scooters,5,Southeast,US,1459,SC,Ms.,Deanna,,Meyer,0
+30014,AW00030014,1462,Small Bike Accessories Shop,2,Northeast,US,1461,SC,Mr.,Gary,P.,Meyerhoff,0
+30015,AW00030015,1464,List Price Catalog Company,9,Australia,AU,1463,SC,Mr.,Ramesh,,Meyyappan,0
+30016,AW00030016,1466,Seats and Saddles Company,6,Canada,CA,1465,SC,Mr.,Thomas,R.,Michaels,2
+30017,AW00030017,1468,Village Tours,5,Southeast,US,1467,SC,Mr.,Jan,,Miksovsky,1
+30018,AW00030018,1470,All Cycle Shop,1,Northwest,US,1469,SC,Ms.,Virginia,L.,Miller,1
+30019,AW00030019,1472,Tachometers and Accessories,10,United Kingdom,GB,1471,SC,Mr.,Matthew,J.,Miller,0
+30020,AW00030020,1474,Cycles Sales and Repair,7,France,FR,1473,SC,Mr.,Emilo,R.,Miller,0
+30021,AW00030021,1476,Low Price Cycles,6,Canada,CA,1475,SC,Mr.,Ben,,Miller,1
+30022,AW00030022,1478,Metropolitan Manufacturing,4,Southwest,US,1477,SC,Mr.,Dylan,,Miller,1
+30023,AW00030023,1480,Orange Bicycle Company,3,Central,US,1479,SC,Mr.,Frank,,Miller,0
+30024,AW00030024,1482,Riding Associates,1,Northwest,US,1481,SC,Ms.,Neva,M.,Mitchell,0
+30025,AW00030025,1484,Essential Bike Works,10,United Kingdom,GB,1483,SC,Ms.,Linda,,Mitchell,0
+30026,AW00030026,1486,Rural Mountain Bike Mart,7,France,FR,1485,SC,Mr.,Scott,,Mitchell,1
+30027,AW00030027,1490,Engineered Bike Systems,4,Southwest,US,1489,SC,Mr.,Joseph,P.,Mitzner,2
+30028,AW00030028,1796,Professional Containers and Packaging Co.,4,Southwest,US,1795,SC,Ms.,Laura,C.,Steele,0
+30029,AW00030029,1798,One Bike Company,6,Canada,CA,1797,SC,Ms.,Shanay,B.,Steelman,0
+30030,AW00030030,1802,Cycling Goods,10,United Kingdom,GB,1801,SC,Mr.,Stefano,,Stefani,1
+30031,AW00030031,1804,Cycle Clearance,1,Northwest,US,1803,SC,Mr.,Alan,,Steiner,0
+30032,AW00030032,1806,Black Bicycle Company,3,Central,US,1805,SC,Mr.,Derik,,Stenerson,2
+30033,AW00030033,1808,Transport Bikes,1,Northwest,US,1807,SC,Mr.,Vassar,J.,Stern,0
+30034,AW00030034,1810,Sellers of Cycles,1,Northwest,US,1809,SC,Ms.,Wathalee,R.,Steuber,2
+30035,AW00030035,1812,Maintenance and Repair for Bicycles,4,Southwest,US,1811,SC,Ms.,Alice,M.,Steiner,2
+30036,AW00030036,1814,Fitness Department Stores,4,Southwest,US,1813,SC,Ms.,Liza Marie,N.,Stevens,2
+30037,AW00030037,1816,Famous Bike Shop,6,Canada,CA,1815,SC,Mr.,Jim,,Stewart,1
+30038,AW00030038,1818,Eastward Bike Accessories,9,Australia,AU,1817,SC,Ms.,Judy,R.,Storjohann,2
+30039,AW00030039,1822,Gift and Toy Store,3,Central,US,1821,SC,Mr.,Robert,B.,Stotka,0
+30040,AW00030040,1824,Major Sporting Goods,4,Southwest,US,1823,SC,Ms.,Kayla,M.,Stotler,0
+30041,AW00030041,1826,Executive Discount Store,5,Southeast,US,1825,SC,Mr.,Charles,J.,Strange,0
+30042,AW00030042,1828,Major Cycling,6,Canada,CA,1827,SC,Ms.,Ruby Sue,R.,Styles,0
+30043,AW00030043,1830,Getaway Inn,7,France,FR,1829,SC,Mr.,Min,,Su,0
+30044,AW00030044,1832,Downhill Bicycle Specialists,10,United Kingdom,GB,1831,SC,Mr.,Gary,J.,Suess,0
+30045,AW00030045,1834,Bike Experts,1,Northwest,US,1833,SC,Ms.,Ruth,J.,Suffin,1
+30046,AW00030046,1836,Extraordinary Bike Works,4,Southwest,US,1835,SC,Ms.,Elizabeth,J.,Sullivan,1
+30047,AW00030047,1838,Valley Bicycle Distributors,4,Southwest,US,1837,SC,Mr.,Michael,,Sullivan,2
+30048,AW00030048,1840,Top Sports Supply,6,Canada,CA,1839,SC,Ms.,Marcia,J.,Sultan,0
+30049,AW00030049,1842,Racing Sales and Service,7,France,FR,1841,SC,Mr.,Nate,,Sun,0
+30050,AW00030050,1844,Metropolitan Bicycle Supply,10,United Kingdom,GB,1843,SC,Mr.,Krishna,,Sunkammurali,0
+30051,AW00030051,1846,Honest Repair Service,1,Northwest,US,1845,SC,Mr.,Brad,,Sutton,1
+30052,AW00030052,1850,Wheel Gallery,4,Southwest,US,1849,SC,Mr.,Abraham,L.,Swearengin,0
+30053,AW00030053,1852,Top Bike Market,6,Canada,CA,1851,SC,Ms.,Katherine,K.,Swan,2
+30054,AW00030054,1856,Grown-up Bike Store,2,Northeast,US,1855,SC,Ms.,Shelly,,Szymanski,1
+30055,AW00030055,1858,Bicycle Lines Distributors,3,Central,US,1857,SC,Ms.,Julie,,Taft-Rider,0
+30056,AW00030056,1860,Sparkling Paint and Finishes,4,Southwest,US,1859,SC,Mr.,Clarence,R.,Tatman,0
+30057,AW00030057,1862,Racing Association,5,Southeast,US,1861,SC,Mr.,Damon,A.,Taylor,0
+30058,AW00030058,1864,Plastic Parts Company,6,Canada,CA,1863,SC,Mr.,Mike,M.,Taylor,2
+30059,AW00030059,1866,Gears and Parts Company,9,Australia,AU,1865,SC,Mr.,Denis,,Taylor,0
+30060,AW00030060,1868,Executive Gift Store,2,Northeast,US,1867,SC,Mr.,Jeff,E.,Teper,0
+30061,AW00030061,1870,Big Cycle Mall,4,Southwest,US,1869,SC,Mr.,Chad,J.,Tedford,1
+30062,AW00030062,1872,Budget Bike Company,5,Southeast,US,1871,SC,Mr.,Sameer,A.,Tejani,1
+30063,AW00030063,1874,Eighth Bike Store,4,Southwest,US,1873,SC,Ms.,Vanessa,J.,Tench,2
+30064,AW00030064,1876,Demand Distributors,1,Northwest,US,1875,SC,Ms.,Judy,J.,Thames,0
+30065,AW00030065,1878,Immediate Repair Shop,2,Northeast,US,1877,SC,Ms.,Karen,M.,Theisen,2
+30066,AW00030066,1880,Off-Price Bike Center,8,Germany,DE,1879,SC,Mr.,Ram,,Thirunavukkarasu,0
+30067,AW00030067,1882,Red Bicycle Company,6,Canada,CA,1881,SC,Ms.,Phyllis,A.,Thomas,1
+30068,AW00030068,1884,Retirement Activities Association,5,Southeast,US,1883,SC,Mr.,James,R.,Thomas,2
+30069,AW00030069,1886,Trendy Department Stores,4,Southwest,US,1885,SC,Mr.,Donald,M.,Thompson,0
+30070,AW00030070,1888,Vintage Sport Boutique,1,Northwest,US,1887,SC,Ms.,Kendra,N.,Thompson,0
+30071,AW00030071,1890,Travel Sports,1,Northwest,US,1889,SC,Mr.,Daniel,P.,Thompson,0
+30072,AW00030072,1892,West Side Mart,10,United Kingdom,GB,1891,SC,Ms.,Andrea,A.,Thomsen,1
+30073,AW00030073,1894,The Bike Outlet,7,France,FR,1893,SC,Ms.,Rossane,L.,Thoreson,2
+30074,AW00030074,1896,Tenth Bike Store,6,Canada,CA,1895,SC,Ms.,Yuping,,Tian,2
+30075,AW00030075,1898,Valuable Bike Parts Company,5,Southeast,US,1897,SC,Mr.,Mike,,Tiano,0
+30076,AW00030076,1900,Fun Times Club,3,Central,US,1899,SC,Ms.,Diane,,Tibbott,0
+30077,AW00030077,1902,Chain and Chain Tool Distributions,5,Southeast,US,1901,SC,Ms.,Danielle,,Tiedt,1
+30078,AW00030078,1904,Mobile Outlet,2,Northeast,US,1903,SC,Mr.,Tony,,Ting,0
+30079,AW00030079,1906,Regional Cycle Shop,8,Germany,DE,1905,SC,Mr.,John,,Tippett,1
+30080,AW00030080,1910,Wingtip Toys,1,Northwest,US,1909,SC,Ms.,Delia,B.,Toone,1
+30081,AW00030081,1912,The Cycle Store,5,Southeast,US,1911,SC,Mr.,Alvin,J.,Torre,1
+30082,AW00030082,1914,Educational Services,8,Germany,DE,1913,SC,Ms.,Anna,F.,Townsend,0
+30083,AW00030083,1916,Active Life Toys,6,Canada,CA,1915,SC,Mr.,Glenn,J.,Track,0
+30084,AW00030084,1918,Simple Bike Parts,5,Southeast,US,1917,SC,Mr.,Abe,M.,Tramel,0
+30085,AW00030085,1924,Bike Products and Accessories,5,Southeast,US,1923,SC,Ms.,Doris,J.,Traube,0
+30086,AW00030086,1926,Fitness Toys,8,Germany,DE,1925,SC,Ms.,Jean,E.,Trenary,1
+30087,AW00030087,1928,Quick Parts and Service,6,Canada,CA,1927,SC,Mr.,Billy,J.,Trent,0
+30088,AW00030088,1930,Reliable Brake Systems,5,Southeast,US,1929,SC,Mr.,David,F.,Trolen,2
+30089,AW00030089,1932,Thrifty Parts and Sales,4,Southwest,US,1931,SC,Mr.,Michael John,R.,Troyer,0
+30090,AW00030090,1934,A Typical Bike Shop,4,Southwest,US,1933,SC,Ms.,Christie,J.,Trujillo,0
+30091,AW00030091,1936,Active Transport Inc.,2,Northeast,US,1935,SC,Ms.,Lynn,,Tsoflias,0
+30092,AW00030092,1938,Cycle Parts and Accessories,9,Australia,AU,1937,SC,Ms.,Gracia,B.,Tuell,0
+30093,AW00030093,1940,Fasteners & Bolts Outlet,6,Canada,CA,1939,SC,Ms.,Phyllis,B.,Tuffield,0
+30094,AW00030094,1944,Quantity Discounts,4,Southwest,US,1943,SC,Mr.,Sairaj,,Uddin,1
+30095,AW00030095,1946,Swift Cycles,4,Southwest,US,1945,SC,Mr.,Sunil,,Uppal,0
+30096,AW00030096,1948,Classic Cycle Store,2,Northeast,US,1947,SC,Ms.,Mary,J.,Vaca,0
+30097,AW00030097,1950,Helpful Sales and Repair Service ,9,Australia,AU,1949,SC,Ms.,Rachel,B.,Valdez,0
+30098,AW00030098,1952,Large Bike Shop,6,Canada,CA,1951,SC,Ms.,Esther,K.,Valle,1
+30099,AW00030099,1954,Recreation Supplies,5,Southeast,US,1953,SC,Mr.,H.,Brian,Valentine,0
+30100,AW00030100,1956,Wire Baskets and Parts,4,Southwest,US,1955,SC,Mr.,Jessie,E.,Valerio,2
+30101,AW00030101,1958,Ultimate Bicycle Company,7,France,FR,1957,SC,Mr.,Johnathan,,Van Eaton,2
+30102,AW00030102,1960,Sports Store,10,United Kingdom,GB,1959,SC,Mr.,Roger,,Van Houten,0
+30103,AW00030103,1962,Metropolitan Equipment,7,France,FR,1961,SC,Ms.,Mandy,,Vance,2
+30104,AW00030104,1964,Extended Tours,10,United Kingdom,GB,1963,SC,Ms.,Rose,M.,Vandenouer,0
+30105,AW00030105,1966,Convenient Sales and Service,1,Northwest,US,1965,SC,Mr.,Gregory,T.,Vanderbout,0
+30106,AW00030106,1968,Solid Bike Parts,4,Southwest,US,1967,SC,Mr.,Michael,,Vanderhyde,0
+30107,AW00030107,1970,Permanent Finish Products,1,Northwest,US,1969,SC,Ms.,Margaret,J.,Vanderkamp,0
+30108,AW00030108,1972,Mercantile Outlet,6,Canada,CA,1971,SC,Ms.,Kara,N.,Vanderlinden,0
+30109,AW00030109,1976,Exhilarating Cycles,3,Central,US,1975,SC,Mr.,Nieves,J.,Vargas,0
+30110,AW00030110,1978,Exercise Center,4,Southwest,US,1977,SC,Mr.,Gary,T,Vargas,2
+30111,AW00030111,1980,Great Bicycle Supply,3,Central,US,1979,SC,Mr.,Ranjit,Rudra,Varkey Chudukatil,1
+30112,AW00030112,1982,Mail-Order Outlet,1,Northwest,US,1981,SC,Ms.,Patricia,M.,Vasquez,0
+30113,AW00030113,1984,Nearby Cycle Shop,10,United Kingdom,GB,1983,SC,Mr.,Raja,D.,Venugopal,0
+30114,AW00030114,1986,Recreation Toy Store,7,France,FR,1985,SC,Mr.,Kevin,,Verboort,0
+30115,AW00030115,1988,Retreat Inn,6,Canada,CA,1987,SC,Ms.,Dora,P.,Verdad,2
+30116,AW00030116,1990,Technical Parts Manufacturing,4,Southwest,US,1989,SC,Ms.,Wanda,F.,Vernon,0
+30117,AW00030117,1992,Totes & Baskets Company,4,Southwest,US,1991,SC,Mr.,Robert,R.,Vessa,0
+30118,AW00030118,1994,World of Bikes,3,Central,US,1993,SC,Ms.,Caroline,A.,Vicknair,0
+29484,AW00029484,292,Next-Door Bike Store,5,Southeast,US,291,SC,Mr.,Gustavo,,Achong,2
+29485,AW00029485,294,Professional Sales and Service,4,Southwest,US,293,SC,Ms.,Catherine,R.,Abel,1
+29486,AW00029486,296,Riders Company,3,Central,US,295,SC,Ms.,Kim,,Abercrombie,0
+29487,AW00029487,298,The Bike Mechanics,2,Northeast,US,297,SC,Sr.,Humberto,,Acevedo,2
+29488,AW00029488,300,Nationwide Supply,9,Australia,AU,299,SC,Sra.,Pilar,,Ackerman,0
+29489,AW00029489,302,Area Bike Accessories,4,Southwest,US,301,SC,Ms.,Frances,B.,Adams,1
+29490,AW00029490,304,Bicycle Accessories and Kits,1,Northwest,US,303,SC,Ms.,Margaret,J.,Smith,0
+29491,AW00029491,306,Clamps & Brackets Co.,5,Southeast,US,305,SC,Ms.,Carla,J.,Adams,0
+29492,AW00029492,308,Valley Bicycle Specialists,3,Central,US,307,SC,Mr.,Jay,,Adams,1
+29493,AW00029493,310,New Bikes Company,5,Southeast,US,309,SC,Mr.,Ronald,L.,Adina,0
+29494,AW00029494,312,Vinyl and Plastic Goods Corporation,6,Canada,CA,311,SC,Mr.,Samuel,N.,Agcaoili,0
+29495,AW00029495,314,Top of the Line Bikes,8,Germany,DE,313,SC,Mr.,James,T.,Aguilar,1
+29496,AW00029496,316,Fun Toys and Bikes,4,Southwest,US,315,SC,Mr.,Robert,E.,Ahlering,0
+29497,AW00029497,318,Great Bikes ,1,Northwest,US,317,SC,Mr.,François,,Ferrier,1
+29498,AW00029498,320,Metropolitan Sales and Rental,2,Northeast,US,319,SC,Ms.,Kim,,Akers,2
+29499,AW00029499,324,Valley Toy Store,6,Canada,CA,323,SC,Ms.,Amy,E.,Alberts,1
+29500,AW00029500,326,Worthwhile Activity Store,5,Southeast,US,325,SC,Ms.,Anna,A.,Albright,1
+29501,AW00029501,328,Purchase Mart,2,Northeast,US,327,SC,Mr.,Milton,J.,Albury,0
+29502,AW00029502,330,Major Sport Suppliers,1,Northwest,US,329,SC,Mr.,Paul,L.,Alcorn,1
+29503,AW00029503,332,Family's Favorite Bike Shop,6,Canada,CA,331,SC,Mr.,Gregory,F.,Alderson,0
+29504,AW00029504,334,Global Plaza,5,Southeast,US,333,SC,Mr.,J. Phillip,L.,Alexander,1
+29505,AW00029505,336,Imported and Domestic Cycles,1,Northwest,US,335,SC,Ms.,Michelle,,Alexander,2
+29506,AW00029506,338,Systematic Sales,4,Southwest,US,337,SC,Mr.,Sean,P.,Jacobson,2
+29507,AW00029507,340,eCommerce Bikes,5,Southeast,US,339,SC,Ms.,Phyllis,A.,Allen,1
+29508,AW00029508,342,Mountain Toy Store,4,Southwest,US,341,SC,Mr.,Marvin,N.,Allen,0
+29509,AW00029509,344,Retail Sales and Service,2,Northeast,US,343,SC,Mr.,Michael,,Allen,2
+29510,AW00029510,346,Designated Distributors,6,Canada,CA,345,SC,Mr.,Cecil,J.,Allison,0
+29511,AW00029511,348,Bold Bike Accessories,3,Central,US,347,SC,Mr.,Oscar,L.,Alpuerto,1
+29512,AW00029512,350,Twin Cycles,9,Australia,AU,349,SC,Ms.,Sandra,J.,Altamirano,0
+29513,AW00029513,352,Tiny Bike Boutique,5,Southeast,US,351,SC,Ms.,Selena,R.,Alvarado,0
+29514,AW00029514,354,Acclaimed Bicycle Company,5,Southeast,US,353,SC,Mr.,Emilio,R.,Alvaro,1
+29515,AW00029515,356,Serious Cycles,6,Canada,CA,355,SC,Mr.,Maxwell,J.,Amland,0
+29516,AW00029516,358,Quality Bike Sales,9,Australia,AU,357,SC,Ms.,Mae,N.,Anderson,0
+29517,AW00029517,360,Novelty Bikes,3,Central,US,359,SC,Ms.,Ramona,J.,Antrim,0
+29518,AW00029518,362,Distinctive Cycles Sales & Service,5,Southeast,US,361,SC,Ms.,Sabria,B.,Appelbaum,0
+29519,AW00029519,364,Leading Bike Distributors,5,Southeast,US,363,SC,Ms.,Hannah,R.,Arakawa,0
+29520,AW00029520,366,Activity Center,5,Southeast,US,365,SC,Ms.,Kyley,J.,Arbelaez,1
+29521,AW00029521,368,Brightwork Company,1,Northwest,US,367,SC,Mr.,Tom,H,Johnston,1
+29522,AW00029522,370,Resale Services,4,Southwest,US,369,SC,Mr.,Thomas,B.,Armstrong,0
+29523,AW00029523,372,The Gear Store,4,Southwest,US,371,SC,Mr.,John,,Arthur,0
+29524,AW00029524,374,Immense Manufacturing Company,3,Central,US,373,SC,Mr.,Chris,,Ashton,1
+29525,AW00029525,376,Extended Bike Sales,4,Southwest,US,375,SC,Ms.,Teresa,,Atkinson,0
+29526,AW00029526,378,Pedaling Components,8,Germany,DE,377,SC,Mr.,John,P.,Ault,0
+29527,AW00029527,380,Workout Emporium,6,Canada,CA,379,SC,Mr.,Robert,A.,Avalos,0
+29528,AW00029528,382,Work and Play Association,3,Central,US,381,SC,Mr.,Stephen,M.,Ayers,0
+29529,AW00029529,384,Seaside Bike Works,9,Australia,AU,383,SC,Mr.,Phillip,M.,Bacalzo,0
+29530,AW00029530,386,Nice Bikes,6,Canada,CA,385,SC,Mr.,Daniel,,Blanco,0
+29531,AW00029531,388,Remarkable Bike Store,1,Northwest,US,387,SC,Mr.,Cory,K.,Booth,1
+29532,AW00029532,390,Road-Way Mart,1,Northwest,US,389,SC,Mr.,James,B.,Bailey,0
+29533,AW00029533,392,Small Cycle Store,3,Central,US,391,SC,Mr.,Douglas,A.,Baldwin,0
+29534,AW00029534,394,Blue-Ribbon Bike Company,5,Southeast,US,393,SC,Ms.,Jennifer,B.,Bales,1
+29535,AW00029535,398,Grand Bicycle Stores,4,Southwest,US,397,SC,Mr.,Wayne,N.,Banack,2
+29536,AW00029536,406,Kickstand Sellers,3,Central,US,405,SC,Mr.,Robert,L.,Barker,0
+29537,AW00029537,408,Nearest Bike Store,9,Australia,AU,407,SC,Ms.,Rebecca,R.,Barley,2
+29538,AW00029538,410,Fast Bike Works,9,Australia,AU,409,SC,Ms.,Brenda,L.,Barlow,1
+29539,AW00029539,412,Gasless Cycle Shop,6,Canada,CA,411,SC,Mr.,Josh,,Barnhill,0
+29540,AW00029540,414,Lubricant and Grease Suppliers,5,Southeast,US,413,SC,Mr.,Adam,,Barr,1
+29541,AW00029541,418,Transportation Options,6,Canada,CA,417,SC,,Gytis,M,Barzdukas,0
+29542,AW00029542,420,Capital Riding Supplies,8,Germany,DE,419,SC,Mr.,David,M.,Bartness,0
+29543,AW00029543,422,Bike Boutique,2,Northeast,US,421,SC,Ms.,Karel,E.,Bates,1
+29544,AW00029544,428,Finer Cycle Shop,6,Canada,CA,427,SC,Mr.,Shaun,,Beasley,1
+29545,AW00029545,430,Center Cycle Shop,1,Northwest,US,429,SC,Mr.,John,A.,Beaver,0
+29546,AW00029546,432,Bulk Discount Store,10,United Kingdom,GB,431,SC,Mr.,Christopher,R.,Beck,0
+29547,AW00029547,436,Second Bike Shop,9,Australia,AU,435,SC,Mr.,Benjamin,J.,Becker,0
+29548,AW00029548,438,First-Rate Outlet,6,Canada,CA,437,SC,Ms.,Ann,,Beebe,0
+29549,AW00029549,440,Juvenile Sports Equipment,5,Southeast,US,439,SC,Mr.,Shane,J.,Belli,1
+29550,AW00029550,442,Another Bicycle Company,1,Northwest,US,441,SC,Mr.,Stanley,A.,Alan,0
+29551,AW00029551,444,Fourth Bike Store,2,Northeast,US,443,SC,Mr.,Mason,,Bendixen,0
+29552,AW00029552,446,Rodeway Bike Store,8,Germany,DE,445,SC,Mr.,John,M.,Bennetts,0
+29553,AW00029553,450,Unsurpassed Bikes,4,Southwest,US,449,SC,Ms.,Edna,J.,Benson,0
+29554,AW00029554,452,Field Trip Inc,3,Central,US,451,SC,Mr.,Payton,P.,Benson,0
+29555,AW00029555,454,Tire Company,2,Northeast,US,453,SC,Mr.,Max,,Benson,0
+29556,AW00029556,456,Uncompromising Quality Co,9,Australia,AU,455,SC,Mr.,Scot,A.,Bent,0
+29557,AW00029557,464,Odometers and Accessories Company,6,Canada,CA,463,SC,Mr.,Alexander,J.,Berger,1
+29558,AW00029558,466,Scratch-Resistant Finishes Company,6,Canada,CA,465,SC,Mr.,John,M.,Berger,0
+29559,AW00029559,472,Safe Cycles Shop,1,Northwest,US,471,SC,Mr.,Robert,M.,Bernacchi,1
+29560,AW00029560,474,Number 1 Supply,4,Southwest,US,473,SC,Mr.,Matthias,,Berndt,1
+29561,AW00029561,476,Industrial Supplies,5,Southeast,US,475,SC,,John,,Berry,0
+29562,AW00029562,478,Golf and Cycle Store,4,Southwest,US,477,SC,Mr.,Steven,B.,Brown,0
+29563,AW00029563,480,Front Runner Bikes,5,Southeast,US,479,SC,Mr.,Chris,N.,Bidelman,0
+29564,AW00029564,482,Favorite Toy Distributor,7,France,FR,481,SC,Ms.,Mary,B.,Billstrom,1
+29565,AW00029565,484,World Bike Discount Store,4,Southwest,US,483,SC,Mr.,Jimmy,,Bischoff,1
+29566,AW00029566,488,Historic Bicycle Sales,3,Central,US,487,SC,Ms.,Mae,M.,Black,2
+29567,AW00029567,490,Commuter Bicycle Store,6,Canada,CA,489,SC,Ms.,Jackie,E.,Blackwell,1
+29568,AW00029568,492,Coalition Bike Company,4,Southwest,US,491,SC,Mr.,Donald,L.,Blanton,0
+29569,AW00029569,494,Travel Systems,3,Central,US,493,SC,Ms.,Linda,E.,Burnett,2
+29570,AW00029570,496,Grease and Oil Products Company,4,Southwest,US,495,SC,Mr.,Michael,Greg,Blythe,0
+29571,AW00029571,498,Moderately-Priced Bikes Store,1,Northwest,US,497,SC,Ms.,Gabriel,L.,Bockenkamp,0
+29572,AW00029572,502,Eighty Toy Stores,5,Southeast,US,501,SC,Ms.,Corinna,,Bolender,0
+29573,AW00029573,504,Economy Bikes Company,4,Southwest,US,503,SC,Sr.,Luis,,Bonifaz,2
+29574,AW00029574,506,Third Bike Store,4,Southwest,US,505,SC,Mr.,Randall,,Boseman,2
+29575,AW00029575,508,Atypical Bike Company,7,France,FR,507,SC,Ms.,Stephanie,,Bourne,0
+29576,AW00029576,510,Bikes for Two,6,Canada,CA,509,SC,Mr.,Eli,,Bowen,1
+29577,AW00029577,512,Metal Processing Company,6,Canada,CA,511,SC,Mr.,Lester,J.,Bowman,0
+29578,AW00029578,514,Widget Bicycle Specialists,5,Southeast,US,513,SC,Mr.,David,M.,Bradley,1
+29579,AW00029579,516,Initial Bike Company,3,Central,US,515,SC,Mr.,Cornelius,L.,Brandon,0
+29580,AW00029580,518,Latest Sports Equipment,1,Northwest,US,517,SC,Mr.,Richard,,Bready,0
+29581,AW00029581,520,Modern Bike Store,2,Northeast,US,519,SC,Ms.,Sara,N.,Breer,0
+29582,AW00029582,522,Raw Materials Inc,1,Northwest,US,521,SC,Mr.,Ted,,Bremer,1
+29583,AW00029583,524,Lots of Bikes Storehouse,3,Central,US,523,SC,Mr.,Alan,,Brewer,1
+29584,AW00029584,526,Futuristic Bikes,4,Southwest,US,525,SC,Mr.,Walter,J.,Brian,1
+29585,AW00029585,528,Parcel Express Delivery Service,1,Northwest,US,527,SC,Mr.,Christopher,M.,Bright,0
+29586,AW00029586,532,North Bike Company,8,Germany,DE,531,SC,Mr.,David,J.,Brink,1
+29587,AW00029587,534,Prosperous Tours,10,United Kingdom,GB,533,SC,Mr.,John,R.,Brooks,0
+29588,AW00029588,536,Nonskid Tire Company,1,Northwest,US,535,SC,Mr.,Willie,P.,Brooks,2
+29589,AW00029589,538,Amalgamated Parts Shop,8,Germany,DE,537,SC,Ms.,Carolee,J.,Brown,0
+29590,AW00029590,540,Metro Bike Works,3,Central,US,539,SC,Mr.,Jo,,Brown,1
+29591,AW00029591,542,Best o' Bikes,3,Central,US,541,SC,Mr.,Robert,,Brown,0
+29592,AW00029592,544,Painters Bicycle Specialists,2,Northeast,US,543,SC,Mr.,Kevin,F.,Browne,1
+29593,AW00029593,546,Client Discount Store,3,Central,US,545,SC,Ms.,Mary,K.,Browning,1
+29594,AW00029594,548,Eastside Sporting Goods,2,Northeast,US,547,SC,Mr.,Dave,P.,Browning,0
+29595,AW00029595,550,Helmets and Cycles,9,Australia,AU,549,SC,Ms.,Bridget,E.,Browqett,1
+29596,AW00029596,552,Requisite Part Supply,6,Canada,CA,551,SC,Mr.,Eric,J.,Brumfield,0
+29597,AW00029597,554,Racks and Security Systems,5,Southeast,US,553,SC,Mr.,Dick,R.,Brummer,0
+29598,AW00029598,556,Mechanical Products Ltd.,4,Southwest,US,555,SC,Mr.,Michael,,Brundage,0
+29599,AW00029599,558,Commendable Bikes,1,Northwest,US,557,SC,Ms.,Shirley,R.,Bruner,2
+29600,AW00029600,560,Online Bike Sellers,3,Central,US,559,SC,Ms.,June,B.,Brunner,0
+29601,AW00029601,562,Custom Accessories Company,6,Canada,CA,561,SC,Mr.,Dirk,J.,Bruno,0
+29602,AW00029602,564,Unusual Bicycle Company,9,Australia,AU,563,SC,Ms.,Nancy,,Buchanan,0
+29603,AW00029603,566,Courteous Bicycle Specialists,6,Canada,CA,565,SC,Sra.,Janaina Barreiro Gambaro,,Bueno,1
+29604,AW00029604,568,Hobby Store,5,Southeast,US,567,SC,Mr.,Edward,T.,Buensalido,0
+29605,AW00029605,570,Professional Cycle Store,4,Southwest,US,569,SC,Ms.,Megan,E.,Burke,2
+29606,AW00029606,574,Fifth Bike Store,1,Northwest,US,573,SC,Ms.,Karren,K.,Burkhardt,0
+29607,AW00029607,578,Rambling Tours,8,Germany,DE,577,SC,Ms.,Dana,H.,Burnell,0
+29608,AW00029608,580,Farthest Bike Store,6,Canada,CA,579,SC,Mr.,Timothy,B.,Burnett,2
+29609,AW00029609,582,Excellent Bikes,8,Germany,DE,581,SC,Mr.,Stephen,R.,Burton,0
+29610,AW00029610,584,Curbside Universe,2,Northeast,US,583,SC,Ms.,Deanna,R.,Buskirk,1
+29611,AW00029611,586,Alternative Vehicles,1,Northwest,US,585,SC,Mr.,Jared,L.,Bustamante,0
+29612,AW00029612,588,Channel Outlet,10,United Kingdom,GB,587,SC,Mr.,Richard,A.,Byham,2
+29613,AW00029613,590,Full Sports Supply,7,France,FR,589,SC,Mr.,David,J.,Byrnes,1
+29614,AW00029614,592,Retail Mall,6,Canada,CA,591,SC,Mr.,Ryan,,Calafato,1
+29615,AW00029615,596,Metro Metals Co.,10,United Kingdom,GB,595,SC,Ms.,Mari,B.,Caldwell,2
+29616,AW00029616,598,Sheet Metal Manufacturing,4,Southwest,US,597,SC,Ms.,Barbara,J.,Calone,0
+29617,AW00029617,600,Thorough Parts and Repair Services,1,Northwest,US,599,SC,Ms.,Lindsey,R.,Camacho,0
+29618,AW00029618,602,Uttermost Bike Shop,10,United Kingdom,GB,601,SC,Sr.,Gustavo,,Camargo,0
+29619,AW00029619,604,Mechanical Sports Center,2,Northeast,US,603,SC,Ms.,DeeDee,J.,Cameron,1
+29620,AW00029620,608,Two-Wheeled Transit Company,6,Canada,CA,607,SC,Ms.,Joan,M.,Campbell,0
+29621,AW00029621,610,Mountain Emporium,5,Southeast,US,609,SC,Mr.,David,,Campbell,2
+29622,AW00029622,612,Metro Cycle Shop,1,Northwest,US,611,SC,Mr.,Henry,L.,Campen,2
+29623,AW00029623,614,Outdoor Sporting Goods,4,Southwest,US,613,SC,Mr.,Chris,,Cannon,0
+29624,AW00029624,616,Tread Industries,5,Southeast,US,615,SC,Mr.,Joseph,J.,Cantoni,0
+29625,AW00029625,618,Petroleum Products Distributors,6,Canada,CA,617,SC,Ms.,Suzana De Abreu,A.,Canuto,2
+29626,AW00029626,620,Tandem Bicycle Store,5,Southeast,US,619,SC,Mr.,Jun,,Cao,0
+29627,AW00029627,622,Bikes and Motorbikes,6,Canada,CA,621,SC,Mr.,Johnny,A.,Caprio,0
+29628,AW00029628,624,Budget Toy Store,9,Australia,AU,623,SC,Mr.,Richard,,Carey,1
+29629,AW00029629,626,Camping and Sports Store,6,Canada,CA,625,SC,Mr.,Carlton,M.,Carlisle,0
+29630,AW00029630,628,Ace Bicycle Supply,7,France,FR,627,SC,Mr.,Ty Loren,,Carlson,0
+29631,AW00029631,630,Rural Department Store,4,Southwest,US,629,SC,Ms.,Jane,N.,Carmichael,1
+29632,AW00029632,632,Sports Commodities,1,Northwest,US,631,SC,Ms.,Jovita,A.,Carmody,0
+29633,AW00029633,634,Riverside Company,2,Northeast,US,633,SC,Mr.,Steve,J.,Carnes,2
+29634,AW00029634,636,Bicycle Exporters,8,Germany,DE,635,SC,Mr.,Fernando,,Caro,1
+29635,AW00029635,638,Responsible Bike Dealers,3,Central,US,637,SC,Mr.,Rob,,Caron,0
+29636,AW00029636,640,Western Bike Supplies,1,Northwest,US,639,SC,Mr.,Andy,,Carothers,0
+29637,AW00029637,642,Advanced Bike Components,4,Southwest,US,641,SC,Ms.,Donna,F.,Carreras,1
+29638,AW00029638,644,Aerobic Exercise Company,4,Southwest,US,643,SC,Ms.,Rosmarie,J.,Carroll,0
+29639,AW00029639,648,Corner Bicycle Supply,6,Canada,CA,647,SC,Mr.,Joseph,N.,Castellucio,2
+29640,AW00029640,650,Distance Bikes,5,Southeast,US,649,SC,Ms.,Pamela,A.,Carlson,2
+29641,AW00029641,652,Westside Plaza,4,Southwest,US,651,SC,Mr.,Raul,E.,Casts,0
+29642,AW00029642,654,Ultimate Bike Shop,5,Southeast,US,653,SC,Ms.,Elizabeth,E.,Catalano,0
+29643,AW00029643,656,Outstanding Cycles,1,Northwest,US,655,SC,Mr.,Matthew,J.,Cavallari,0
+29644,AW00029644,658,Vigorous Sports Store,10,United Kingdom,GB,657,SC,Ms.,Brigid,F.,Cavendish,1
+29645,AW00029645,660,Sports Merchandise,1,Northwest,US,659,SC,Mr.,Andrew,,Cencini,0
+29646,AW00029646,662,Fitness Toy Store,4,Southwest,US,661,SC,Ms.,Stacey,M.,Cereghino,1
+29647,AW00029647,664,Casual Bicycle Store,2,Northeast,US,663,SC,Mr.,Baris,,Cetinok,1
+29648,AW00029648,666,Fitness Discount Store,9,Australia,AU,665,SC,Mr.,Sean,,Chai,0
+29649,AW00029649,668,General Cycle Storehouse,6,Canada,CA,667,SC,Mr.,Pat,A.,Chambers,0
+29650,AW00029650,670,Fitness Cycling,4,Southwest,US,669,SC,Mr.,Forrest,J.,Chandler,1
+29651,AW00029651,672,Good Bike Shop,3,Central,US,671,SC,Mr.,Lee,J.,Chapla,2
+29652,AW00029652,676,Inexpensive Parts Shop,9,Australia,AU,675,SC,Mr.,Neil,,Charney,2
+29653,AW00029653,682,Thrilling Bike Tours,4,Southwest,US,681,SC,Mr.,Pei,,Chow,0
+29654,AW00029654,684,This Area Sporting Goods,3,Central,US,683,SC,Mr.,Yao-Qiang,,Cheng,1
+29655,AW00029655,686,Full-Service Bike Store,3,Central,US,685,SC,Ms.,Nicky,E.,Chesnut,2
+29656,AW00029656,688,Plastic Products Manufacturers,9,Australia,AU,687,SC,Ms.,Susan,B.,Chestnut,0
+29657,AW00029657,690,Kids and Adults Cycle Shop,9,Australia,AU,689,SC,Mr.,Martin,,Chisholm,0
+29658,AW00029658,692,Grand Discount Store,2,Northeast,US,691,SC,Mr.,Mike,M.,Choi,0
+29659,AW00029659,694,Genuine Bike Shop,4,Southwest,US,693,SC,Ms.,Ruth,A.,Choin,0
+29660,AW00029660,696,Extreme Riding Supplies,4,Southwest,US,695,SC,Mr.,Anthony,,Chor,1
+29661,AW00029661,698,Bike Rims Company,5,Southeast,US,697,SC,Mr.,Charles,M.,Christensen,2
+29662,AW00029662,700,Fleet Bikes,4,Southwest,US,699,SC,Ms.,Jill,J.,Christie,0
+29663,AW00029663,702,Local Hardware Factory,3,Central,US,701,SC,Ms.,Alice,,Clark,1
+29664,AW00029664,704,Only Bikes and Accessories,2,Northeast,US,703,SC,Ms.,Gina,N.,Clark,2
+29665,AW00029665,706,Rental Gallery,9,Australia,AU,705,SC,Mr.,James,J.,Clark,2
+29666,AW00029666,708,South Bike Company,6,Canada,CA,707,SC,Ms.,Jane,,Clayton,0
+29667,AW00029667,710,Wonderful Bikes Inc.,5,Southeast,US,709,SC,Ms.,Kristine,J.,Cleary,2
+29668,AW00029668,714,Discount Bicycle Specialists,3,Central,US,713,SC,Ms.,Connie,L.,Coffman,0
+29669,AW00029669,716,Famous Bike Sales and Service,2,Northeast,US,715,SC,Ms.,Jeanette,R.,Cole,2
+29670,AW00029670,718,First Supplies,9,Australia,AU,717,SC,Mr.,Eric,E.,Coleman,0
+29671,AW00029671,720,Machines & Cycles Store,6,Canada,CA,719,SC,Mr.,Pat,,Coleman,0
+29672,AW00029672,722,Pedals Warehouse,5,Southeast,US,721,SC,Mr.,Takiko,J.,Collins,0
+29673,AW00029673,724,Two Wheels Cycle Store,4,Southwest,US,723,SC,Mr.,John,L.,Colon,0
+29674,AW00029674,726,Westside Cycle Store,3,Central,US,725,SC,Mr.,Scott,A.,Colvin,2
+29675,AW00029675,728,Wholesale Bikes,2,Northeast,US,727,SC,Mr.,Aaron,,Con,0
+29676,AW00029676,730,Very Best Sports Supply,8,Germany,DE,729,SC,Mr.,Peter,,Connelly,0
+29677,AW00029677,732,Urban Sports Emporium,6,Canada,CA,731,SC,Mr.,William,J.,Conner,0
+29678,AW00029678,734,Superlative Bikes,5,Southeast,US,733,SC,Ms.,Stephanie,,Conroy,0
+29679,AW00029679,736,Primary Cycle Shop,8,Germany,DE,735,SC,Ms.,Amy,R.,Consentino,0
+29680,AW00029680,738,Sixth Bike Store,6,Canada,CA,737,SC,Ms.,Dorothy,J.,Contreras,0
+29681,AW00029681,740,Touring Services,5,Southeast,US,739,SC,Mr.,Patrick,M.,Cook,0
+29682,AW00029682,742,Vehicle Shop,4,Southwest,US,741,SC,Mr.,Scott,,Cooper,0
+29683,AW00029683,744,First Department Stores,1,Northwest,US,743,SC,Ms.,Eva,,Corets,1
+29684,AW00029684,746,Grand Sport Boutique,3,Central,US,745,SC,Mr.,Marlin,M.,Coriell,0
+29685,AW00029685,752,Elemental Sporting Goods,5,Southeast,US,751,SC,Ms.,Pamela,R.,Cox,1
+29686,AW00029686,754,Distinctive Store,4,Southwest,US,753,SC,Mr.,Jack,,Creasey,2
+29687,AW00029687,758,Nearby Bike Mall,8,Germany,DE,757,SC,Ms.,Shelley,R.,Crow,0
+29688,AW00029688,760,Handy Bike Services,3,Central,US,759,SC,Mr.,Grant,,Culbertson,0
+29689,AW00029689,762,Friendly Bike Shop,1,Northwest,US,761,SC,Mr.,Scott,,Culp,0
+29690,AW00029690,764,Fashionable Bikes and Accessories,1,Northwest,US,763,SC,Mr.,Conor,,Cunningham,0
+29691,AW00029691,766,Extreme Toy Store,5,Southeast,US,765,SC,Mr.,Jose,M.,Curry,0
+29692,AW00029692,768,Citywide Service and Repair,6,Canada,CA,767,SC,Mr.,Thierry,,D'Hers,0
+29693,AW00029693,770,Best Cycle Store,8,Germany,DE,769,SC,Mr.,Ryan,,Danner,2
+29694,AW00029694,772,Professional Sporting Goods,2,Northeast,US,771,SC,Mr.,Mike,,Danseglio,0
+29695,AW00029695,774,Rugged Bikes,1,Northwest,US,773,SC,Ms.,Megan,N.,Davis,0
+29696,AW00029696,776,Principal Bike Company,4,Southwest,US,775,SC,Sr.,Alvaro,,De Matos Miranda Filho,1
+29697,AW00029697,778,One-Piece Handle Bars,5,Southeast,US,777,SC,Mr.,Jose,,De Oliveira,2
+29698,AW00029698,780,Finer Riding Supplies,6,Canada,CA,779,SC,Mr.,Jacob,N.,Dean,1
+29699,AW00029699,782,Neighborhood Store,6,Canada,CA,781,SC,Mr.,Alexander,J.,Deborde,0
+29700,AW00029700,784,Online Bike Catalog,9,Australia,AU,783,SC,Ms.,Barbara,S.,Decker,0
+29701,AW00029701,786,Outdoor Equipment Store,2,Northeast,US,785,SC,Mr.,Kirk,,DeGrasse,0
+29702,AW00029702,788,Paint Supply,4,Southwest,US,787,SC,Ms.,Aidan,,Delaney,0
+29703,AW00029703,790,Preferred Bikes,4,Southwest,US,789,SC,Mr.,Stefan,,Delmarco,2
+29704,AW00029704,792,Rally Day Mall,5,Southeast,US,791,SC,Mr.,Shawn,R.,Demicell,2
+29705,AW00029705,794,Rewarding Activities Company,6,Canada,CA,793,SC,Ms.,Della,F.,Demott Jr,0
+29706,AW00029706,796,Rich Department Store,9,Australia,AU,795,SC,Mr.,Bruno,,Deniut,2
+29707,AW00029707,798,Sales and Supply Company,5,Southeast,US,797,SC,Ms.,Helen,J.,Dennis,2
+29708,AW00029708,800,Stationary Bikes and Stands,4,Southwest,US,799,SC,Mr.,Prashanth,,Desai,2
+29709,AW00029709,802,Successful Sales Company,1,Northwest,US,801,SC,Ms.,Bev,L.,Desalvo,1
+29710,AW00029710,804,Downtown Hotel,1,Northwest,US,803,SC,Ms.,Brenda,,Diaz,0
+29711,AW00029711,806,Certified Sports Supply,6,Canada,CA,805,SC,Ms.,Gabriele,,Dickmann,0
+29712,AW00029712,808,Registered Cycle Store,7,France,FR,807,SC,Ms.,Holly,,Dickson,0
+29713,AW00029713,810,Rampart Amusement Company,10,United Kingdom,GB,809,SC,Mr.,Dick,,Dievendorff,2
+29714,AW00029714,812,Sundry Sporting Goods,6,Canada,CA,811,SC,Mr.,Rudolph,J.,Dillon,0
+29715,AW00029715,814,Excellent Riding Supplies,5,Southeast,US,813,SC,Mr.,Andrew,,Dixon,0
+29716,AW00029716,816,Farthermost Bike Shop,4,Southwest,US,815,SC,Mr.,Blaine,,Dockter,1
+29717,AW00029717,818,Suburban Cycle Shop,1,Northwest,US,817,SC,Ms.,Cindy,M.,Dodd,2
+29718,AW00029718,820,Weekend Tours,2,Northeast,US,819,SC,Mr.,John,T.,Donovan,1
+29719,AW00029719,822,Racing Bike Outlet,1,Northwest,US,821,SC,Ms.,Patricia,,Doyle,0
+29720,AW00029720,824,Utilitarian Sporting Goods,1,Northwest,US,823,SC,Mr.,Gerald,M.,Drury,0
+29721,AW00029721,826,Bike Goods ,5,Southeast,US,825,SC,Mr.,Gary,T.,Drury,1
+29722,AW00029722,828,Vigorous Exercise Company,6,Canada,CA,827,SC,Mr.,Reuben,,D'sa,0
+29723,AW00029723,830,Showcase for Cycles,8,Germany,DE,829,SC,Mr.,Ed,,Dudenhoefer,0
+29724,AW00029724,832,Lease-a-Bike Shop,2,Northeast,US,831,SC,Mr.,Bernard,,Duerr,0
+29725,AW00029725,834,Functional Store South,8,Germany,DE,833,SC,Ms.,Tish,R.,Duff,2
+29726,AW00029726,836,Active Cycling,2,Northeast,US,835,SC,Sr.,Adrian,,Dumitrascu,0
+29727,AW00029727,838,Stock Parts and Supplies,1,Northwest,US,837,SC,Mr.,Bart,,Duncan,1
+29728,AW00029728,840,Roadway Supplies,1,Northwest,US,839,SC,Mr.,Maciej,,Dusza,1
+29729,AW00029729,842,Sensational Discount Store,5,Southeast,US,841,SC,Ms.,Shelley,,Dyck,0
+29730,AW00029730,844,Future Bikes,6,Canada,CA,843,SC,Ms.,Linda,R.,Ecoffey,2
+29731,AW00029731,846,Super Sports Store,2,Northeast,US,845,SC,Ms.,Carla,L.,Eldridge,0
+29732,AW00029732,848,Satin Finish Company,4,Southwest,US,847,SC,Ms.,Carol,B.,Elliott,2
+29733,AW00029733,850,Regional Manufacturing,4,Southwest,US,849,SC,Ms.,Shannon,P.,Elliott,0
+29734,AW00029734,852,Original Bicycle Supply Company,6,Canada,CA,851,SC,Ms.,Jauna,E.,Elson,1
+29735,AW00029735,854,First Center,7,France,FR,853,SC,Mr.,Michael,,Emanuel,0
+29736,AW00029736,856,Action Bicycle Specialists,10,United Kingdom,GB,855,SC,Mr.,Terry,,Eminhizer,0
+29737,AW00029737,858,Roadway Bike Emporium,1,Northwest,US,857,SC,Mr.,John,,Emory,1
+29738,AW00029738,860,Sleek Bikes ,3,Central,US,859,SC,Ms.,Gail,,Erickson,1
+29739,AW00029739,862,Retail Sporting Equipment,4,Southwest,US,861,SC,Mr.,Mark,B,Erickson,2
+29740,AW00029740,864,Price-Cutter Discount Bikes,6,Canada,CA,863,SC,Ms.,Martha,R.,Espinoza,1
+29741,AW00029741,868,Central Bicycle Specialists,10,United Kingdom,GB,867,SC,Sra.,Janeth,,Esteves,1
+29742,AW00029742,870,Vast Bike Sales and Rental,1,Northwest,US,869,SC,Ms.,Twanna,R.,Evans,2
+29743,AW00029743,872,Summer Sports Place,3,Central,US,871,SC,Ms.,Ann,R.,Evans,1
+29744,AW00029744,874,Real Sporting Goods,4,Southwest,US,873,SC,Mr.,John,,Evans,0
+29745,AW00029745,876,Versatile Sporting Goods Company,8,Germany,DE,875,SC,Mr.,Marc,,Faeber,0
+29746,AW00029746,878,Bicycle Outfitters,2,Northeast,US,877,SC,Mr.,Fadi,,Fakhouri,0
+29747,AW00029747,880,The Bike Shop,1,Northwest,US,879,SC,Ms.,Carolyn,,Farino,2
+29748,AW00029748,882,Safe Toys,4,Southwest,US,881,SC,Ms.,Geri,P.,Farrell,1
+29749,AW00029749,884,Qualified Sales and Repair Services,5,Southeast,US,883,SC,Ms.,Hanying,,Feng,0
+29750,AW00029750,886,Our Sporting Goods Store,6,Canada,CA,885,SC,Ms.,Rhoda,J.,Finley,0
+29751,AW00029751,888,Lustrous Paints and Components,8,Germany,DE,887,SC,Mr.,Duane,R.,Fitzgerald,1
+29752,AW00029752,890,Expert Sports Store,2,Northeast,US,889,SC,Mr.,James,,Fine,0
+29753,AW00029753,892,Coho Sports,1,Northwest,US,891,SC,Ms.,Kathie,,Flood,0
+29754,AW00029754,894,Jumbo Bikes,9,Australia,AU,893,SC,Mr.,Jay,,Fluegel,0
+29755,AW00029755,896,Quick Delivery Service,6,Canada,CA,895,SC,Ms.,Kelly,,Focht,1
+29756,AW00029756,898,Tough and Reliable Parts,5,Southeast,US,897,SC,Mr.,Jeffrey,L.,Ford,0
+29757,AW00029757,900,Basic Sports Equipment,4,Southwest,US,899,SC,Mr.,Garth,,Fort,0
+29758,AW00029758,902,Cash & Carry Bikes,4,Southwest,US,901,SC,Ms.,Dorothy,J.,Fox,2
+29759,AW00029759,904,Convenient Bike Shop,2,Northeast,US,903,SC,Ms.,Judith,B.,Frazier,0
+29760,AW00029760,906,Fitness Bike Accessories,9,Australia,AU,905,SC,Mr.,John,,Fredericksen,0
+29761,AW00029761,908,General Bike Corporation,6,Canada,CA,907,SC,Ms.,Susan,E.,French,0
+29762,AW00029762,910,Quitting Business Distributors,5,Southeast,US,909,SC,Mr.,Liam,J.,Friedland,0
+29763,AW00029763,912,Retail Cycle Shop,4,Southwest,US,911,SC,Mr.,Mihail,,Frintu,0
+29764,AW00029764,914,Social Activities Club,4,Southwest,US,913,SC,Mr.,John,,Ford,2
+29765,AW00029765,916,Blue Bicycle Company,3,Central,US,915,SC,Mr.,Paul,J.,Fulton,2
+29766,AW00029766,920,General Riding Supplies,6,Canada,CA,919,SC,Mr.,Bob,,Gage,1
+29767,AW00029767,922,Parts Shop,5,Southeast,US,921,SC,Ms.,Aldeen,J.,Gallagher,2
+29768,AW00029768,924,Riding Excursions,4,Southwest,US,923,SC,Mr.,Michael,,Galos,0
+29769,AW00029769,926,Unique Bikes,3,Central,US,925,SC,Mr.,Jon,,Ganio,1
+29770,AW00029770,928,Rural Cycle Emporium,6,Canada,CA,927,SC,Ms.,Kathleen,M.,Garza,2
+29771,AW00029771,930,Associated Bikes,1,Northwest,US,929,SC,Mr.,Dominic,P.,Gash,0
+29772,AW00029772,932,Modular Cycle Systems,4,Southwest,US,931,SC,Ms.,Janet,M.,Gates,0
+29773,AW00029773,934,A Bike Store,1,Northwest,US,933,SC,Mr.,Orlando,N.,Gee,0
+29774,AW00029774,936,Journey Sporting Goods,4,Southwest,US,935,SC,Mr.,Darren,,Gehring,1
+29775,AW00029775,938,Two Bike Shops,1,Northwest,US,937,SC,Mr.,Jim,,Geist,0
+29776,AW00029776,940,Cycles Wholesaler & Mfg.,10,United Kingdom,GB,939,SC,Ms.,Barbara,J.,German,0
+29777,AW00029777,942,Wheels Inc.,7,France,FR,941,SC,Mr.,Tom,,Getzinger,0
+29778,AW00029778,944,Number One Bike Co.,10,United Kingdom,GB,943,SC,Mr.,Leo,,Giakoumakis,1
+29779,AW00029779,946,Racing Supply Distributors,7,France,FR,945,SC,Mr.,Cornett,L.,Gibbens,1
+29780,AW00029780,948,Standard Bikes,6,Canada,CA,947,SC,Mr.,Frances,J.,Giglio,2
+29781,AW00029781,950,The Bicycle Accessories Company,4,Southwest,US,949,SC,Mr.,Guy,,Gilbert,0
+29782,AW00029782,952,Active Systems,3,Central,US,951,SC,Ms.,Janet,J.,Gilliat,0
+29783,AW00029783,954,Futuristic Sport Distributors,3,Central,US,953,SC,Ms.,Mary,M.,Gimmi,0
+29784,AW00029784,958,Big-Time Bike Store,4,Southwest,US,957,SC,Ms.,Jeanie,R.,Glenn,2
+29785,AW00029785,960,The Showroom,6,Canada,CA,959,SC,Ms.,Diane,R.,Glimp,0
+29786,AW00029786,962,Spa and Exercise Outfitters,7,France,FR,961,SC,Mr.,James,R.,Glynn,0
+29787,AW00029787,964,Year-Round Sports,1,Northwest,US,963,SC,Mr.,Scott,,Gode,0
+29788,AW00029788,966,The New Bike Store,4,Southwest,US,965,SC,Mr.,Mete,,Goktepe,2
+29789,AW00029789,970,Primary Bike Distributors,6,Canada,CA,969,SC,Mr.,Brian,R,Goldstein,0
+29790,AW00029790,972,Major Bicycle Store,9,Australia,AU,971,SC,Ms.,Lynn,A.,Gonzales,0
+29791,AW00029791,974,Leather and Vinyl Manufacturing,2,Northeast,US,973,SC,Ms.,Linda,L.,Gonzales,0
+29792,AW00029792,976,Genial Bike Associates,4,Southwest,US,975,SC,Ms.,Abigail,J.,Gonzalez,0
+29793,AW00029793,978,Commercial Sporting Goods,4,Southwest,US,977,SC,Mr.,Michael,,Graff,2
+29794,AW00029794,980,Wholesale Parts,6,Canada,CA,979,SC,Mr.,Derek,,Graham,0
+29795,AW00029795,982,Steel Inc.,7,France,FR,981,SC,Mr.,Lowell,J.,Graham,1
+29796,AW00029796,984,Riding Cycles,10,United Kingdom,GB,983,SC,Mr.,Jon,,Grande,1
+29797,AW00029797,986,Metro Manufacturing,6,Canada,CA,985,SC,Ms.,Jane,P.,Greer,1
+29798,AW00029798,988,Manufacturers Inc,5,Southeast,US,987,SC,Mr.,Geoff,,Grisso,1
+29799,AW00029799,990,Locks Company,4,Southwest,US,989,SC,Mr.,Douglas,,Groncki,1
+29800,AW00029800,992,Latest Accessories Sales,1,Northwest,US,991,SC,Mr.,Brian,,Groth,1
+29801,AW00029801,994,Incomparable Bicycle Store,2,Northeast,US,993,SC,Ms.,Faith,M.,Gustafson,1
+29802,AW00029802,996,Hometown Riding Supplies,8,Germany,DE,995,SC,Mr.,Greg,,Harrison,0
+29803,AW00029803,998,Greater Bike Store,6,Canada,CA,997,SC,Ms.,Hattie,J.,Haemon,0
+DimCustomerID,SRC_ID_Customer,AccountNumber,SRC_ID_Store,StoreName,SRC_ID_CustomerTerritory,CustomerTerritoryName,CustomerTerritoryCountryRegionCode,SRC_ID_Person,PersonPersonType,PersonTitle,PersonFirstName,PersonMiddleName,PersonLastName,PersonEmailPromotion
+1,29804,AW00029804,1000,Games and Sport Supply Company,5,Southeast,US,999,SC,Mr.,Matthew,M.,Hagemann,0
+2,29805,AW00029805,1002,Distant Inn,4,Southwest,US,1001,SC,Ms.,Erin,M.,Hagens,0
+3,29806,AW00029806,1004,Finer Mart,1,Northwest,US,1003,SC,Ms.,Betty,M.,Haines,2
+4,29807,AW00029807,1010,Cross-Country Riding Supplies,6,Canada,CA,1009,SC,Mr.,Bryan,,Hamilton,0
+5,29808,AW00029808,1012,Stylish Department Stores,5,Southeast,US,1011,SC,Mr.,James,R.,Hamilton,0
+6,29809,AW00029809,1014,Bike World,4,Southwest,US,1013,SC,Mr.,Kerim,,Hanif,0
+7,29810,AW00029810,1016,Central Discount Store,1,Northwest,US,1015,SC,Ms.,Jean,P.,Handley,2
+8,29811,AW00029811,1018,Trusted Catalog Store,5,Southeast,US,1017,SC,Mr.,Mark,,Hanson,0
+9,29812,AW00029812,1020,Bicycle Warehouse Inc.,8,Germany,DE,1019,SC,Mr.,William,J.,Hapke,2
+10,29813,AW00029813,1022,Sharp Bikes,6,Canada,CA,1021,SC,Ms.,Katherine,,Harding,2
+11,29814,AW00029814,1024,Exemplary Cycles,5,Southeast,US,1023,SC,Ms.,Kimberly,Beth,Harrington,1
+12,29815,AW00029815,1026,Metropolitan Sports Supply,4,Southwest,US,1025,SC,Mr.,Lucy,,Harrington,0
+13,29816,AW00029816,1028,Progressive Sports,1,Northwest,US,1027,SC,Mr.,Keith,,Harris,2
+14,29817,AW00029817,1030,Underglaze and Finish Company,5,Southeast,US,1029,SC,Ms.,Doris,,Hartwig,0
+15,29818,AW00029818,1032,Brakes and Gears,1,Northwest,US,1031,SC,Mr.,Roger,,Harui,2
+16,29819,AW00029819,1034,The Accessories Store,3,Central,US,1033,SC,Ms.,Ann,T.,Hass,2
+17,29820,AW00029820,1036,Mountain Bike Store,2,Northeast,US,1035,SC,Mr.,Mark,,Hassall,1
+18,29821,AW00029821,1038,Bike Part Wholesalers,9,Australia,AU,1037,SC,Mr.,Neal,B.,Hasty,1
+19,29822,AW00029822,1040,Family Cycle Store,6,Canada,CA,1039,SC,Mr.,James,B.,Haugh,1
+20,29823,AW00029823,1042,Popular Bike Lines,9,Australia,AU,1041,SC,Mr.,Jeff,,Hay,1
+21,29824,AW00029824,1044,Superb Sales and Repair,6,Canada,CA,1043,SC,Ms.,Brenda,F.,Heaney,0
+22,29825,AW00029825,1046,Better Bike Shop,5,Southeast,US,1045,SC,,James,,Hendergart,0
+23,29826,AW00029826,1048,Countryside Company,1,Northwest,US,1047,SC,Mr.,John,,Hanson,1
+24,29827,AW00029827,1050,First Bike Store,3,Central,US,1049,SC,Ms.,Valerie,M.,Hendricks,1
+25,29828,AW00029828,1052,Traditional Department Stores,2,Northeast,US,1051,SC,Mr.,Jay,,Henningsen,0
+26,29829,AW00029829,1054,Eastside Cycle Shop,9,Australia,AU,1053,SC,Mr.,Jeff,D.,Henshaw,0
+27,29830,AW00029830,1056,General Department Stores,6,Canada,CA,1055,SC,Mr.,Kari,,Hensien,1
+28,29831,AW00029831,1060,Operational Manufacturing,6,Canada,CA,1059,SC,Ms.,Irene,J.,Hernandez,0
+29,29832,AW00029832,1062,Online Bike Warehouse,6,Canada,CA,1061,SC,Mr.,Jésus,,Hernandez,0
+30,29833,AW00029833,1064,Retread Tire Company,5,Southeast,US,1063,SC,Ms.,Pam,L.,Herrick,0
+31,29834,AW00029834,1066,Small Bike Shop,4,Southwest,US,1065,SC,Ms.,Cheryl,M.,Herring,0
+32,29835,AW00029835,1068,Superior Hardware Distributors,1,Northwest,US,1067,SC,Mr.,Ronald,K.,Heymsfield,0
+33,29836,AW00029836,1070,Fitness Sport Boutique,2,Northeast,US,1069,SC,Mr.,Sidney,,Higa,2
+34,29837,AW00029837,1072,Producer Goods Clearinghouse,8,Germany,DE,1071,SC,Ms.,Onetha,F.,Higgs,1
+35,29838,AW00029838,1074,Recreation Systems,2,Northeast,US,1073,SC,Ms.,Fran,P.,Highfill,0
+36,29839,AW00029839,1076,Rustic Bike Store,8,Germany,DE,1075,SC,Ms.,Geneva,T.,Hill,2
+37,29840,AW00029840,1078,Eastside Parts Shop,6,Canada,CA,1077,SC,Mr.,Andrew,R.,Hill,0
+38,29841,AW00029841,1080,Exchange Parts Inc.,5,Southeast,US,1079,SC,Mr.,Reinout,,Hillmann,0
+39,29842,AW00029842,1082,First Cycle Store,4,Southwest,US,1081,SC,Mr.,Mike,,Hines,1
+40,29843,AW00029843,1084,Running and Cycling Gear,1,Northwest,US,1083,SC,Mr.,Matthew,,Hink,2
+41,29844,AW00029844,1086,Seventh Bike Store,2,Northeast,US,1085,SC,Ms.,Nancy,E.,Hirota,0
+42,29845,AW00029845,1088,Fast Services,8,Germany,DE,1087,SC,Ms.,Rose,,Hirsch,1
+43,29846,AW00029846,1090,General Associates,5,Southeast,US,1089,SC,Mr.,Douglas,,Hite,0
+44,29847,AW00029847,1092,Good Toys,4,Southwest,US,1091,SC,Mr.,David,,Hodgson,2
+45,29848,AW00029848,1094,Little Bicycle Supply Shop,3,Central,US,1093,SC,Ms.,Helge,,Hoeing,1
+46,29849,AW00029849,1096,Retail Toy Store,5,Southeast,US,1095,SC,Ms.,Barbara,,Hoffman,0
+47,29850,AW00029850,1100,All Seasons Sports Supply,4,Southwest,US,1099,SC,Mr.,Bob,,Hodges,1
+48,29851,AW00029851,1102,Leisure Clearing House,10,United Kingdom,GB,1101,SC,Ms.,Jean,J.,Holloway,1
+49,29852,AW00029852,1106,The Commissary,6,Canada,CA,1105,SC,Mr.,Eddie,M.,Holmes,0
+50,29853,AW00029853,1108,Affordable Sports Equipment,4,Southwest,US,1107,SC,Ms.,Juanita,J.,Holman,2
+51,29854,AW00029854,1110,Local Sales and Rental,3,Central,US,1109,SC,Mr.,Peter,,Houston,2
+52,29855,AW00029855,1112,Economy Center,6,Canada,CA,1111,SC,Mr.,Curtis,P.,Howard,0
+53,29856,AW00029856,1114,Community Department Stores,7,France,FR,1113,SC,Mr.,Joe,,Howard,2
+54,29857,AW00029857,1116,Area Sheet Metal Supply,10,United Kingdom,GB,1115,SC,Ms.,Janice,K.,Hows,2
+55,29858,AW00029858,1118,Synthetic Materials Manufacturing,1,Northwest,US,1117,SC,Mr.,George,M.,Huckaby,0
+56,29859,AW00029859,1120,Rural Sales and Service,4,Southwest,US,1119,SC,Mr.,Joshua,J.,Huff,1
+57,29860,AW00029860,1122,Tubeless Tire Company,10,United Kingdom,GB,1121,SC,Ms.,Arlene,,Huff,1
+58,29861,AW00029861,1126,Hardware Components,3,Central,US,1125,SC,Ms.,Phyllis,R.,Huntsman,2
+59,29862,AW00029862,1128,Retail Sporting Goods,1,Northwest,US,1127,SC,Mr.,Lawrence,E.,Hurkett,1
+60,29863,AW00029863,1130,Efficient Cycling,6,Canada,CA,1129,SC,Mr.,Ryan,,Ihrig,2
+61,29864,AW00029864,1132,General Industries,6,Canada,CA,1131,SC,Ms.,Beth,,Inghram,1
+62,29865,AW00029865,1134,Highway Bike Shop,4,Southwest,US,1133,SC,Mr.,Lucio,,Iallo,2
+63,29866,AW00029866,1136,Rental Bikes,4,Southwest,US,1135,SC,Mr.,Richard,L.,Irwin,0
+64,29867,AW00029867,1138,Roving Sports,1,Northwest,US,1137,SC,Mr.,Erik,,Ismert,2
+65,29868,AW00029868,1140,Express Bike Services,10,United Kingdom,GB,1139,SC,Ms.,Denean,J.,Ison,1
+66,29869,AW00029869,1142,Major Amusement Company,7,France,FR,1141,SC,Mr.,Raman,,Iyer,0
+67,29870,AW00029870,1144,Retail Discount Store,6,Canada,CA,1143,SC,Mr.,Bronson,R.,Jacobs,2
+68,29871,AW00029871,1146,Vale Riding Supplies,4,Southwest,US,1145,SC,Mr.,Eric,A.,Jacobsen,0
+69,29872,AW00029872,1148,A Great Bicycle Company,3,Central,US,1147,SC,Ms.,Jodan,M.,Jacobson,0
+70,29873,AW00029873,1150,Certified Bicycle Supply,1,Northwest,US,1149,SC,Ms.,Mary,,Alexander,0
+71,29874,AW00029874,1152,Exceptional Cycle Services,10,United Kingdom,GB,1151,SC,Mr.,David,,Jaffe,0
+72,29875,AW00029875,1154,Instant Cycle Store,7,France,FR,1153,SC,Mr.,Jay,,Jamison,1
+73,29876,AW00029876,1156,Leisure Activities,6,Canada,CA,1155,SC,Ms.,Vance,P.,Johns,0
+74,29877,AW00029877,1158,Paints and Solvents Company,3,Central,US,1157,SC,Ms.,Joyce,,Jarvis,0
+75,29878,AW00029878,1160,West Wind Distributors,8,Germany,DE,1159,SC,Mr.,George,,Jiang,0
+76,29879,AW00029879,1162,Bikes for Kids and Adults,6,Canada,CA,1161,SC,Mr.,Stephen,Yuan,Jiang,0
+77,29880,AW00029880,1164,Consolidated Sales,5,Southeast,US,1163,SC,Mr.,Samuel,A.,Johnson,0
+78,29881,AW00029881,1166,Home Town Bike Store,6,Canada,CA,1165,SC,Ms.,Danielle,B.,Johnson,1
+79,29882,AW00029882,1168,Optimal Bikes,5,Southeast,US,1167,SC,Mr.,Greg,M.,Johnson,1
+80,29883,AW00029883,1170,Sample Bike Store,3,Central,US,1169,SC,Mr.,Barry,,Johnson,1
+81,29884,AW00029884,1172,Extras Sporting Goods,3,Central,US,1171,SC,Mr.,Brian,,Johnson,2
+82,29885,AW00029885,1174,Sure & Reliable Sporting Goods,1,Northwest,US,1173,SC,Mr.,David,,Johnson,2
+83,29886,AW00029886,1176,Eleventh Bike Store,2,Northeast,US,1175,SC,Mr.,Willis,,Johnson,1
+84,29887,AW00029887,1178,Enterprise Center,8,Germany,DE,1177,SC,Ms.,Tamara,,Johnston,0
+85,29888,AW00029888,1182,New and Used Bicycles,5,Southeast,US,1181,SC,Mr.,Brannon,,Jones,2
+86,29889,AW00029889,1184,Separate Parts Corporation,4,Southwest,US,1183,SC,Ms.,Jean,,Jordan,1
+87,29890,AW00029890,1186,Basic Bike Company,1,Northwest,US,1185,SC,Ms.,Peggy,J.,Justice,0
+88,29891,AW00029891,1188,Fabrikam Inc., West,3,Central,US,1187,SC,Ms.,Diane,F.,Krane,0
+89,29892,AW00029892,1192,Non-Slip Pedal Company,6,Canada,CA,1191,SC,Ms.,Sandra,T.,Kitt,0
+90,29893,AW00029893,1196,Weekend Bike Tours,4,Southwest,US,1195,SC,Mr.,Sandeep,,Kaliyath,0
+91,29894,AW00029894,1198,Fabrikam Inc., East,8,Germany,DE,1197,SC,Mr.,John,,Kane,1
+92,29895,AW00029895,1200,General Supplies,6,Canada,CA,1199,SC,Ms.,Lori,,Kane,0
+93,29896,AW00029896,1202,Noiseless Gear Company,5,Southeast,US,1201,SC,Ms.,Judith,F.,Krane,2
+94,29897,AW00029897,1204,Racing Toys,4,Southwest,US,1203,SC,Ms.,Kay,E.,Krane,0
+95,29898,AW00029898,1206,Capable Sales and Service,1,Northwest,US,1205,SC,Mr.,Sandeep,,Katyal,2
+96,29899,AW00029899,1210,Pretty Bikes and Toys,7,France,FR,1209,SC,Mr.,Kendall,,Keil,0
+97,29900,AW00029900,1212,Road Way Sales and Rental,6,Canada,CA,1211,SC,Mr.,Victor,A.,Kelley,2
+98,29901,AW00029901,1214,Sturdy Toys,4,Southwest,US,1213,SC,Mr.,John,,Kelly,1
+99,29902,AW00029902,1216,Beneficial Exercises and Activities,4,Southwest,US,1215,SC,Mr.,Robert,,Kelly,1
+100,29903,AW00029903,1218,Fad Outlet,1,Northwest,US,1217,SC,Mr.,Kevin,,Kennedy,1
+101,29904,AW00029904,1220,Commerce Bicycle Specialists,10,United Kingdom,GB,1219,SC,Ms.,Mary,R.,Kesslep,0
+102,29905,AW00029905,1224,Acceptable Sales & Service,6,Canada,CA,1223,SC,Ms.,Elizabeth,,Keyser,0
+103,29906,AW00029906,1228,District Mall,3,Central,US,1227,SC,Mr.,Imtiaz,,Khan,0
+104,29907,AW00029907,1230,Fitness Supplies,1,Northwest,US,1229,SC,Ms.,Karan,,Khanna,0
+105,29908,AW00029908,1232,Mail Market,10,United Kingdom,GB,1231,SC,Mr.,Joe,,Kim,2
+106,29909,AW00029909,1234,Spare Parts Co.,7,France,FR,1233,SC,Mr.,Jim,,Kim,0
+107,29910,AW00029910,1236,Twelfth Bike Store,6,Canada,CA,1235,SC,Mr.,Shane,S.,Kim,0
+108,29911,AW00029911,1238,Consolidated Messenger,6,Canada,CA,1237,SC,Mr.,Tim,,Kim,0
+109,29912,AW00029912,1240,Daring Rides,5,Southeast,US,1239,SC,Mr.,Russell,,King,0
+110,29913,AW00029913,1242,Field Trip Store,3,Central,US,1241,SC,Mr.,Anton,,Kirilov,1
+111,29914,AW00029914,1244,Finish and Sealant Products,4,Southwest,US,1243,SC,Mr.,Christian,,Kleinerman,0
+112,29915,AW00029915,1246,Finer Parts Shop,1,Northwest,US,1245,SC,Mr.,Andrew,P.,Kobylinski,0
+113,29916,AW00029916,1248,Glossy Bikes,2,Northeast,US,1247,SC,Mr.,Reed,,Koch,1
+114,29917,AW00029917,1250,Next Door Cycles,8,Germany,DE,1249,SC,Mr.,Jim,,Kennedy,2
+115,29918,AW00029918,1252,Up-To-Date Sports,6,Canada,CA,1251,SC,Mr.,Kirk,T,King,2
+116,29919,AW00029919,1254,Mountain Bike Center,4,Southwest,US,1253,SC,Mr.,Eugene,,Kogan,0
+117,29920,AW00029920,1256,Specialty Sports Store,4,Southwest,US,1255,SC,Mr.,Scott,,Konersmann,2
+118,29921,AW00029921,1258,Scooters and Bikes Store,1,Northwest,US,1257,SC,Ms.,Joy,R.,Koski,0
+119,29922,AW00029922,1260,Closest Bicycle Store,10,United Kingdom,GB,1259,SC,Ms.,Pamala,M.,Kotc,2
+120,29923,AW00029923,1262,Roadway Bicycle Supply,7,France,FR,1261,SC,Mr.,Edward,J.,Kozlowski,0
+121,29924,AW00029924,1266,Reasonable Bicycle Sales,3,Central,US,1265,SC,Mr.,Mitch,,Kennedy,1
+122,29925,AW00029925,1270,Outdoor Sports Supply,1,Northwest,US,1269,SC,Ms.,Margaret,T.,Krupka,0
+123,29926,AW00029926,1272,Outdoor Aerobic Systems Company,10,United Kingdom,GB,1271,SC,Mr.,Deepak,,Kumar,0
+124,29927,AW00029927,1274,Self-Contained Cycle Parts Company,7,France,FR,1273,SC,Mr.,Jeffrey,B.,Kung,0
+125,29928,AW00029928,1276,Metal Clearing House,6,Canada,CA,1275,SC,Mr.,Vamsi,,Kuppa,0
+126,29929,AW00029929,1278,Many Bikes Store,4,Southwest,US,1277,SC,Mr.,Jeffrey,,Kurtz,2
+127,29930,AW00029930,1280,Largest Bike Store,3,Central,US,1279,SC,Mr.,Peter,,Kurniawan,0
+128,29931,AW00029931,1282,Kickstands and Accessories Company,1,Northwest,US,1281,SC,Mr.,Eric,,Lang,0
+129,29932,AW00029932,1284,Instruments and Parts Company,10,United Kingdom,GB,1283,SC,Ms.,Rebecca,,Laszlo,0
+130,29933,AW00029933,1286,Neighborhood Bicycle Storehouse,7,France,FR,1285,SC,Ms.,Cecilia,M.,Laursen,0
+131,29934,AW00029934,1288,Gear-Shift Bikes Limited,6,Canada,CA,1287,SC,Mr.,David,O,Lawrence,0
+132,29935,AW00029935,1290,Frugal Bike Shop,1,Northwest,US,1289,SC,Ms.,Elsa,,Leavitt,0
+133,29936,AW00029936,1292,Family Entertainment Center,1,Northwest,US,1291,SC,Mr.,Michael,J.,Lee,1
+134,29937,AW00029937,1294,Go-cart and Bike Specialists,4,Southwest,US,1293,SC,Ms.,Marjorie,M.,Lee,0
+135,29938,AW00029938,1296,Trailblazing Sports,4,Southwest,US,1295,SC,Mr.,Frank,,Campbell,1
+136,29939,AW00029939,1298,Racing Partners,6,Canada,CA,1297,SC,Mr.,Mark,,Lee,0
+137,29940,AW00029940,1300,Perfect Toys,7,France,FR,1299,SC,Mr.,Robertson,,Lee,2
+138,29941,AW00029941,1302,Exhibition Showroom,10,United Kingdom,GB,1301,SC,Ms.,Jolie,,Lenehan,0
+139,29942,AW00029942,1304,Authorized Bike Sales and Rental,1,Northwest,US,1303,SC,Mr.,Roger,,Lengel,2
+140,29943,AW00029943,1306,Two-Seater Bikes,4,Southwest,US,1305,SC,,A.,Francesca,Leonetti,2
+141,29944,AW00029944,1308,More Bikes!,4,Southwest,US,1307,SC,Ms.,Bonnie,B.,Lepro,0
+142,29945,AW00029945,1310,Unified Sports Company,5,Southeast,US,1309,SC,Ms.,Gloria,J.,Lesko,0
+143,29946,AW00029946,1312,National Manufacturing,6,Canada,CA,1311,SC,Ms.,Linda,,Leste,1
+144,29947,AW00029947,1316,Wheelsets Storehouse,2,Northeast,US,1315,SC,Ms.,Judy,,Lew,1
+145,29948,AW00029948,1318,Town Industries,4,Southwest,US,1317,SC,Ms.,Elsie,L.,Lewin,0
+146,29949,AW00029949,1320,Security Racks and Locks Wholesalers,1,Northwest,US,1319,SC,Mr.,George,Z.,Li,0
+147,29950,AW00029950,1322,Rapid Bikes,6,Canada,CA,1321,SC,Mr.,Yale,,Li,1
+148,29951,AW00029951,1324,Metro Sports Equipment,7,France,FR,1323,SC,Ms.,Yan,,Li,0
+149,29952,AW00029952,1326,Nearby Sporting Goods,10,United Kingdom,GB,1325,SC,Ms.,Yuhong,,Li,0
+150,29953,AW00029953,1328,Front Sporting Goods,1,Northwest,US,1327,SC,Mr.,Joseph,M.,Lique,0
+151,29954,AW00029954,1330,Elite Bikes,4,Southwest,US,1329,SC,Mr.,Paulo,H.,Lisboa,0
+152,29955,AW00029955,1332,Catalog Store,3,Central,US,1331,SC,Mr.,David,J.,Liu,1
+153,29956,AW00029956,1334,Chic Department Stores,4,Southwest,US,1333,SC,,Jinghao,,Liu,2
+154,29957,AW00029957,1336,Eastside Department Store,4,Southwest,US,1335,SC,Mr.,Kevin,,Liu,2
+155,29958,AW00029958,1338,Sports Sales and Rental,5,Southeast,US,1337,SC,Mr.,Run,,Liu,1
+156,29959,AW00029959,1340,Cycle Merchants,6,Canada,CA,1339,SC,Mr.,Todd,R.,Logan,0
+157,29960,AW00029960,1342,Global Sports Outlet,9,Australia,AU,1341,SC,Mr.,Kok-Ho,,Loh,1
+158,29961,AW00029961,1344,Exotic Bikes,2,Northeast,US,1343,SC,Mr.,John,K.,Long,0
+159,29962,AW00029962,1346,Fitness Hotel,3,Central,US,1345,SC,Ms.,Sharon,J.,Looney,0
+160,29963,AW00029963,1350,Every Bike Shop,5,Southeast,US,1349,SC,Mr.,Spencer,,Low,0
+161,29964,AW00029964,1352,Grand Industries,6,Canada,CA,1351,SC,Ms.,Anita,R.,Lucerne,1
+162,29965,AW00029965,1354,Ideal Components,9,Australia,AU,1353,SC,Mr.,Jose,,Lugo,1
+163,29966,AW00029966,1356,Larger Cycle Shop,2,Northeast,US,1355,SC,Mr.,Richard,,Lum,0
+164,29967,AW00029967,1358,Leading Sales & Repair,3,Central,US,1357,SC,Ms.,Judy,R.,Lundahl,0
+165,29968,AW00029968,1362,Metro Bike Mart,5,Southeast,US,1361,SC,Ms.,Helen,R.,Lutes,2
+166,29969,AW00029969,1364,Tandem Sales and Service,6,Canada,CA,1363,SC,Mr.,Robert,P.,Lyeba,0
+167,29970,AW00029970,1366,Sensible Sports,9,Australia,AU,1365,SC,Ms.,Sharon,F.,Lynn,0
+168,29971,AW00029971,1368,Reliable Retail Center,6,Canada,CA,1367,SC,Mr.,Robert,,Lyon,1
+169,29972,AW00029972,1370,Liquidation Sales,9,Australia,AU,1369,SC,Ms.,Jenny,,Lysaker,0
+170,29973,AW00029973,1372,Friendly Bike Shop,3,Central,US,1371,SC,Ms.,Denise,R.,Maccietto,0
+171,29974,AW00029974,1374,Yellow Bicycle Company,3,Central,US,1373,SC,Mr.,Scott,,MacDonald,0
+172,29975,AW00029975,1376,Sports Products Store,4,Southwest,US,1375,SC,Mr.,Walter,J.,Mays,1
+173,29976,AW00029976,1378,Selected Distributors,5,Southeast,US,1377,SC,Mr.,Patrick,J.,Magenheimer,2
+174,29977,AW00029977,1380,Impervious Paint Company,7,France,FR,1379,SC,Ms.,Kimberly,N.,Malmendier,0
+175,29978,AW00029978,1382,Shipping Specialists,10,United Kingdom,GB,1381,SC,Mr.,Ajay,,Manchepalli,0
+176,29979,AW00029979,1384,Finer Sporting Goods,7,France,FR,1383,SC,Ms.,Parul,,Manek,0
+177,29980,AW00029980,1386,Authentic Sales and Service,10,United Kingdom,GB,1385,SC,Mr.,Tomas,M.,Manzanares,1
+178,29981,AW00029981,1388,Official Parts Shop,1,Northwest,US,1387,SC,Ms.,Kathy,R.,Marcovecchio,0
+179,29982,AW00029982,1392,Discount Tours,4,Southwest,US,1391,SC,Ms.,Melissa,R.,Marple,2
+180,29983,AW00029983,1394,Tire Exchange,6,Canada,CA,1393,SC,Ms.,Cecelia,L.,Marshall,1
+181,29984,AW00029984,1396,Racing Tours,7,France,FR,1395,SC,Mr.,Benjamin,,Martin,2
+182,29985,AW00029985,1398,Oils and Fluids Warehouse,10,United Kingdom,GB,1397,SC,Ms.,Linda,,Martin,0
+183,29986,AW00029986,1400,Finished Parts Shop,7,France,FR,1399,SC,Ms.,Mindy,,Martin,1
+184,29987,AW00029987,1404,Rally Master Company Inc,4,Southwest,US,1403,SC,Mr.,Frank,,Mart!nez,1
+185,29988,AW00029988,1406,Professional Cyclists,6,Canada,CA,1405,SC,Mr.,Steve,,Masters,0
+186,29989,AW00029989,1408,Sports Products Store,7,France,FR,1407,SC,Mr.,Joseph,,Matthews,0
+187,29990,AW00029990,1410,Exclusive Bicycle Mart,10,United Kingdom,GB,1409,SC,Ms.,Jennifer,J.,Maxham,0
+188,29991,AW00029991,1412,City Manufacturing,1,Northwest,US,1411,SC,Mr.,Chris,,Maxwell,0
+189,29992,AW00029992,1414,Bike Dealers Association,4,Southwest,US,1413,SC,Ms.,Sandra,B.,Maynard,1
+190,29993,AW00029993,1416,Pedal Systems Company,5,Southeast,US,1415,SC,Mr.,John,J.,McClane,0
+191,29994,AW00029994,1418,Health Spa, Limited,6,Canada,CA,1417,SC,Ms.,Robin,M.,McGuigan,1
+192,29995,AW00029995,1420,Global Bike Retailers,8,Germany,DE,1419,SC,Ms.,Stacie,K.,Mcanich,0
+193,29996,AW00029996,1422,Fashionable Department Stores,2,Northeast,US,1421,SC,Ms.,Katie,,McAskill-White,2
+194,29997,AW00029997,1424,Closeout Boutique,1,Northwest,US,1423,SC,Ms.,Lola,M.,McCarthy,0
+195,29998,AW00029998,1426,Bicycle Merchandise Warehouse,4,Southwest,US,1425,SC,Ms.,Jane,A.,McCarty,2
+196,29999,AW00029999,1428,Spoke Manufacturers,5,Southeast,US,1427,SC,Ms.,Nikki,,McCormick,1
+197,30000,AW00030000,1430,Leather Seat Factory,6,Canada,CA,1429,SC,Mr.,James,L.,McCoy,0
+198,30001,AW00030001,1432,Good Bicycle Store,8,Germany,DE,1431,SC,Ms.,Christinia,A.,McDonald,1
+199,30002,AW00030002,1434,Endurance Bikes,2,Northeast,US,1433,SC,Mr.,Alejandro,,McGuel,0
+200,30003,AW00030003,1436,Practical Bike Supply Company,3,Central,US,1435,SC,Ms.,Yvonne,,McKay,0
+201,30004,AW00030004,1438,Some Discount Store,1,Northwest,US,1437,SC,Ms.,Nkenge,,McLin,1
+202,30005,AW00030005,1440,Variety Cycling,10,United Kingdom,GB,1439,SC,Ms.,Nancy,A.,McPhearson,2
+203,30006,AW00030006,1442,Accessories Network,7,France,FR,1441,SC,Ms.,Nellie,T.,Medina,0
+204,30007,AW00030007,1444,Remote Bicycle Specialists,6,Canada,CA,1443,SC,Ms.,Raquel,,Mello,1
+205,30008,AW00030008,1448,Friendly Neighborhood Bikes,3,Central,US,1447,SC,Mr.,R. Morgan,L.,Mendoza,0
+206,30009,AW00030009,1450,Guaranteed Sales and Service,2,Northeast,US,1449,SC,Mr.,Tosh,,Meston,0
+207,30010,AW00030010,1454,Recommended Bicycles,6,Canada,CA,1453,SC,Mr.,Stephen,A.,Mew,0
+208,30011,AW00030011,1456,Sunny Place Bikes,5,Southeast,US,1455,SC,Mr.,Eric,B.,Meyer,0
+209,30012,AW00030012,1458,Alpine Ski House,4,Southwest,US,1457,SC,Ms.,Helen,M.,Meyer,0
+210,30013,AW00030013,1460,Cycles and Scooters,5,Southeast,US,1459,SC,Ms.,Deanna,,Meyer,0
+211,30014,AW00030014,1462,Small Bike Accessories Shop,2,Northeast,US,1461,SC,Mr.,Gary,P.,Meyerhoff,0
+212,30015,AW00030015,1464,List Price Catalog Company,9,Australia,AU,1463,SC,Mr.,Ramesh,,Meyyappan,0
+213,30016,AW00030016,1466,Seats and Saddles Company,6,Canada,CA,1465,SC,Mr.,Thomas,R.,Michaels,2
+214,30017,AW00030017,1468,Village Tours,5,Southeast,US,1467,SC,Mr.,Jan,,Miksovsky,1
+215,30018,AW00030018,1470,All Cycle Shop,1,Northwest,US,1469,SC,Ms.,Virginia,L.,Miller,1
+216,30019,AW00030019,1472,Tachometers and Accessories,10,United Kingdom,GB,1471,SC,Mr.,Matthew,J.,Miller,0
+217,30020,AW00030020,1474,Cycles Sales and Repair,7,France,FR,1473,SC,Mr.,Emilo,R.,Miller,0
+218,30021,AW00030021,1476,Low Price Cycles,6,Canada,CA,1475,SC,Mr.,Ben,,Miller,1
+219,30022,AW00030022,1478,Metropolitan Manufacturing,4,Southwest,US,1477,SC,Mr.,Dylan,,Miller,1
+220,30023,AW00030023,1480,Orange Bicycle Company,3,Central,US,1479,SC,Mr.,Frank,,Miller,0
+221,30024,AW00030024,1482,Riding Associates,1,Northwest,US,1481,SC,Ms.,Neva,M.,Mitchell,0
+222,30025,AW00030025,1484,Essential Bike Works,10,United Kingdom,GB,1483,SC,Ms.,Linda,,Mitchell,0
+223,30026,AW00030026,1486,Rural Mountain Bike Mart,7,France,FR,1485,SC,Mr.,Scott,,Mitchell,1
+224,30027,AW00030027,1490,Engineered Bike Systems,4,Southwest,US,1489,SC,Mr.,Joseph,P.,Mitzner,2
+225,30028,AW00030028,1796,Professional Containers and Packaging Co.,4,Southwest,US,1795,SC,Ms.,Laura,C.,Steele,0
+226,30029,AW00030029,1798,One Bike Company,6,Canada,CA,1797,SC,Ms.,Shanay,B.,Steelman,0
+227,30030,AW00030030,1802,Cycling Goods,10,United Kingdom,GB,1801,SC,Mr.,Stefano,,Stefani,1
+228,30031,AW00030031,1804,Cycle Clearance,1,Northwest,US,1803,SC,Mr.,Alan,,Steiner,0
+229,30032,AW00030032,1806,Black Bicycle Company,3,Central,US,1805,SC,Mr.,Derik,,Stenerson,2
+230,30033,AW00030033,1808,Transport Bikes,1,Northwest,US,1807,SC,Mr.,Vassar,J.,Stern,0
+231,30034,AW00030034,1810,Sellers of Cycles,1,Northwest,US,1809,SC,Ms.,Wathalee,R.,Steuber,2
+232,30035,AW00030035,1812,Maintenance and Repair for Bicycles,4,Southwest,US,1811,SC,Ms.,Alice,M.,Steiner,2
+233,30036,AW00030036,1814,Fitness Department Stores,4,Southwest,US,1813,SC,Ms.,Liza Marie,N.,Stevens,2
+234,30037,AW00030037,1816,Famous Bike Shop,6,Canada,CA,1815,SC,Mr.,Jim,,Stewart,1
+235,30038,AW00030038,1818,Eastward Bike Accessories,9,Australia,AU,1817,SC,Ms.,Judy,R.,Storjohann,2
+236,30039,AW00030039,1822,Gift and Toy Store,3,Central,US,1821,SC,Mr.,Robert,B.,Stotka,0
+237,30040,AW00030040,1824,Major Sporting Goods,4,Southwest,US,1823,SC,Ms.,Kayla,M.,Stotler,0
+238,30041,AW00030041,1826,Executive Discount Store,5,Southeast,US,1825,SC,Mr.,Charles,J.,Strange,0
+239,30042,AW00030042,1828,Major Cycling,6,Canada,CA,1827,SC,Ms.,Ruby Sue,R.,Styles,0
+240,30043,AW00030043,1830,Getaway Inn,7,France,FR,1829,SC,Mr.,Min,,Su,0
+241,30044,AW00030044,1832,Downhill Bicycle Specialists,10,United Kingdom,GB,1831,SC,Mr.,Gary,J.,Suess,0
+242,30045,AW00030045,1834,Bike Experts,1,Northwest,US,1833,SC,Ms.,Ruth,J.,Suffin,1
+243,30046,AW00030046,1836,Extraordinary Bike Works,4,Southwest,US,1835,SC,Ms.,Elizabeth,J.,Sullivan,1
+244,30047,AW00030047,1838,Valley Bicycle Distributors,4,Southwest,US,1837,SC,Mr.,Michael,,Sullivan,2
+245,30048,AW00030048,1840,Top Sports Supply,6,Canada,CA,1839,SC,Ms.,Marcia,J.,Sultan,0
+246,30049,AW00030049,1842,Racing Sales and Service,7,France,FR,1841,SC,Mr.,Nate,,Sun,0
+247,30050,AW00030050,1844,Metropolitan Bicycle Supply,10,United Kingdom,GB,1843,SC,Mr.,Krishna,,Sunkammurali,0
+248,30051,AW00030051,1846,Honest Repair Service,1,Northwest,US,1845,SC,Mr.,Brad,,Sutton,1
+249,30052,AW00030052,1850,Wheel Gallery,4,Southwest,US,1849,SC,Mr.,Abraham,L.,Swearengin,0
+250,30053,AW00030053,1852,Top Bike Market,6,Canada,CA,1851,SC,Ms.,Katherine,K.,Swan,2
+251,30054,AW00030054,1856,Grown-up Bike Store,2,Northeast,US,1855,SC,Ms.,Shelly,,Szymanski,1
+252,30055,AW00030055,1858,Bicycle Lines Distributors,3,Central,US,1857,SC,Ms.,Julie,,Taft-Rider,0
+253,30056,AW00030056,1860,Sparkling Paint and Finishes,4,Southwest,US,1859,SC,Mr.,Clarence,R.,Tatman,0
+254,30057,AW00030057,1862,Racing Association,5,Southeast,US,1861,SC,Mr.,Damon,A.,Taylor,0
+255,30058,AW00030058,1864,Plastic Parts Company,6,Canada,CA,1863,SC,Mr.,Mike,M.,Taylor,2
+256,30059,AW00030059,1866,Gears and Parts Company,9,Australia,AU,1865,SC,Mr.,Denis,,Taylor,0
+257,30060,AW00030060,1868,Executive Gift Store,2,Northeast,US,1867,SC,Mr.,Jeff,E.,Teper,0
+258,30061,AW00030061,1870,Big Cycle Mall,4,Southwest,US,1869,SC,Mr.,Chad,J.,Tedford,1
+259,30062,AW00030062,1872,Budget Bike Company,5,Southeast,US,1871,SC,Mr.,Sameer,A.,Tejani,1
+260,30063,AW00030063,1874,Eighth Bike Store,4,Southwest,US,1873,SC,Ms.,Vanessa,J.,Tench,2
+261,30064,AW00030064,1876,Demand Distributors,1,Northwest,US,1875,SC,Ms.,Judy,J.,Thames,0
+262,30065,AW00030065,1878,Immediate Repair Shop,2,Northeast,US,1877,SC,Ms.,Karen,M.,Theisen,2
+263,30066,AW00030066,1880,Off-Price Bike Center,8,Germany,DE,1879,SC,Mr.,Ram,,Thirunavukkarasu,0
+264,30067,AW00030067,1882,Red Bicycle Company,6,Canada,CA,1881,SC,Ms.,Phyllis,A.,Thomas,1
+265,30068,AW00030068,1884,Retirement Activities Association,5,Southeast,US,1883,SC,Mr.,James,R.,Thomas,2
+266,30069,AW00030069,1886,Trendy Department Stores,4,Southwest,US,1885,SC,Mr.,Donald,M.,Thompson,0
+267,30070,AW00030070,1888,Vintage Sport Boutique,1,Northwest,US,1887,SC,Ms.,Kendra,N.,Thompson,0
+268,30071,AW00030071,1890,Travel Sports,1,Northwest,US,1889,SC,Mr.,Daniel,P.,Thompson,0
+269,30072,AW00030072,1892,West Side Mart,10,United Kingdom,GB,1891,SC,Ms.,Andrea,A.,Thomsen,1
+270,30073,AW00030073,1894,The Bike Outlet,7,France,FR,1893,SC,Ms.,Rossane,L.,Thoreson,2
+271,30074,AW00030074,1896,Tenth Bike Store,6,Canada,CA,1895,SC,Ms.,Yuping,,Tian,2
+272,30075,AW00030075,1898,Valuable Bike Parts Company,5,Southeast,US,1897,SC,Mr.,Mike,,Tiano,0
+273,30076,AW00030076,1900,Fun Times Club,3,Central,US,1899,SC,Ms.,Diane,,Tibbott,0
+274,30077,AW00030077,1902,Chain and Chain Tool Distributions,5,Southeast,US,1901,SC,Ms.,Danielle,,Tiedt,1
+275,30078,AW00030078,1904,Mobile Outlet,2,Northeast,US,1903,SC,Mr.,Tony,,Ting,0
+276,30079,AW00030079,1906,Regional Cycle Shop,8,Germany,DE,1905,SC,Mr.,John,,Tippett,1
+277,30080,AW00030080,1910,Wingtip Toys,1,Northwest,US,1909,SC,Ms.,Delia,B.,Toone,1
+278,30081,AW00030081,1912,The Cycle Store,5,Southeast,US,1911,SC,Mr.,Alvin,J.,Torre,1
+279,30082,AW00030082,1914,Educational Services,8,Germany,DE,1913,SC,Ms.,Anna,F.,Townsend,0
+280,30083,AW00030083,1916,Active Life Toys,6,Canada,CA,1915,SC,Mr.,Glenn,J.,Track,0
+281,30084,AW00030084,1918,Simple Bike Parts,5,Southeast,US,1917,SC,Mr.,Abe,M.,Tramel,0
+282,30085,AW00030085,1924,Bike Products and Accessories,5,Southeast,US,1923,SC,Ms.,Doris,J.,Traube,0
+283,30086,AW00030086,1926,Fitness Toys,8,Germany,DE,1925,SC,Ms.,Jean,E.,Trenary,1
+284,30087,AW00030087,1928,Quick Parts and Service,6,Canada,CA,1927,SC,Mr.,Billy,J.,Trent,0
+285,30088,AW00030088,1930,Reliable Brake Systems,5,Southeast,US,1929,SC,Mr.,David,F.,Trolen,2
+286,30089,AW00030089,1932,Thrifty Parts and Sales,4,Southwest,US,1931,SC,Mr.,Michael John,R.,Troyer,0
+287,30090,AW00030090,1934,A Typical Bike Shop,4,Southwest,US,1933,SC,Ms.,Christie,J.,Trujillo,0
+288,30091,AW00030091,1936,Active Transport Inc.,2,Northeast,US,1935,SC,Ms.,Lynn,,Tsoflias,0
+289,30092,AW00030092,1938,Cycle Parts and Accessories,9,Australia,AU,1937,SC,Ms.,Gracia,B.,Tuell,0
+290,30093,AW00030093,1940,Fasteners & Bolts Outlet,6,Canada,CA,1939,SC,Ms.,Phyllis,B.,Tuffield,0
+291,30094,AW00030094,1944,Quantity Discounts,4,Southwest,US,1943,SC,Mr.,Sairaj,,Uddin,1
+292,30095,AW00030095,1946,Swift Cycles,4,Southwest,US,1945,SC,Mr.,Sunil,,Uppal,0
+293,30096,AW00030096,1948,Classic Cycle Store,2,Northeast,US,1947,SC,Ms.,Mary,J.,Vaca,0
+294,30097,AW00030097,1950,Helpful Sales and Repair Service ,9,Australia,AU,1949,SC,Ms.,Rachel,B.,Valdez,0
+295,30098,AW00030098,1952,Large Bike Shop,6,Canada,CA,1951,SC,Ms.,Esther,K.,Valle,1
+296,30099,AW00030099,1954,Recreation Supplies,5,Southeast,US,1953,SC,Mr.,H.,Brian,Valentine,0
+297,30100,AW00030100,1956,Wire Baskets and Parts,4,Southwest,US,1955,SC,Mr.,Jessie,E.,Valerio,2
+298,30101,AW00030101,1958,Ultimate Bicycle Company,7,France,FR,1957,SC,Mr.,Johnathan,,Van Eaton,2
+299,30102,AW00030102,1960,Sports Store,10,United Kingdom,GB,1959,SC,Mr.,Roger,,Van Houten,0
+300,30103,AW00030103,1962,Metropolitan Equipment,7,France,FR,1961,SC,Ms.,Mandy,,Vance,2
+301,30104,AW00030104,1964,Extended Tours,10,United Kingdom,GB,1963,SC,Ms.,Rose,M.,Vandenouer,0
+302,30105,AW00030105,1966,Convenient Sales and Service,1,Northwest,US,1965,SC,Mr.,Gregory,T.,Vanderbout,0
+303,30106,AW00030106,1968,Solid Bike Parts,4,Southwest,US,1967,SC,Mr.,Michael,,Vanderhyde,0
+304,30107,AW00030107,1970,Permanent Finish Products,1,Northwest,US,1969,SC,Ms.,Margaret,J.,Vanderkamp,0
+305,30108,AW00030108,1972,Mercantile Outlet,6,Canada,CA,1971,SC,Ms.,Kara,N.,Vanderlinden,0
+306,30109,AW00030109,1976,Exhilarating Cycles,3,Central,US,1975,SC,Mr.,Nieves,J.,Vargas,0
+307,30110,AW00030110,1978,Exercise Center,4,Southwest,US,1977,SC,Mr.,Gary,T,Vargas,2
+308,30111,AW00030111,1980,Great Bicycle Supply,3,Central,US,1979,SC,Mr.,Ranjit,Rudra,Varkey Chudukatil,1
+309,30112,AW00030112,1982,Mail-Order Outlet,1,Northwest,US,1981,SC,Ms.,Patricia,M.,Vasquez,0
+310,30113,AW00030113,1984,Nearby Cycle Shop,10,United Kingdom,GB,1983,SC,Mr.,Raja,D.,Venugopal,0
+311,30114,AW00030114,1986,Recreation Toy Store,7,France,FR,1985,SC,Mr.,Kevin,,Verboort,0
+312,30115,AW00030115,1988,Retreat Inn,6,Canada,CA,1987,SC,Ms.,Dora,P.,Verdad,2
+313,30116,AW00030116,1990,Technical Parts Manufacturing,4,Southwest,US,1989,SC,Ms.,Wanda,F.,Vernon,0
+314,30117,AW00030117,1992,Totes & Baskets Company,4,Southwest,US,1991,SC,Mr.,Robert,R.,Vessa,0
+315,30118,AW00030118,1994,World of Bikes,3,Central,US,1993,SC,Ms.,Caroline,A.,Vicknair,0
+316,29484,AW00029484,292,Next-Door Bike Store,5,Southeast,US,291,SC,Mr.,Gustavo,,Achong,2
+317,29485,AW00029485,294,Professional Sales and Service,4,Southwest,US,293,SC,Ms.,Catherine,R.,Abel,1
+318,29486,AW00029486,296,Riders Company,3,Central,US,295,SC,Ms.,Kim,,Abercrombie,0
+319,29487,AW00029487,298,The Bike Mechanics,2,Northeast,US,297,SC,Sr.,Humberto,,Acevedo,2
+320,29488,AW00029488,300,Nationwide Supply,9,Australia,AU,299,SC,Sra.,Pilar,,Ackerman,0
+321,29489,AW00029489,302,Area Bike Accessories,4,Southwest,US,301,SC,Ms.,Frances,B.,Adams,1
+322,29490,AW00029490,304,Bicycle Accessories and Kits,1,Northwest,US,303,SC,Ms.,Margaret,J.,Smith,0
+323,29491,AW00029491,306,Clamps & Brackets Co.,5,Southeast,US,305,SC,Ms.,Carla,J.,Adams,0
+324,29492,AW00029492,308,Valley Bicycle Specialists,3,Central,US,307,SC,Mr.,Jay,,Adams,1
+325,29493,AW00029493,310,New Bikes Company,5,Southeast,US,309,SC,Mr.,Ronald,L.,Adina,0
+326,29494,AW00029494,312,Vinyl and Plastic Goods Corporation,6,Canada,CA,311,SC,Mr.,Samuel,N.,Agcaoili,0
+327,29495,AW00029495,314,Top of the Line Bikes,8,Germany,DE,313,SC,Mr.,James,T.,Aguilar,1
+328,29496,AW00029496,316,Fun Toys and Bikes,4,Southwest,US,315,SC,Mr.,Robert,E.,Ahlering,0
+329,29497,AW00029497,318,Great Bikes ,1,Northwest,US,317,SC,Mr.,François,,Ferrier,1
+330,29498,AW00029498,320,Metropolitan Sales and Rental,2,Northeast,US,319,SC,Ms.,Kim,,Akers,2
+331,29499,AW00029499,324,Valley Toy Store,6,Canada,CA,323,SC,Ms.,Amy,E.,Alberts,1
+332,29500,AW00029500,326,Worthwhile Activity Store,5,Southeast,US,325,SC,Ms.,Anna,A.,Albright,1
+333,29501,AW00029501,328,Purchase Mart,2,Northeast,US,327,SC,Mr.,Milton,J.,Albury,0
+334,29502,AW00029502,330,Major Sport Suppliers,1,Northwest,US,329,SC,Mr.,Paul,L.,Alcorn,1
+335,29503,AW00029503,332,Family's Favorite Bike Shop,6,Canada,CA,331,SC,Mr.,Gregory,F.,Alderson,0
+336,29504,AW00029504,334,Global Plaza,5,Southeast,US,333,SC,Mr.,J. Phillip,L.,Alexander,1
+337,29505,AW00029505,336,Imported and Domestic Cycles,1,Northwest,US,335,SC,Ms.,Michelle,,Alexander,2
+338,29506,AW00029506,338,Systematic Sales,4,Southwest,US,337,SC,Mr.,Sean,P.,Jacobson,2
+339,29507,AW00029507,340,eCommerce Bikes,5,Southeast,US,339,SC,Ms.,Phyllis,A.,Allen,1
+340,29508,AW00029508,342,Mountain Toy Store,4,Southwest,US,341,SC,Mr.,Marvin,N.,Allen,0
+341,29509,AW00029509,344,Retail Sales and Service,2,Northeast,US,343,SC,Mr.,Michael,,Allen,2
+342,29510,AW00029510,346,Designated Distributors,6,Canada,CA,345,SC,Mr.,Cecil,J.,Allison,0
+343,29511,AW00029511,348,Bold Bike Accessories,3,Central,US,347,SC,Mr.,Oscar,L.,Alpuerto,1
+344,29512,AW00029512,350,Twin Cycles,9,Australia,AU,349,SC,Ms.,Sandra,J.,Altamirano,0
+345,29513,AW00029513,352,Tiny Bike Boutique,5,Southeast,US,351,SC,Ms.,Selena,R.,Alvarado,0
+346,29514,AW00029514,354,Acclaimed Bicycle Company,5,Southeast,US,353,SC,Mr.,Emilio,R.,Alvaro,1
+347,29515,AW00029515,356,Serious Cycles,6,Canada,CA,355,SC,Mr.,Maxwell,J.,Amland,0
+348,29516,AW00029516,358,Quality Bike Sales,9,Australia,AU,357,SC,Ms.,Mae,N.,Anderson,0
+349,29517,AW00029517,360,Novelty Bikes,3,Central,US,359,SC,Ms.,Ramona,J.,Antrim,0
+350,29518,AW00029518,362,Distinctive Cycles Sales & Service,5,Southeast,US,361,SC,Ms.,Sabria,B.,Appelbaum,0
+351,29519,AW00029519,364,Leading Bike Distributors,5,Southeast,US,363,SC,Ms.,Hannah,R.,Arakawa,0
+352,29520,AW00029520,366,Activity Center,5,Southeast,US,365,SC,Ms.,Kyley,J.,Arbelaez,1
+353,29521,AW00029521,368,Brightwork Company,1,Northwest,US,367,SC,Mr.,Tom,H,Johnston,1
+354,29522,AW00029522,370,Resale Services,4,Southwest,US,369,SC,Mr.,Thomas,B.,Armstrong,0
+355,29523,AW00029523,372,The Gear Store,4,Southwest,US,371,SC,Mr.,John,,Arthur,0
+356,29524,AW00029524,374,Immense Manufacturing Company,3,Central,US,373,SC,Mr.,Chris,,Ashton,1
+357,29525,AW00029525,376,Extended Bike Sales,4,Southwest,US,375,SC,Ms.,Teresa,,Atkinson,0
+358,29526,AW00029526,378,Pedaling Components,8,Germany,DE,377,SC,Mr.,John,P.,Ault,0
+359,29527,AW00029527,380,Workout Emporium,6,Canada,CA,379,SC,Mr.,Robert,A.,Avalos,0
+360,29528,AW00029528,382,Work and Play Association,3,Central,US,381,SC,Mr.,Stephen,M.,Ayers,0
+361,29529,AW00029529,384,Seaside Bike Works,9,Australia,AU,383,SC,Mr.,Phillip,M.,Bacalzo,0
+362,29530,AW00029530,386,Nice Bikes,6,Canada,CA,385,SC,Mr.,Daniel,,Blanco,0
+363,29531,AW00029531,388,Remarkable Bike Store,1,Northwest,US,387,SC,Mr.,Cory,K.,Booth,1
+364,29532,AW00029532,390,Road-Way Mart,1,Northwest,US,389,SC,Mr.,James,B.,Bailey,0
+365,29533,AW00029533,392,Small Cycle Store,3,Central,US,391,SC,Mr.,Douglas,A.,Baldwin,0
+366,29534,AW00029534,394,Blue-Ribbon Bike Company,5,Southeast,US,393,SC,Ms.,Jennifer,B.,Bales,1
+367,29535,AW00029535,398,Grand Bicycle Stores,4,Southwest,US,397,SC,Mr.,Wayne,N.,Banack,2
+368,29536,AW00029536,406,Kickstand Sellers,3,Central,US,405,SC,Mr.,Robert,L.,Barker,0
+369,29537,AW00029537,408,Nearest Bike Store,9,Australia,AU,407,SC,Ms.,Rebecca,R.,Barley,2
+370,29538,AW00029538,410,Fast Bike Works,9,Australia,AU,409,SC,Ms.,Brenda,L.,Barlow,1
+371,29539,AW00029539,412,Gasless Cycle Shop,6,Canada,CA,411,SC,Mr.,Josh,,Barnhill,0
+372,29540,AW00029540,414,Lubricant and Grease Suppliers,5,Southeast,US,413,SC,Mr.,Adam,,Barr,1
+373,29541,AW00029541,418,Transportation Options,6,Canada,CA,417,SC,,Gytis,M,Barzdukas,0
+374,29542,AW00029542,420,Capital Riding Supplies,8,Germany,DE,419,SC,Mr.,David,M.,Bartness,0
+375,29543,AW00029543,422,Bike Boutique,2,Northeast,US,421,SC,Ms.,Karel,E.,Bates,1
+376,29544,AW00029544,428,Finer Cycle Shop,6,Canada,CA,427,SC,Mr.,Shaun,,Beasley,1
+377,29545,AW00029545,430,Center Cycle Shop,1,Northwest,US,429,SC,Mr.,John,A.,Beaver,0
+378,29546,AW00029546,432,Bulk Discount Store,10,United Kingdom,GB,431,SC,Mr.,Christopher,R.,Beck,0
+379,29547,AW00029547,436,Second Bike Shop,9,Australia,AU,435,SC,Mr.,Benjamin,J.,Becker,0
+380,29548,AW00029548,438,First-Rate Outlet,6,Canada,CA,437,SC,Ms.,Ann,,Beebe,0
+381,29549,AW00029549,440,Juvenile Sports Equipment,5,Southeast,US,439,SC,Mr.,Shane,J.,Belli,1
+382,29550,AW00029550,442,Another Bicycle Company,1,Northwest,US,441,SC,Mr.,Stanley,A.,Alan,0
+383,29551,AW00029551,444,Fourth Bike Store,2,Northeast,US,443,SC,Mr.,Mason,,Bendixen,0
+384,29552,AW00029552,446,Rodeway Bike Store,8,Germany,DE,445,SC,Mr.,John,M.,Bennetts,0
+385,29553,AW00029553,450,Unsurpassed Bikes,4,Southwest,US,449,SC,Ms.,Edna,J.,Benson,0
+386,29554,AW00029554,452,Field Trip Inc,3,Central,US,451,SC,Mr.,Payton,P.,Benson,0
+387,29555,AW00029555,454,Tire Company,2,Northeast,US,453,SC,Mr.,Max,,Benson,0
+388,29556,AW00029556,456,Uncompromising Quality Co,9,Australia,AU,455,SC,Mr.,Scot,A.,Bent,0
+389,29557,AW00029557,464,Odometers and Accessories Company,6,Canada,CA,463,SC,Mr.,Alexander,J.,Berger,1
+390,29558,AW00029558,466,Scratch-Resistant Finishes Company,6,Canada,CA,465,SC,Mr.,John,M.,Berger,0
+391,29559,AW00029559,472,Safe Cycles Shop,1,Northwest,US,471,SC,Mr.,Robert,M.,Bernacchi,1
+392,29560,AW00029560,474,Number 1 Supply,4,Southwest,US,473,SC,Mr.,Matthias,,Berndt,1
+393,29561,AW00029561,476,Industrial Supplies,5,Southeast,US,475,SC,,John,,Berry,0
+394,29562,AW00029562,478,Golf and Cycle Store,4,Southwest,US,477,SC,Mr.,Steven,B.,Brown,0
+395,29563,AW00029563,480,Front Runner Bikes,5,Southeast,US,479,SC,Mr.,Chris,N.,Bidelman,0
+396,29564,AW00029564,482,Favorite Toy Distributor,7,France,FR,481,SC,Ms.,Mary,B.,Billstrom,1
+397,29565,AW00029565,484,World Bike Discount Store,4,Southwest,US,483,SC,Mr.,Jimmy,,Bischoff,1
+398,29566,AW00029566,488,Historic Bicycle Sales,3,Central,US,487,SC,Ms.,Mae,M.,Black,2
+399,29567,AW00029567,490,Commuter Bicycle Store,6,Canada,CA,489,SC,Ms.,Jackie,E.,Blackwell,1
+400,29568,AW00029568,492,Coalition Bike Company,4,Southwest,US,491,SC,Mr.,Donald,L.,Blanton,0
+401,29569,AW00029569,494,Travel Systems,3,Central,US,493,SC,Ms.,Linda,E.,Burnett,2
+402,29570,AW00029570,496,Grease and Oil Products Company,4,Southwest,US,495,SC,Mr.,Michael,Greg,Blythe,0
+403,29571,AW00029571,498,Moderately-Priced Bikes Store,1,Northwest,US,497,SC,Ms.,Gabriel,L.,Bockenkamp,0
+404,29572,AW00029572,502,Eighty Toy Stores,5,Southeast,US,501,SC,Ms.,Corinna,,Bolender,0
+405,29573,AW00029573,504,Economy Bikes Company,4,Southwest,US,503,SC,Sr.,Luis,,Bonifaz,2
+406,29574,AW00029574,506,Third Bike Store,4,Southwest,US,505,SC,Mr.,Randall,,Boseman,2
+407,29575,AW00029575,508,Atypical Bike Company,7,France,FR,507,SC,Ms.,Stephanie,,Bourne,0
+408,29576,AW00029576,510,Bikes for Two,6,Canada,CA,509,SC,Mr.,Eli,,Bowen,1
+409,29577,AW00029577,512,Metal Processing Company,6,Canada,CA,511,SC,Mr.,Lester,J.,Bowman,0
+410,29578,AW00029578,514,Widget Bicycle Specialists,5,Southeast,US,513,SC,Mr.,David,M.,Bradley,1
+411,29579,AW00029579,516,Initial Bike Company,3,Central,US,515,SC,Mr.,Cornelius,L.,Brandon,0
+412,29580,AW00029580,518,Latest Sports Equipment,1,Northwest,US,517,SC,Mr.,Richard,,Bready,0
+413,29581,AW00029581,520,Modern Bike Store,2,Northeast,US,519,SC,Ms.,Sara,N.,Breer,0
+414,29582,AW00029582,522,Raw Materials Inc,1,Northwest,US,521,SC,Mr.,Ted,,Bremer,1
+415,29583,AW00029583,524,Lots of Bikes Storehouse,3,Central,US,523,SC,Mr.,Alan,,Brewer,1
+416,29584,AW00029584,526,Futuristic Bikes,4,Southwest,US,525,SC,Mr.,Walter,J.,Brian,1
+417,29585,AW00029585,528,Parcel Express Delivery Service,1,Northwest,US,527,SC,Mr.,Christopher,M.,Bright,0
+418,29586,AW00029586,532,North Bike Company,8,Germany,DE,531,SC,Mr.,David,J.,Brink,1
+419,29587,AW00029587,534,Prosperous Tours,10,United Kingdom,GB,533,SC,Mr.,John,R.,Brooks,0
+420,29588,AW00029588,536,Nonskid Tire Company,1,Northwest,US,535,SC,Mr.,Willie,P.,Brooks,2
+421,29589,AW00029589,538,Amalgamated Parts Shop,8,Germany,DE,537,SC,Ms.,Carolee,J.,Brown,0
+422,29590,AW00029590,540,Metro Bike Works,3,Central,US,539,SC,Mr.,Jo,,Brown,1
+423,29591,AW00029591,542,Best o' Bikes,3,Central,US,541,SC,Mr.,Robert,,Brown,0
+424,29592,AW00029592,544,Painters Bicycle Specialists,2,Northeast,US,543,SC,Mr.,Kevin,F.,Browne,1
+425,29593,AW00029593,546,Client Discount Store,3,Central,US,545,SC,Ms.,Mary,K.,Browning,1
+426,29594,AW00029594,548,Eastside Sporting Goods,2,Northeast,US,547,SC,Mr.,Dave,P.,Browning,0
+427,29595,AW00029595,550,Helmets and Cycles,9,Australia,AU,549,SC,Ms.,Bridget,E.,Browqett,1
+428,29596,AW00029596,552,Requisite Part Supply,6,Canada,CA,551,SC,Mr.,Eric,J.,Brumfield,0
+429,29597,AW00029597,554,Racks and Security Systems,5,Southeast,US,553,SC,Mr.,Dick,R.,Brummer,0
+430,29598,AW00029598,556,Mechanical Products Ltd.,4,Southwest,US,555,SC,Mr.,Michael,,Brundage,0
+431,29599,AW00029599,558,Commendable Bikes,1,Northwest,US,557,SC,Ms.,Shirley,R.,Bruner,2
+432,29600,AW00029600,560,Online Bike Sellers,3,Central,US,559,SC,Ms.,June,B.,Brunner,0
+433,29601,AW00029601,562,Custom Accessories Company,6,Canada,CA,561,SC,Mr.,Dirk,J.,Bruno,0
+434,29602,AW00029602,564,Unusual Bicycle Company,9,Australia,AU,563,SC,Ms.,Nancy,,Buchanan,0
+435,29603,AW00029603,566,Courteous Bicycle Specialists,6,Canada,CA,565,SC,Sra.,Janaina Barreiro Gambaro,,Bueno,1
+436,29604,AW00029604,568,Hobby Store,5,Southeast,US,567,SC,Mr.,Edward,T.,Buensalido,0
+437,29605,AW00029605,570,Professional Cycle Store,4,Southwest,US,569,SC,Ms.,Megan,E.,Burke,2
+438,29606,AW00029606,574,Fifth Bike Store,1,Northwest,US,573,SC,Ms.,Karren,K.,Burkhardt,0
+439,29607,AW00029607,578,Rambling Tours,8,Germany,DE,577,SC,Ms.,Dana,H.,Burnell,0
+440,29608,AW00029608,580,Farthest Bike Store,6,Canada,CA,579,SC,Mr.,Timothy,B.,Burnett,2
+441,29609,AW00029609,582,Excellent Bikes,8,Germany,DE,581,SC,Mr.,Stephen,R.,Burton,0
+442,29610,AW00029610,584,Curbside Universe,2,Northeast,US,583,SC,Ms.,Deanna,R.,Buskirk,1
+443,29611,AW00029611,586,Alternative Vehicles,1,Northwest,US,585,SC,Mr.,Jared,L.,Bustamante,0
+444,29612,AW00029612,588,Channel Outlet,10,United Kingdom,GB,587,SC,Mr.,Richard,A.,Byham,2
+445,29613,AW00029613,590,Full Sports Supply,7,France,FR,589,SC,Mr.,David,J.,Byrnes,1
+446,29614,AW00029614,592,Retail Mall,6,Canada,CA,591,SC,Mr.,Ryan,,Calafato,1
+447,29615,AW00029615,596,Metro Metals Co.,10,United Kingdom,GB,595,SC,Ms.,Mari,B.,Caldwell,2
+448,29616,AW00029616,598,Sheet Metal Manufacturing,4,Southwest,US,597,SC,Ms.,Barbara,J.,Calone,0
+449,29617,AW00029617,600,Thorough Parts and Repair Services,1,Northwest,US,599,SC,Ms.,Lindsey,R.,Camacho,0
+450,29618,AW00029618,602,Uttermost Bike Shop,10,United Kingdom,GB,601,SC,Sr.,Gustavo,,Camargo,0
+451,29619,AW00029619,604,Mechanical Sports Center,2,Northeast,US,603,SC,Ms.,DeeDee,J.,Cameron,1
+452,29620,AW00029620,608,Two-Wheeled Transit Company,6,Canada,CA,607,SC,Ms.,Joan,M.,Campbell,0
+453,29621,AW00029621,610,Mountain Emporium,5,Southeast,US,609,SC,Mr.,David,,Campbell,2
+454,29622,AW00029622,612,Metro Cycle Shop,1,Northwest,US,611,SC,Mr.,Henry,L.,Campen,2
+455,29623,AW00029623,614,Outdoor Sporting Goods,4,Southwest,US,613,SC,Mr.,Chris,,Cannon,0
+456,29624,AW00029624,616,Tread Industries,5,Southeast,US,615,SC,Mr.,Joseph,J.,Cantoni,0
+457,29625,AW00029625,618,Petroleum Products Distributors,6,Canada,CA,617,SC,Ms.,Suzana De Abreu,A.,Canuto,2
+458,29626,AW00029626,620,Tandem Bicycle Store,5,Southeast,US,619,SC,Mr.,Jun,,Cao,0
+459,29627,AW00029627,622,Bikes and Motorbikes,6,Canada,CA,621,SC,Mr.,Johnny,A.,Caprio,0
+460,29628,AW00029628,624,Budget Toy Store,9,Australia,AU,623,SC,Mr.,Richard,,Carey,1
+461,29629,AW00029629,626,Camping and Sports Store,6,Canada,CA,625,SC,Mr.,Carlton,M.,Carlisle,0
+462,29630,AW00029630,628,Ace Bicycle Supply,7,France,FR,627,SC,Mr.,Ty Loren,,Carlson,0
+463,29631,AW00029631,630,Rural Department Store,4,Southwest,US,629,SC,Ms.,Jane,N.,Carmichael,1
+464,29632,AW00029632,632,Sports Commodities,1,Northwest,US,631,SC,Ms.,Jovita,A.,Carmody,0
+465,29633,AW00029633,634,Riverside Company,2,Northeast,US,633,SC,Mr.,Steve,J.,Carnes,2
+466,29634,AW00029634,636,Bicycle Exporters,8,Germany,DE,635,SC,Mr.,Fernando,,Caro,1
+467,29635,AW00029635,638,Responsible Bike Dealers,3,Central,US,637,SC,Mr.,Rob,,Caron,0
+468,29636,AW00029636,640,Western Bike Supplies,1,Northwest,US,639,SC,Mr.,Andy,,Carothers,0
+469,29637,AW00029637,642,Advanced Bike Components,4,Southwest,US,641,SC,Ms.,Donna,F.,Carreras,1
+470,29638,AW00029638,644,Aerobic Exercise Company,4,Southwest,US,643,SC,Ms.,Rosmarie,J.,Carroll,0
+471,29639,AW00029639,648,Corner Bicycle Supply,6,Canada,CA,647,SC,Mr.,Joseph,N.,Castellucio,2
+472,29640,AW00029640,650,Distance Bikes,5,Southeast,US,649,SC,Ms.,Pamela,A.,Carlson,2
+473,29641,AW00029641,652,Westside Plaza,4,Southwest,US,651,SC,Mr.,Raul,E.,Casts,0
+474,29642,AW00029642,654,Ultimate Bike Shop,5,Southeast,US,653,SC,Ms.,Elizabeth,E.,Catalano,0
+475,29643,AW00029643,656,Outstanding Cycles,1,Northwest,US,655,SC,Mr.,Matthew,J.,Cavallari,0
+476,29644,AW00029644,658,Vigorous Sports Store,10,United Kingdom,GB,657,SC,Ms.,Brigid,F.,Cavendish,1
+477,29645,AW00029645,660,Sports Merchandise,1,Northwest,US,659,SC,Mr.,Andrew,,Cencini,0
+478,29646,AW00029646,662,Fitness Toy Store,4,Southwest,US,661,SC,Ms.,Stacey,M.,Cereghino,1
+479,29647,AW00029647,664,Casual Bicycle Store,2,Northeast,US,663,SC,Mr.,Baris,,Cetinok,1
+480,29648,AW00029648,666,Fitness Discount Store,9,Australia,AU,665,SC,Mr.,Sean,,Chai,0
+481,29649,AW00029649,668,General Cycle Storehouse,6,Canada,CA,667,SC,Mr.,Pat,A.,Chambers,0
+482,29650,AW00029650,670,Fitness Cycling,4,Southwest,US,669,SC,Mr.,Forrest,J.,Chandler,1
+483,29651,AW00029651,672,Good Bike Shop,3,Central,US,671,SC,Mr.,Lee,J.,Chapla,2
+484,29652,AW00029652,676,Inexpensive Parts Shop,9,Australia,AU,675,SC,Mr.,Neil,,Charney,2
+485,29653,AW00029653,682,Thrilling Bike Tours,4,Southwest,US,681,SC,Mr.,Pei,,Chow,0
+486,29654,AW00029654,684,This Area Sporting Goods,3,Central,US,683,SC,Mr.,Yao-Qiang,,Cheng,1
+487,29655,AW00029655,686,Full-Service Bike Store,3,Central,US,685,SC,Ms.,Nicky,E.,Chesnut,2
+488,29656,AW00029656,688,Plastic Products Manufacturers,9,Australia,AU,687,SC,Ms.,Susan,B.,Chestnut,0
+489,29657,AW00029657,690,Kids and Adults Cycle Shop,9,Australia,AU,689,SC,Mr.,Martin,,Chisholm,0
+490,29658,AW00029658,692,Grand Discount Store,2,Northeast,US,691,SC,Mr.,Mike,M.,Choi,0
+491,29659,AW00029659,694,Genuine Bike Shop,4,Southwest,US,693,SC,Ms.,Ruth,A.,Choin,0
+492,29660,AW00029660,696,Extreme Riding Supplies,4,Southwest,US,695,SC,Mr.,Anthony,,Chor,1
+493,29661,AW00029661,698,Bike Rims Company,5,Southeast,US,697,SC,Mr.,Charles,M.,Christensen,2
+494,29662,AW00029662,700,Fleet Bikes,4,Southwest,US,699,SC,Ms.,Jill,J.,Christie,0
+495,29663,AW00029663,702,Local Hardware Factory,3,Central,US,701,SC,Ms.,Alice,,Clark,1
+496,29664,AW00029664,704,Only Bikes and Accessories,2,Northeast,US,703,SC,Ms.,Gina,N.,Clark,2
+497,29665,AW00029665,706,Rental Gallery,9,Australia,AU,705,SC,Mr.,James,J.,Clark,2
+498,29666,AW00029666,708,South Bike Company,6,Canada,CA,707,SC,Ms.,Jane,,Clayton,0
+499,29667,AW00029667,710,Wonderful Bikes Inc.,5,Southeast,US,709,SC,Ms.,Kristine,J.,Cleary,2
+500,29668,AW00029668,714,Discount Bicycle Specialists,3,Central,US,713,SC,Ms.,Connie,L.,Coffman,0
+501,29669,AW00029669,716,Famous Bike Sales and Service,2,Northeast,US,715,SC,Ms.,Jeanette,R.,Cole,2
+502,29670,AW00029670,718,First Supplies,9,Australia,AU,717,SC,Mr.,Eric,E.,Coleman,0
+503,29671,AW00029671,720,Machines & Cycles Store,6,Canada,CA,719,SC,Mr.,Pat,,Coleman,0
+504,29672,AW00029672,722,Pedals Warehouse,5,Southeast,US,721,SC,Mr.,Takiko,J.,Collins,0
+505,29673,AW00029673,724,Two Wheels Cycle Store,4,Southwest,US,723,SC,Mr.,John,L.,Colon,0
+506,29674,AW00029674,726,Westside Cycle Store,3,Central,US,725,SC,Mr.,Scott,A.,Colvin,2
+507,29675,AW00029675,728,Wholesale Bikes,2,Northeast,US,727,SC,Mr.,Aaron,,Con,0
+508,29676,AW00029676,730,Very Best Sports Supply,8,Germany,DE,729,SC,Mr.,Peter,,Connelly,0
+509,29677,AW00029677,732,Urban Sports Emporium,6,Canada,CA,731,SC,Mr.,William,J.,Conner,0
+510,29678,AW00029678,734,Superlative Bikes,5,Southeast,US,733,SC,Ms.,Stephanie,,Conroy,0
+511,29679,AW00029679,736,Primary Cycle Shop,8,Germany,DE,735,SC,Ms.,Amy,R.,Consentino,0
+512,29680,AW00029680,738,Sixth Bike Store,6,Canada,CA,737,SC,Ms.,Dorothy,J.,Contreras,0
+513,29681,AW00029681,740,Touring Services,5,Southeast,US,739,SC,Mr.,Patrick,M.,Cook,0
+514,29682,AW00029682,742,Vehicle Shop,4,Southwest,US,741,SC,Mr.,Scott,,Cooper,0
+515,29683,AW00029683,744,First Department Stores,1,Northwest,US,743,SC,Ms.,Eva,,Corets,1
+516,29684,AW00029684,746,Grand Sport Boutique,3,Central,US,745,SC,Mr.,Marlin,M.,Coriell,0
+517,29685,AW00029685,752,Elemental Sporting Goods,5,Southeast,US,751,SC,Ms.,Pamela,R.,Cox,1
+518,29686,AW00029686,754,Distinctive Store,4,Southwest,US,753,SC,Mr.,Jack,,Creasey,2
+519,29687,AW00029687,758,Nearby Bike Mall,8,Germany,DE,757,SC,Ms.,Shelley,R.,Crow,0
+520,29688,AW00029688,760,Handy Bike Services,3,Central,US,759,SC,Mr.,Grant,,Culbertson,0
+521,29689,AW00029689,762,Friendly Bike Shop,1,Northwest,US,761,SC,Mr.,Scott,,Culp,0
+522,29690,AW00029690,764,Fashionable Bikes and Accessories,1,Northwest,US,763,SC,Mr.,Conor,,Cunningham,0
+523,29691,AW00029691,766,Extreme Toy Store,5,Southeast,US,765,SC,Mr.,Jose,M.,Curry,0
+524,29692,AW00029692,768,Citywide Service and Repair,6,Canada,CA,767,SC,Mr.,Thierry,,D'Hers,0
+525,29693,AW00029693,770,Best Cycle Store,8,Germany,DE,769,SC,Mr.,Ryan,,Danner,2
+526,29694,AW00029694,772,Professional Sporting Goods,2,Northeast,US,771,SC,Mr.,Mike,,Danseglio,0
+527,29695,AW00029695,774,Rugged Bikes,1,Northwest,US,773,SC,Ms.,Megan,N.,Davis,0
+528,29696,AW00029696,776,Principal Bike Company,4,Southwest,US,775,SC,Sr.,Alvaro,,De Matos Miranda Filho,1
+529,29697,AW00029697,778,One-Piece Handle Bars,5,Southeast,US,777,SC,Mr.,Jose,,De Oliveira,2
+530,29698,AW00029698,780,Finer Riding Supplies,6,Canada,CA,779,SC,Mr.,Jacob,N.,Dean,1
+531,29699,AW00029699,782,Neighborhood Store,6,Canada,CA,781,SC,Mr.,Alexander,J.,Deborde,0
+532,29700,AW00029700,784,Online Bike Catalog,9,Australia,AU,783,SC,Ms.,Barbara,S.,Decker,0
+533,29701,AW00029701,786,Outdoor Equipment Store,2,Northeast,US,785,SC,Mr.,Kirk,,DeGrasse,0
+534,29702,AW00029702,788,Paint Supply,4,Southwest,US,787,SC,Ms.,Aidan,,Delaney,0
+535,29703,AW00029703,790,Preferred Bikes,4,Southwest,US,789,SC,Mr.,Stefan,,Delmarco,2
+536,29704,AW00029704,792,Rally Day Mall,5,Southeast,US,791,SC,Mr.,Shawn,R.,Demicell,2
+537,29705,AW00029705,794,Rewarding Activities Company,6,Canada,CA,793,SC,Ms.,Della,F.,Demott Jr,0
+538,29706,AW00029706,796,Rich Department Store,9,Australia,AU,795,SC,Mr.,Bruno,,Deniut,2
+539,29707,AW00029707,798,Sales and Supply Company,5,Southeast,US,797,SC,Ms.,Helen,J.,Dennis,2
+540,29708,AW00029708,800,Stationary Bikes and Stands,4,Southwest,US,799,SC,Mr.,Prashanth,,Desai,2
+541,29709,AW00029709,802,Successful Sales Company,1,Northwest,US,801,SC,Ms.,Bev,L.,Desalvo,1
+542,29710,AW00029710,804,Downtown Hotel,1,Northwest,US,803,SC,Ms.,Brenda,,Diaz,0
+543,29711,AW00029711,806,Certified Sports Supply,6,Canada,CA,805,SC,Ms.,Gabriele,,Dickmann,0
+544,29712,AW00029712,808,Registered Cycle Store,7,France,FR,807,SC,Ms.,Holly,,Dickson,0
+545,29713,AW00029713,810,Rampart Amusement Company,10,United Kingdom,GB,809,SC,Mr.,Dick,,Dievendorff,2
+546,29714,AW00029714,812,Sundry Sporting Goods,6,Canada,CA,811,SC,Mr.,Rudolph,J.,Dillon,0
+547,29715,AW00029715,814,Excellent Riding Supplies,5,Southeast,US,813,SC,Mr.,Andrew,,Dixon,0
+548,29716,AW00029716,816,Farthermost Bike Shop,4,Southwest,US,815,SC,Mr.,Blaine,,Dockter,1
+549,29717,AW00029717,818,Suburban Cycle Shop,1,Northwest,US,817,SC,Ms.,Cindy,M.,Dodd,2
+550,29718,AW00029718,820,Weekend Tours,2,Northeast,US,819,SC,Mr.,John,T.,Donovan,1
+551,29719,AW00029719,822,Racing Bike Outlet,1,Northwest,US,821,SC,Ms.,Patricia,,Doyle,0
+552,29720,AW00029720,824,Utilitarian Sporting Goods,1,Northwest,US,823,SC,Mr.,Gerald,M.,Drury,0
+553,29721,AW00029721,826,Bike Goods ,5,Southeast,US,825,SC,Mr.,Gary,T.,Drury,1
+554,29722,AW00029722,828,Vigorous Exercise Company,6,Canada,CA,827,SC,Mr.,Reuben,,D'sa,0
+555,29723,AW00029723,830,Showcase for Cycles,8,Germany,DE,829,SC,Mr.,Ed,,Dudenhoefer,0
+556,29724,AW00029724,832,Lease-a-Bike Shop,2,Northeast,US,831,SC,Mr.,Bernard,,Duerr,0
+557,29725,AW00029725,834,Functional Store South,8,Germany,DE,833,SC,Ms.,Tish,R.,Duff,2
+558,29726,AW00029726,836,Active Cycling,2,Northeast,US,835,SC,Sr.,Adrian,,Dumitrascu,0
+559,29727,AW00029727,838,Stock Parts and Supplies,1,Northwest,US,837,SC,Mr.,Bart,,Duncan,1
+560,29728,AW00029728,840,Roadway Supplies,1,Northwest,US,839,SC,Mr.,Maciej,,Dusza,1
+561,29729,AW00029729,842,Sensational Discount Store,5,Southeast,US,841,SC,Ms.,Shelley,,Dyck,0
+562,29730,AW00029730,844,Future Bikes,6,Canada,CA,843,SC,Ms.,Linda,R.,Ecoffey,2
+563,29731,AW00029731,846,Super Sports Store,2,Northeast,US,845,SC,Ms.,Carla,L.,Eldridge,0
+564,29732,AW00029732,848,Satin Finish Company,4,Southwest,US,847,SC,Ms.,Carol,B.,Elliott,2
+565,29733,AW00029733,850,Regional Manufacturing,4,Southwest,US,849,SC,Ms.,Shannon,P.,Elliott,0
+566,29734,AW00029734,852,Original Bicycle Supply Company,6,Canada,CA,851,SC,Ms.,Jauna,E.,Elson,1
+567,29735,AW00029735,854,First Center,7,France,FR,853,SC,Mr.,Michael,,Emanuel,0
+568,29736,AW00029736,856,Action Bicycle Specialists,10,United Kingdom,GB,855,SC,Mr.,Terry,,Eminhizer,0
+569,29737,AW00029737,858,Roadway Bike Emporium,1,Northwest,US,857,SC,Mr.,John,,Emory,1
+570,29738,AW00029738,860,Sleek Bikes ,3,Central,US,859,SC,Ms.,Gail,,Erickson,1
+571,29739,AW00029739,862,Retail Sporting Equipment,4,Southwest,US,861,SC,Mr.,Mark,B,Erickson,2
+572,29740,AW00029740,864,Price-Cutter Discount Bikes,6,Canada,CA,863,SC,Ms.,Martha,R.,Espinoza,1
+573,29741,AW00029741,868,Central Bicycle Specialists,10,United Kingdom,GB,867,SC,Sra.,Janeth,,Esteves,1
+574,29742,AW00029742,870,Vast Bike Sales and Rental,1,Northwest,US,869,SC,Ms.,Twanna,R.,Evans,2
+575,29743,AW00029743,872,Summer Sports Place,3,Central,US,871,SC,Ms.,Ann,R.,Evans,1
+576,29744,AW00029744,874,Real Sporting Goods,4,Southwest,US,873,SC,Mr.,John,,Evans,0
+577,29745,AW00029745,876,Versatile Sporting Goods Company,8,Germany,DE,875,SC,Mr.,Marc,,Faeber,0
+578,29746,AW00029746,878,Bicycle Outfitters,2,Northeast,US,877,SC,Mr.,Fadi,,Fakhouri,0
+579,29747,AW00029747,880,The Bike Shop,1,Northwest,US,879,SC,Ms.,Carolyn,,Farino,2
+580,29748,AW00029748,882,Safe Toys,4,Southwest,US,881,SC,Ms.,Geri,P.,Farrell,1
+581,29749,AW00029749,884,Qualified Sales and Repair Services,5,Southeast,US,883,SC,Ms.,Hanying,,Feng,0
+582,29750,AW00029750,886,Our Sporting Goods Store,6,Canada,CA,885,SC,Ms.,Rhoda,J.,Finley,0
+583,29751,AW00029751,888,Lustrous Paints and Components,8,Germany,DE,887,SC,Mr.,Duane,R.,Fitzgerald,1
+584,29752,AW00029752,890,Expert Sports Store,2,Northeast,US,889,SC,Mr.,James,,Fine,0
+585,29753,AW00029753,892,Coho Sports,1,Northwest,US,891,SC,Ms.,Kathie,,Flood,0
+586,29754,AW00029754,894,Jumbo Bikes,9,Australia,AU,893,SC,Mr.,Jay,,Fluegel,0
+587,29755,AW00029755,896,Quick Delivery Service,6,Canada,CA,895,SC,Ms.,Kelly,,Focht,1
+588,29756,AW00029756,898,Tough and Reliable Parts,5,Southeast,US,897,SC,Mr.,Jeffrey,L.,Ford,0
+589,29757,AW00029757,900,Basic Sports Equipment,4,Southwest,US,899,SC,Mr.,Garth,,Fort,0
+590,29758,AW00029758,902,Cash & Carry Bikes,4,Southwest,US,901,SC,Ms.,Dorothy,J.,Fox,2
+591,29759,AW00029759,904,Convenient Bike Shop,2,Northeast,US,903,SC,Ms.,Judith,B.,Frazier,0
+592,29760,AW00029760,906,Fitness Bike Accessories,9,Australia,AU,905,SC,Mr.,John,,Fredericksen,0
+593,29761,AW00029761,908,General Bike Corporation,6,Canada,CA,907,SC,Ms.,Susan,E.,French,0
+594,29762,AW00029762,910,Quitting Business Distributors,5,Southeast,US,909,SC,Mr.,Liam,J.,Friedland,0
+595,29763,AW00029763,912,Retail Cycle Shop,4,Southwest,US,911,SC,Mr.,Mihail,,Frintu,0
+596,29764,AW00029764,914,Social Activities Club,4,Southwest,US,913,SC,Mr.,John,,Ford,2
+597,29765,AW00029765,916,Blue Bicycle Company,3,Central,US,915,SC,Mr.,Paul,J.,Fulton,2
+598,29766,AW00029766,920,General Riding Supplies,6,Canada,CA,919,SC,Mr.,Bob,,Gage,1
+599,29767,AW00029767,922,Parts Shop,5,Southeast,US,921,SC,Ms.,Aldeen,J.,Gallagher,2
+600,29768,AW00029768,924,Riding Excursions,4,Southwest,US,923,SC,Mr.,Michael,,Galos,0
+601,29769,AW00029769,926,Unique Bikes,3,Central,US,925,SC,Mr.,Jon,,Ganio,1
+602,29770,AW00029770,928,Rural Cycle Emporium,6,Canada,CA,927,SC,Ms.,Kathleen,M.,Garza,2
+603,29771,AW00029771,930,Associated Bikes,1,Northwest,US,929,SC,Mr.,Dominic,P.,Gash,0
+604,29772,AW00029772,932,Modular Cycle Systems,4,Southwest,US,931,SC,Ms.,Janet,M.,Gates,0
+605,29773,AW00029773,934,A Bike Store,1,Northwest,US,933,SC,Mr.,Orlando,N.,Gee,0
+606,29774,AW00029774,936,Journey Sporting Goods,4,Southwest,US,935,SC,Mr.,Darren,,Gehring,1
+607,29775,AW00029775,938,Two Bike Shops,1,Northwest,US,937,SC,Mr.,Jim,,Geist,0
+608,29776,AW00029776,940,Cycles Wholesaler & Mfg.,10,United Kingdom,GB,939,SC,Ms.,Barbara,J.,German,0
+609,29777,AW00029777,942,Wheels Inc.,7,France,FR,941,SC,Mr.,Tom,,Getzinger,0
+610,29778,AW00029778,944,Number One Bike Co.,10,United Kingdom,GB,943,SC,Mr.,Leo,,Giakoumakis,1
+611,29779,AW00029779,946,Racing Supply Distributors,7,France,FR,945,SC,Mr.,Cornett,L.,Gibbens,1
+612,29780,AW00029780,948,Standard Bikes,6,Canada,CA,947,SC,Mr.,Frances,J.,Giglio,2
+613,29781,AW00029781,950,The Bicycle Accessories Company,4,Southwest,US,949,SC,Mr.,Guy,,Gilbert,0
+614,29782,AW00029782,952,Active Systems,3,Central,US,951,SC,Ms.,Janet,J.,Gilliat,0
+615,29783,AW00029783,954,Futuristic Sport Distributors,3,Central,US,953,SC,Ms.,Mary,M.,Gimmi,0
+616,29784,AW00029784,958,Big-Time Bike Store,4,Southwest,US,957,SC,Ms.,Jeanie,R.,Glenn,2
+617,29785,AW00029785,960,The Showroom,6,Canada,CA,959,SC,Ms.,Diane,R.,Glimp,0
+618,29786,AW00029786,962,Spa and Exercise Outfitters,7,France,FR,961,SC,Mr.,James,R.,Glynn,0
+619,29787,AW00029787,964,Year-Round Sports,1,Northwest,US,963,SC,Mr.,Scott,,Gode,0
+620,29788,AW00029788,966,The New Bike Store,4,Southwest,US,965,SC,Mr.,Mete,,Goktepe,2
+621,29789,AW00029789,970,Primary Bike Distributors,6,Canada,CA,969,SC,Mr.,Brian,R,Goldstein,0
+622,29790,AW00029790,972,Major Bicycle Store,9,Australia,AU,971,SC,Ms.,Lynn,A.,Gonzales,0
+623,29791,AW00029791,974,Leather and Vinyl Manufacturing,2,Northeast,US,973,SC,Ms.,Linda,L.,Gonzales,0
+624,29792,AW00029792,976,Genial Bike Associates,4,Southwest,US,975,SC,Ms.,Abigail,J.,Gonzalez,0
+625,29793,AW00029793,978,Commercial Sporting Goods,4,Southwest,US,977,SC,Mr.,Michael,,Graff,2
+626,29794,AW00029794,980,Wholesale Parts,6,Canada,CA,979,SC,Mr.,Derek,,Graham,0
+627,29795,AW00029795,982,Steel Inc.,7,France,FR,981,SC,Mr.,Lowell,J.,Graham,1
+628,29796,AW00029796,984,Riding Cycles,10,United Kingdom,GB,983,SC,Mr.,Jon,,Grande,1
+629,29797,AW00029797,986,Metro Manufacturing,6,Canada,CA,985,SC,Ms.,Jane,P.,Greer,1
+630,29798,AW00029798,988,Manufacturers Inc,5,Southeast,US,987,SC,Mr.,Geoff,,Grisso,1
+631,29799,AW00029799,990,Locks Company,4,Southwest,US,989,SC,Mr.,Douglas,,Groncki,1
+632,29800,AW00029800,992,Latest Accessories Sales,1,Northwest,US,991,SC,Mr.,Brian,,Groth,1
+633,29801,AW00029801,994,Incomparable Bicycle Store,2,Northeast,US,993,SC,Ms.,Faith,M.,Gustafson,1
+634,29802,AW00029802,996,Hometown Riding Supplies,8,Germany,DE,995,SC,Mr.,Greg,,Harrison,0
+635,29803,AW00029803,998,Greater Bike Store,6,Canada,CA,997,SC,Ms.,Hattie,J.,Haemon,0
