@@ -214,8 +214,7 @@ CREATE TABLE ASDDW.MSTR.DimProduct (
 CREATE TABLE ASDDW.MSTR.DimTerritory (
 	DimTerritoryID INT,
 	Name NVARCHAR(256),
-	CountryRegionCode INT,
-	GroupName NVARCHAR(256),
+	CountryRegionCode NVARCHAR(10),
 	SalesYTD DECIMAL(12,2),
 	SalesLastYear DECIMAL(12,2),
 	CostYTD DECIMAL(12,2),
@@ -224,7 +223,6 @@ CREATE TABLE ASDDW.MSTR.DimTerritory (
 
 CREATE TABLE ASDDW.MSTR.DimShipMethod (
 	DimShipMethodID INT,
-	SRC_ID_ShipMethod INT,
 	Name NVARCHAR(256)
 );
 CREATE TABLE ASDDW.MSTR.DimSalesPerson (
